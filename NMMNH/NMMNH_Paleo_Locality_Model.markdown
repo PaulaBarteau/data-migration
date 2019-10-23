@@ -20,9 +20,13 @@ This documents the process for pre-creating named "research localities" and asso
 
 There is not a tool for bulkloading localities. Using the terms included in a locality, a [template](https://github.com/ArctosDB/data-migration/blob/master/Templates/LOCALITY_BULKLOAD.csv) was created that would allow for bulkloading. Once the data was entered into the template, it was saved as a CSV and sent to the Arctos DBA for upload.
 
+### Encumbering Named Localities and Related Collecting Events
+
+To facilitate encumbering an entire locality and its related collecting events, a new [GEOLOGY_ATTRIBUTE](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE) "access" with the value "private" was created. Assigning the private (access) GEOLOGY_ATTRIBUTE to any locality hides the locality and any related events from public view in any specimen record using the locality as well as the [Places search](http://arctos.database.museum/showLocality.cfm). We added the private (access) GEOLOGY_ATTRIBUTE to all named localities to create a "research locality" that is only available to Arctos users assigned access to the NMMNH:Paleo collection.
+
 ## Bulkloading Named Collecting Events
 
-There is not a tool for bulkloading collecting events. Using the terms included in a collecting event, a [template](https://github.com/ArctosDB/data-migration/blob/master/Templates/COLL_EVENT_BULKLOAD.csv) was created that would allow for bulkloading. The locality information for each event was selected by using the LOCALITY_NICKNAME field. Once the data was entered into the template, it was saved as a CSV and sent to the Arctos DBA for upload.
+There is not a tool for bulkloading collecting events. Using the terms included in a collecting event, a [template](https://github.com/ArctosDB/data-migration/blob/master/Templates/COLL_EVENT_BULKLOAD.csv) was created that would allow for bulkloading. The locality information for each event was selected using the appropriate locality name in the LOCALITY_NICKNAME field. Once the data was entered into the template, it was saved as a CSV and sent to the Arctos DBA for upload.
 
 ## Bulkloading Object Records
 
