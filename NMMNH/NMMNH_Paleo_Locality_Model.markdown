@@ -1,10 +1,10 @@
 ---
-title:How To Migrate Data Into Arctos Using Named Localities and Collecting Events
+title:NMMNH Paleontology Locality Model and Data Migration
 layout: default_toc
 author: Teresa J. Mayfield-Meyer
 date: 2019-10-22
 ---
-# How To Migrate Data Into Arctos Using Named Localities and Collecting Events
+# NMMNH Paleontology Locality Model and Data Migration
 
 ## Background
 
@@ -12,7 +12,9 @@ The Paleontology collection at the New Mexico Museum of Natural History and Scie
 
 In some cases, localities were re-visited, resulting in multiple collecting events for those localities. It was determined that each event would be given an identifier that included the LOCALITY NICKNAME appended with a dash and a sequential number and that this identifier would be placed in the [COLLECTING EVENT NICKNAME](https://handbook.arctosdb.org/documentation/collecting-event.html#event-nickname) field for each collecting event.
 
-This How To documents the process for pre-creating named localities and collecting events and using them to load object records into Arctos.
+Fossil poaching often occurs at paleontological sites. In order to prevent detailed information about the localities where NMMNH paleontological specimens were collected, it was determined that specific locality information should be obscured from public view.  At the time these records were being migrated, there was no encumbrance model for an entire locality. With help from the Arctos DBA, we devised a ssystem to allow us to hide the "research locality" from public view and create a second "public locality" that would display to anyone without appropriate access to the NMMNH:Paleo collection.
+
+This documents the process for pre-creating named "research localities" and associating them with object records in Arctos that were loaded with "public localities".
 
 ## Bulkloading Named Localities
 
@@ -24,4 +26,8 @@ There is not a tool for bulkloading collecting events. Using the terms included 
 
 ## Bulkloading Object Records
 
-Using the [Bulkload Records](https://arctos.database.museum/Bulkloader/BulkloadSpecimens.cfm) tool, we were able to create a bulkload using only the COLLECTING_EVENT_NICKNAME field to add all event and locality information to each object record.
+Using the [Bulkload Records](https://arctos.database.museum/Bulkloader/BulkloadSpecimens.cfm) tool, we created a bulkload using only the Higher Geography from the related LOCALITY_NICKNAME for locality. This will create a very spare, public locality for all paleo records.
+
+## Adding Named Collecting Events to Object Records
+
+Using the [Specimen Event Bulkload Tool](http://arctos.database.museum/tools/BulkloadSpecimenEvent.cfm) we created a bulkload to add an event to each loaded object record using the COLLECTING_EVENT_NICKNAME to associate the research locality information with each object record.
