@@ -8,8 +8,7 @@ locality|CONCATENATE("NMMNH:Paleo:L-",**locality**) |LOCALITY_NICKNAME| |
 datefound| |GEO_ATT_VALUE_1| | 
 origloc| |GEO_ATT_VALUE_4| | 
 fieldno| |GEO_ATT_VALUE_5| | 
-locale|IF(ISBLANK(**locale**),IF(ISBLANK(**topodata**),"no specific locality recorded",**topodata**),IF(ISBLANK(**topodata**),**locale**,CONCATENATE(**locale**,", ",**topodata**)))|SPEC_LOCALITY
-|specverbatimloc|VERBATIM_LOCALITY
+locale|specloc|SPEC_LOCALITY|specverbatimloc|VERBATIM_LOCALITY
 collno| |GEO_ATT_VALUE_6| | 
 ffname| | | | 
 fmidinit| | | | 
@@ -60,6 +59,9 @@ permit
 
 
 ### function definitions
+
+* specloc
+IF(ISBLANK(**locale**),IF(ISBLANK(**topodata**),"no specific locality recorded",**topodata**),IF(ISBLANK(**topodata**),**locale**,CONCATENATE(**locale**,", ",**topodata**)))
 
 * specverbatimloc  
 
