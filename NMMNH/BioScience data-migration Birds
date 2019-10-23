@@ -1,29 +1,38 @@
-For unknown dates we are using 1800-01-01
-If there is a prep date, we use the prep date for the end date.
-If a year is provided, we use the first day of the first month of the year
-If a year and month are provided we use the first of the month
+The Bird database has several problem records. The decisions below are what was decided in order to move forward transfer from MS Access into Arctos
 
-        •	Higher Geography goes down to county – Type county, hit tab
-•	Specific locality – everything under county
-o	Goes from smallest unit to largest unit
-o	No specific locality recorded.
-•	Parts
-o	Condition – unchecked
-o	Disposition – unchecked
-o	#  1
-•	Sex 
-o	If no sex listed put not recorded
-•	Prep 3 JGM=Jackie G. McConachie
+Dates:
+        Unknown dates use 1800-01-01; the current date will be used as the end date
+        If there is a prep date, we use the prep date for the end date.
+        If a year is provided, we use year-01-01 to year-31-12
+        If a year and month are provided we use yyyy-mm-01 to the last day of that month
+
+Higher Geography 
+        Goes down to county and then feature (like a national forest)
+        Specific locality is everything under the county/feature
+                when noe specific locality is recorded put: No specific locality recorded.
+	        Goes from smallest unit to largest unit
+        USA = North America, United States
+
+Parts
+        Condition – unchecked
+        Disposition – unchecked
+        # - 1 (unless noted otherwise)
+Sex 
+        If no sex listed put not recorded
+        
+Agents
+        JGM = Jackie G. McConachie
+        
 Errors
-•	If you make an entry error, page will turn red/pink
-•	If you correct and save, it turns blue
-•	Which means you are just editing, so you need to go back to data entry in the Enter Data tab at top of page
-•	When it works, page stays green, you are still in data entry and can go on to next bird.
+        If you make an entry error, page will turn red/pink
+        If you correct and save, it turns blue
+                Which means you are just editing, so you need to go back to data entry in the Enter Data tab at top of page
+        When it works, page stays green, you are still in data entry and can go on to next bird.
+
 No data
-•	Collector- unknown
-•	Date- skip it & highlight in red
-•	Higher geography- 
-o	USA- North America, United States
-
-
+        Collector- unknown
+        Date- skip it & highlight in red
+        Higher geography - highlet red and contact Lindsey
+        
+Other Notes/ To do's:
 Cat#- 271, 253, & 254 have collector “John Arnold” 7 John or J or Jonathan Arnolds in database, none have affiliation with MSB or NMMNH
