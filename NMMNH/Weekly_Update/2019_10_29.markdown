@@ -18,7 +18,8 @@ Computer hardware for the project was delivered on October 25. Team members were
  - Worked with Arctos programmer to create a new method for encumbering all locality data.
  - Tested bulkload of research localities and collecting events with Arctos programmer.
  - Bulkloaded 10 specimen records as a test of the migration methodology (Locality 33) for review and adjustment to the migration process.
- - Bulkloaded 73 non-conforming Agents to Arctos
+ - Bulkloaded 73 non-conforming Agents to Arctos 
+
 **In Process**
  - Working on creating a template in Excel to standardize downloaded MS Access data.
  - Writing data migration documentation.
@@ -27,7 +28,8 @@ Computer hardware for the project was delivered on October 25. Team members were
 #### Nicole
 **Complete**
  - Created two non-conforming Agent bulkload files
- - Bulkloaded XXX conforming Agents to Arctos
+ - Bulkloaded XXX conforming Agents to Arctos 
+
 **In Process**
  - Standardizing and correcting Agents and bulkloading conforming Agents to Arctos
 
@@ -44,7 +46,8 @@ Computer hardware for the project was delivered on October 25. Team members were
  
 #### Lindsey
 **Complete**
- - Bulkloaded 998 Herbarium specimen records
+ - Bulkloaded 998 Herbarium specimen records 
+
 **In Process**
  - Standardizing data on remaining Herbarium records for bulkload to Arctos
 
