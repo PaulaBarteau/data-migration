@@ -2,5 +2,54 @@
 
 This documents discussion at weekly team meetings
 
-##2019-10-29
+## 2019-10-29
 
+No meeting - exhibit installation for biosci
+
+### Progress Report
+
+Total records in Arctos: 1,016
+Total Images Taken: 0
+
+Computer hardware for the project was delivered on October 25. Team members were able to log on and use the system the following Monday, October 28. Previously team members were using existing equipment in the collections spaces. No imaging hardware has been recieved to date.
+
+#### Geoscience
+##### Teresa
+**Complete**
+ - Bulkloaded 245 Geology Attribute terms to be used as new locality attributes.
+ - Worked with Arctos programmer to create a new method for encumbering all locality data.
+ - Tested bulkload of research localities and collecting events with Arctos programmer.
+ - Bulkloaded 10 specimen records as a test of the migration methodology (Locality 33) for review and adjustment to the migration process.
+ - Bulkloaded 73 non-conforming Agents to Arctos
+**In Process**
+ - Working on creating a template in Excel to standardize downloaded MS Access data.
+ - Writing data migration documentation.
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 12
+ 
+##### Nicole
+**Complete**
+ - Created two non-conforming Agent bulkload files
+ - Bulkloaded XXX conforming Agents to Arctos
+**In Process**
+ - Standardizing and correcting Agents and bulkloading conforming Agents to Arctos
+
+##### Hannah
+**In Process**
+ - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 629
+ - Adding names for taxa that are not in Arctos but appear to be valid per Arctos validation tool. Names and classifications added to Arctos to date: 60
+ 
+#### Bioscience
+##### Teresa
+**Complete**
+ - Assisted Lindsey with Herbarium Bulkload questions
+ - Trained Paula on pulling information from specimens cataloged in other collections with which we share a specimen
+ 
+##### Lindsey
+**Complete**
+ - Bulkloaded 998 Herbarium specimen records
+**In Process**
+ - Standardizing data on remaining Herbarium records for bulkload to Arctos
+
+##### Paula
+**In Process**
+ - Entering Bird records manually. Records entered to date: 465 (458 in bulkloader awaiting approval, 7 in Arctos)
