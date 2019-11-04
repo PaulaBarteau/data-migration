@@ -32,11 +32,9 @@ No imaging hardware has been recieved to date.
  
 ### Bioscience
 #### Teresa
-**Complete**
+Nothing to report
  
 #### Lindsey
-**Complete**
-
 **In Process**
  - Standardizing data on remaining Herbarium records for bulkload to Arctos
 
