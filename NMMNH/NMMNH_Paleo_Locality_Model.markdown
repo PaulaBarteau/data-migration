@@ -14,6 +14,8 @@ In some cases, localities were re-visited, resulting in multiple collecting even
 
 Fossil poaching often occurs at paleontological sites. In order to prevent detailed information about the localities where NMMNH paleontological specimens were collected, it was determined that specific locality information should be obscured from public view.  At the time these records were being migrated, there was no encumbrance model for an entire locality. With help from the Arctos DBA, we devised a ssystem to allow us to hide the "research locality" from public view and create a second "public locality" that would display to anyone without appropriate access to the NMMNH:Paleo collection.
 
+Many of the localities at the museum include the United States Geological Survet 7.5 minute topographic map (7.5  in map) designation. This designation provides a more refined higher geography than county alone, so it was decided that all of the 7.5 min maps would be added to higher geography. Using [The National Geologic Map Database](https://ngmdb.usgs.gov/ngmbd/ngmbd_home.html), a student completed a higher geography upload template to add approximately 2,400 unique higher geography entries for County/Quad combinations in Arctos which allowed us to provide a more refined higher geography for the museum's paleo localities.
+
 This documents the process for pre-creating named "research localities" and associating them with object records in Arctos that were loaded with "public localities".
 
 ## Bulkloading Named Localities
