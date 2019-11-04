@@ -2,37 +2,33 @@
 
 This documents discussion at weekly team meetings
 
-
 ## Progress Report
 
-Total records in Arctos: 
-Total Images Taken: 
+Total records in Arctos: 1,467 
+Total Images Taken: 0
 
-Computer hardware for the project was delivered on October 25. Team members were able to log on and use the system the following Monday, October 28. Previously team members were using existing equipment in the collections spaces. No imaging hardware has been recieved to date.
+No imaging hardware has been recieved to date.
 
 ### Geoscience
 #### Teresa
 **Complete**
- - Bulkloaded XX specimen records
- - Bulkloaded XX non-conforming Agents to Arctos 
+ - Bulkloaded 451 specimen records 
 
 **In Process**
  - Working on creating a template in Excel to standardize downloaded MS Access data.
  - Writing data migration documentation.
- - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 12
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
  
 #### Nicole
 **Complete**
- - Created XX non-conforming Agent bulkload files
- - Bulkloaded XXX conforming Agents to Arctos 
 
 **In Process**
  - Standardizing and correcting Agents and bulkloading conforming Agents to Arctos
 
 #### Hannah
 **In Process**
- - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: XXX
- - Adding names for taxa that are not in Arctos but appear to be valid per Arctos validation tool. Names and classifications added to Arctos to date: XXX
+ - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 720
+ - Adding names for taxa that are not in Arctos but appear to be valid per Arctos validation tool. Names and classifications added to Arctos to date: 89
  
 ### Bioscience
 #### Teresa
@@ -40,11 +36,10 @@ Computer hardware for the project was delivered on October 25. Team members were
  
 #### Lindsey
 **Complete**
- - Bulkloaded XXX Herbarium specimen records 
 
 **In Process**
  - Standardizing data on remaining Herbarium records for bulkload to Arctos
 
 #### Paula
 **In Process**
- - Entering Bird records manually. Records entered to date: XXX (XXX in bulkloader awaiting approval, X in Arctos)
+ - Entering Bird records manually. Records entered to date: 496 (489 in bulkloader awaiting approval, 7 in Arctos)
