@@ -20,8 +20,6 @@ No imaging hardware has been recieved to date.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
  
 #### Nicole
-**Complete**
-
 **In Process**
  - Standardizing and correcting Agents and bulkloading conforming Agents to Arctos
 
