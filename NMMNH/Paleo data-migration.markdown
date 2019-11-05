@@ -2,7 +2,11 @@
 
 ## Migration Procedures
 
-Because the NMMNH Paleo Collection data contains a very specific set of localities, it was determined that migration would proceed by locality, starting with NMMNH:Paleo:L-1. For each locality, the following steps were followed.
+Because the NMMNH Paleo Collection data contains a very specific set of localities, it was determined that migration would proceed by locality, starting with NMMNH:Paleo:L-1. 
+
+Localities from the MS Access Database were named following the convention above and the named localities were bulkloaded to Arctos by the DBA. After the named localities were loaded, individual named collecting events were loaded. An individual event was created for each date of collection at a given locality and named with the locality name plus -X where the X represents a sequntial number. If locality 1 (NMMNH:Paleo:L-1) had three events, they would be named NMMNH:Paleo:L-1-1, NMMNH:Paleo:L-1-2, NMMNH:Paleo:L-1-3. The numbers of the named events do not necessarily reflect the order in which the events occured.
+
+After the localities and events were loaded to Arctos, for each locality, the following steps were followed.
 
 ### Prepare the Migration Data File
  1. Open a new Excel Data Migration Template. The template can be found at N:>GeoScience>Arctos>SpecimenBulkloads>Data Migration Template.xls.  
