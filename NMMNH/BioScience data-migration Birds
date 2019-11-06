@@ -17,6 +17,7 @@ Dates:
 For MSB Birds-----Use collection date.
 	If no prepdate is given but verbatum date designates "before -specific time-" use -specific time- as prep date.
 	If prep date is given but no collection date, use 1800 as coll/begin date.
+	If there is absolutely no date info in spread sheet or on specimen, use the date in the accn# as the end date, but use 1800-01-01 as the prep date.
 	
 	
 	
