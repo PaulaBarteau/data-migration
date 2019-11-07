@@ -1,0 +1,55 @@
+# NMMNH Digitization Grant 2019-11-12 Weekly Update
+
+This documents discussion at weekly team meetings
+
+## Progress Report
+
+Total records in Arctos: 1,467 
+Total Images Taken: 0
+
+No imaging hardware has been recieved to date.
+
+### Geoscience
+#### Teresa
+**Complete**
+ - Bulkloaded 451 specimen records 
+
+**In Process**
+ - Working on creating a template in Excel to standardize downloaded MS Access data.
+ - Writing data migration documentation.
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ 
+#### Nicole
+**Complete**
+ - Bulkloaded 42 Agent names
+ 
+ **In Process**
+ - Standardizing and correcting Agents and bulkloading conforming Agents to Arctos
+
+#### Hannah
+**In Process**
+ - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 720
+ - Adding names for taxa that are not in Arctos but appear to be valid per Arctos validation tool. Names and classifications added to Arctos to date: 89
+ 
+#### Lucius
+**Complete**
+Added defintions to 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
+ 
+### Bioscience
+#### Teresa
+Nothing to report
+ 
+#### Lindsey
+**In Process**
+ - Standardizing data on remaining Herbarium records for bulkload to Arctos
+
+#### Paula
+**In Process**
+ - Entering Bird records manually. Records entered to date: 496 (489 in bulkloader awaiting approval, 7 in Arctos)
+ 
+## Discussion Topics
+
+### Social Media
+Does the museum have a social media person? Can we coordinate and have the museum post for:
+ - Mollusc Monday (Paula)
+ - Fossil Friday (Hannah)
