@@ -23,6 +23,7 @@ No imaging hardware has been recieved to date.
 #### Nicole
 **Complete**
  - Created the bulkload for 42 non-conforming Agent names
+ - Since beginning of project has created 521 agents in Arctos (256 bulkloaded, 265 entered individually). 
  
  **In Process**
  - Standardizing and correcting Agents and bulkloading conforming Agents to Arctos
