@@ -4,7 +4,7 @@ This documents discussion at weekly team meetings
 
 ## Progress Report
 
-Total records in Arctos: 1,467 
+Total records in Arctos: 1,466 
 Total Images Taken: 0
 
 No imaging hardware has been recieved to date.
@@ -12,28 +12,29 @@ No imaging hardware has been recieved to date.
 ### Geoscience
 #### Teresa
 **Complete**
- - Bulkloaded 451 specimen records 
+ - Bulkloaded 42 non-conforming Agent names
+ - Added definitions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
 
 **In Process**
- - Working on creating a template in Excel to standardize downloaded MS Access data.
+ - Standardizing Parts
  - Writing data migration documentation.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
  
 #### Nicole
 **Complete**
- - Bulkloaded 42 Agent names
+ - Created the bulkload for 42 non-conforming Agent names
  
  **In Process**
  - Standardizing and correcting Agents and bulkloading conforming Agents to Arctos
 
 #### Hannah
 **In Process**
- - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 720
- - Adding names for taxa that are not in Arctos but appear to be valid per Arctos validation tool. Names and classifications added to Arctos to date: 89
+ - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 928
+ - Adding names for taxa that are not in Arctos but appear to be valid per Arctos validation tool. Names and classifications added to Arctos to date: 177
  
 #### Lucius
 **Complete**
-Added defintions to 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
+ - Created defintions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
  
 ### Bioscience
 #### Teresa
@@ -45,7 +46,7 @@ Nothing to report
 
 #### Paula
 **In Process**
- - Entering Bird records manually. Records entered to date: 496 (489 in bulkloader awaiting approval, 7 in Arctos)
+ - Entering Bird records manually. Records entered to date: 526 (520 in bulkloader awaiting approval, 6 in Arctos)
  
 ## Discussion Topics
 
@@ -53,3 +54,10 @@ Nothing to report
 Does the museum have a social media person? Can we coordinate and have the museum post for:
  - Mollusc Monday (Paula)
  - Fossil Friday (Hannah)
+ 
+### Tracking Time
+It would be good for us to figure out how long it takes to complete specific tasks.
+ - Average time to manually enter a single catalog record
+ - Average time to research and add a new taxon name to Arctos
+ - Average time to add higher geography (map quads) to Arctos
+Anything else?
