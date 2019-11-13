@@ -44,6 +44,7 @@ No imaging hardware has been recieved to date.
 #### Lindsey
 **In Process**
  - Standardizing data on remaining Herbarium records for bulkload to Arctos
+ - Mentoring Paula on bulkloading procedures for the mollusck bulkload
 
 #### Paula
 **In Process**
