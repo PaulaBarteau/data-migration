@@ -46,6 +46,7 @@ No imaging hardware has been recieved to date.
  - Standardizing data on remaining Herbarium records for bulkload to Arctos
  - Working on bulkloading herbarium cat# records 1000-1999
  - Mentoring Paula on bulkloading procedures for the mollusck bulkload
+ 
 **Complete**
  - Marked Paulas 98 mollusc records to load, loaded
  - Approved and marked Paulas 521 Bird records to load, loaded
@@ -56,6 +57,7 @@ No imaging hardware has been recieved to date.
  - Creating mollusc bulkload templated and method for bulkloading mollusc records
  - Editing cat# 1-98 mollusc records for bulkloading
  - Editing cat# 98-198 mollusc records for bulkloading
+ 
  **Complete**
  - Bulkloaded 98 mollusc records
  - Edited bird issues - locality and dates
