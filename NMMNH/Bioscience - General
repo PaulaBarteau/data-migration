@@ -1,0 +1,7 @@
+Statistics:
+Localities for Herb: for 1000 speciemsn, to create verbatim locality, higher geography, and edit specific locality it took about 8 minutes per record (total of 2 hours). This is not including editing coordinates, and does not including adding features to higher geography (like a specific locality of Sandia Mountains, are in Cibola National Forest but this will be added at a later date during georeference.
+
+
+Excel functions:
+=datevalue to convert text dates to numerical dates
+=trim() to get rid of extra spaces at the beginning, middle or end
