@@ -49,17 +49,19 @@ No imaging hardware has been recieved to date.
  
 **Complete**
  - Marked Paulas 98 mollusc records to load, loaded
- - Approved and marked Paulas 521 Bird records to load, loaded
+   - Deleted 98 mollusc records, some of them got scrambled so needed to delete. Paula will fix and re-upload
+ - Approved and marked Paulas 521 Bird records to load, loaded many of them but some have errors. Let Paula know to fix next week.
 
 #### Paula
 **In Process**
  - Entering Bird records manually. Records entered to date: 526 (520 in bulkloader awaiting approval, 6 in Arctos)
  - Creating mollusc bulkload templated and method for bulkloading mollusc records
- - Editing cat# 1-98 mollusc records for bulkloading
+ - Editing cat# 1-98 mollusc records for bulkloading.
+   - deleted and fixing
  - Editing cat# 98-198 mollusc records for bulkloading
  
  **Complete**
- - Bulkloaded 98 mollusc records
+ - Bulkloaded 98 mollusc records.
  - Edited bird issues - locality and dates
  
 ## Discussion Topics
