@@ -52,6 +52,7 @@ No imaging hardware has been recieved to date.
    - Deleted 98 mollusc records, some of them got scrambled so needed to delete. Paula will fix and re-upload
  - Approved and marked Paulas 521 Bird records to load, loaded many of them but some have errors. Let Paula know to fix.
  - Loaded cat# 1000-1999 herbarium 
+ - Checked on Ortery light box order 11/15/2019
 
 #### Paula
 **In Process**
