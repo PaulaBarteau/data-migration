@@ -50,7 +50,8 @@ No imaging hardware has been recieved to date.
 **Complete**
  - Marked Paulas 98 mollusc records to load, loaded
    - Deleted 98 mollusc records, some of them got scrambled so needed to delete. Paula will fix and re-upload
- - Approved and marked Paulas 521 Bird records to load, loaded many of them but some have errors. Let Paula know to fix next week.
+ - Approved and marked Paulas 521 Bird records to load, loaded many of them but some have errors. Let Paula know to fix.
+ - Loaded cat# 1000-1999 herbarium 
 
 #### Paula
 **In Process**
