@@ -40,6 +40,7 @@ No imaging hardware has been recieved to date.
 **Complete**
  - Instructed Paula on entering UTM and TRS data
  - Assisted with locality for bird specimen shared with MSB
+ - Worked with Paula on mollusk spreadsheet to add Arctos headers and merge taxonomy into TAXON_NAME
  
 #### Lindsey
 **In Process**
