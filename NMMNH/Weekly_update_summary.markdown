@@ -20,8 +20,8 @@ This document lists major tasks completed by the team over the course of the pro
  
 
 #### Hannah
--Found quad maps for localities of specimens. Have completed 1,065 out of 2,430.
--Filled in any missing or questionable data for taxonomy. Have completed 225 out of 285.
+Found quad maps for localities of specimens. Have completed 1,065 out of 2,430.
+Filled in any missing or questionable data for taxonomy. Have completed 225 out of 285.
  
  
 #### Lucius
