@@ -1,6 +1,8 @@
 # New Mexico Museum of Natural History and Science Collections Digitization Project Update
 ## November, 2019
 
+The Project kicked off at the beginning of October when the Digitization Tecnician and Interns started work. No imaging equipment has arrived to date.
+
 ### Catalog Records Entered
  -   525 Birds
  - 1,998 Herbarium
@@ -27,10 +29,12 @@
   - 2,430 Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065
   - 2,294 Taxa need to be researched and either corrected before loading to Arctos, or created in Arctos
   - [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
+  - Creating Tweets for BioSci (Mollusc Monday, Mammal Monday) and Paleo (Fossil Friday) Twitter feeds and organizing with museum social media
   
  ### Project Management Resources
   - [Arctos Portal](http://arctos.database.museum/home.cfm#NMMNHS)
   - [GitHub Bi-Weekly Summary](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/Bi-Weekly_update_summary.markdown)
   - [GitHub Bi-Weekly Reports](https://github.com/ArctosDB/data-migration/tree/master/NMMNH/Bi-Weekly_Updates)
  
+
  
