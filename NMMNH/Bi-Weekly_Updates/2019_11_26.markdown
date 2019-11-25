@@ -14,7 +14,7 @@ No imaging hardware has been recieved to date.
 **Complete**
  - Added 30 features and created 40 new higher geography entries
  - wrote [How To Create a Locality](http://handbook.arctosdb.org/how_to/How-to-Create-a-Locality.html)
- - wrote How to [Encumber Locality Data](http://handbook.arctosdb.org/how_to/How-to-Encumber-Locality.html)
+ - wrote [How to Encumber Locality Data](http://handbook.arctosdb.org/how_to/How-to-Encumber-Locality.html)
  
 **In Process**
  - Standardizing Parts
