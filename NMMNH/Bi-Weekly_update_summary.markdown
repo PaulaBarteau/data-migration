@@ -1,4 +1,4 @@
-# NMMNH Digitization Project Completed Weekly Summary Items
+# NMMNH Digitization Project Completed Bi-Weekly Summary Items
 
 This document lists major tasks completed by the team over the course of the project as reported in the Weekly Meeting notes.
 
