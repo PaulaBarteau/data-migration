@@ -13,6 +13,7 @@ This document lists major tasks completed by the team over the course of the pro
  - Bulkloaded 461 specimen records
  - Bulkloaded 115 non-conforming Agents to Arctos
  - Added definitions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
+ - Added 30 features and created 40 new higher geography entries
  
 #### Nicole
  - Created the bulkload for 115 non-conforming Agent names
@@ -21,7 +22,7 @@ This document lists major tasks completed by the team over the course of the pro
 
 #### Hannah
  - Found quad maps for localities of specimens. Have completed 1,065 out of 2,430.
- - Filled in any missing or questionable data for taxonomy. Have completed 225 out of 285.
+ - Filled in any missing or questionable data for taxonomy. Have completed 285 taxa.
  
  
 #### Lucius
