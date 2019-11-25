@@ -1,0 +1,91 @@
+# NMMNH Digitization Grant 2019-11-26 Bi-weekly Update
+
+This documents discussion at weekly team meetings
+
+## Progress Report
+
+Total records in Arctos: 2,985 
+Total Images Taken: 0
+
+No imaging hardware has been recieved to date.
+
+### Geoscience
+#### Teresa
+**Complete**
+ - Added 30 features and created 40 new higher geography entries
+ 
+**In Process**
+ - Standardizing Parts
+ - Writing data migration documentation.
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ 
+#### Nicole
+**Complete**
+ - All locality and specimen agents loaded into Arctos.
+ 
+ **In Process**
+ - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
+ - Total tally of NMMNHS paleo agents added to Arctos is 746.
+ - Reviewing taxon and part data as requested.
+ - Picked a higher taxon authority for the vertebrate paleontology collections (Vertebrate Paleontology, 3rd Ed., Benton, Appendix "Classification of the Vertebrates"
+
+#### Hannah
+**Complete**
+ - Added names for taxa that were not in Arctos but appeared to be valid per Arctos validation tool. Names and classifications added to Arctos: 238
+
+**In Process**
+ - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 
+
+ 
+#### Lucius
+**In Process**
+  - Researching names for taxa that are not in Arctos and do not appear to be valid per Arctos validation tool.
+ 
+### Bioscience
+#### Teresa
+**Complete**
+ - Instructed Paula on entering UTM and TRS data
+ - Assisted with locality for bird specimen shared with MSB
+ - Completed upload of records with errors
+ - Worked with Paula on mollusk spreadsheet to add Arctos headers and merge taxonomy into TAXON_NAME
+ 
+#### Lindsey
+**In Process**
+ - Standardizing data on remaining Herbarium records for bulkload to Arctos
+ - Working on bulkloading herbarium cat# records 1000-1999
+ - Mentoring Paula on bulkloading procedures for the mollusck bulkload
+ 
+**Complete**
+ - Marked Paulas 98 mollusc records to load, loaded
+   - Deleted 98 mollusc records, some of them got scrambled so needed to delete. Paula will fix and re-upload
+ - Approved and marked Paulas 521 Bird records to load, loaded many of them but some have errors. Let Paula know to fix.
+ - Loaded cat# 1000-1999 herbarium 
+ - Checked on Ortery light box order 11/15/2019
+ - Sent Charles and email about the registrar workstation, the 4 inventory laptops, and the 2 digitization workstations. 11/15/2019
+
+#### Paula
+**In Process**
+ - Entering Bird records manually. Records entered to date: 526 (520 in bulkloader awaiting approval, 6 in Arctos)
+ - Creating mollusc bulkload templated and method for bulkloading mollusc records
+ - Editing cat# 1-98 mollusc records for bulkloading.
+   - deleted and fixing
+ - Editing cat# 98-198 mollusc records for bulkloading
+ - Cleaning up taxon and geography information for entire invertabrate collection
+ 
+ **Complete**
+ - Bulkloaded 98 mollusc records.
+ - Edited bird issues - locality and dates
+ 
+## Discussion Topics
+
+### Social Media
+Does the museum have a social media person? Can we coordinate and have the museum post for:
+ - Mollusc Monday (Paula)
+ - Fossil Friday (Hannah)
+ 
+### Tracking Time
+It would be good for us to figure out how long it takes to complete specific tasks.
+ - Average time to manually enter a single catalog record
+ - Average time to research and add a new taxon name to Arctos
+ - Average time to add higher geography (map quads) to Arctos
+Anything else?
