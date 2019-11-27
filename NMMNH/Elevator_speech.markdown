@@ -14,7 +14,9 @@
 
 ## The Benefits
 
- -  
+ - Community - both local and worldwide
+ - Access - public data facilitates edu, research
+ - We learn more about what we have
 
 
 ## References
