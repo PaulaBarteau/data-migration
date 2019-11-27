@@ -10,17 +10,17 @@
  
 ## Why Arctos?
 
- - The Biodiversity Collections Network released "Extending U.S. Biodiversity Collections to Promote Research and Education" this year. The report calls for an Extended Specimen Network (ESN) that would include the physical specimen and its associated physical and digital, genetic, phenotypic, and environmental data and would rely on integration  mechanisms  necessary  to  link  all  of  the  dynamic  components  together.[4]
+ - The Biodiversity Collections Network recently released "Extending U.S. Biodiversity Collections to Promote Research and Education". The report calls for an Extended Specimen Network (ESN) that would include the physical specimen and its associated physical and digital, genetic, phenotypic, and environmental data and would rely on integration  mechanisms  necessary  to  link  all  of  the  dynamic  components  together.[4]
 
-- Digitizing with the aid of Arctos, a collection data management system developed and maintained collaboratively by a consortium of museums and organizations, enhances our mission fulfillment as it places NMMNHS at the forefront of current natural history collection management. Arctos' ability to integrate access to information from diverse disciplines and provide continuously updated, web accessible data that is linked with external resources provides us with the ability to make collections data available to curators, collection managers, investigators, educators, and anyone interested in natural and cultural history (mission) and . [3]
+- Arctos is a collection data management system developed and maintained collaboratively by a consortium of museums and univerity research collections.[3] Digitizing with the aid of Arctos places NMMNHS at the forefront of current natural history collection management. Arctos' ability to integrate access to information from diverse disciplines and provide continuously updated, web accessible data that is linked with external resources provides us with the ability to make collections data available to curators, collection managers, investigators, educators, and anyone interested in natural and cultural history enhances our mission fulfillment and meets the expectations of the Extended Specimen Netowrk.
 
 ## The Benefits
 
- - The Biodiversity Collections Network released "Extending U.S. Biodiversity Collections to Promote Research and Education" this year. 
+ -  
 
 
 ## References
-[1] <a href="https://www.idigbio.org/technical-info">iDigBio Technical Information</a>
-[2] <a href="http://www.nmnaturalhistory.org/">NMMNH&S Home</a>
-[3] <a href="https://arctosdb.org/about/">About Arctos</a>
+[1] <a href="https://www.idigbio.org/technical-info">iDigBio Technical Information</a> 
+[2] <a href="http://www.nmnaturalhistory.org/">NMMNH&S Home</a> 
+[3] <a href="https://arctosdb.org/about/">About Arctos</a> 
 [4] <a href="https://bcon.aibs.org/2019/04/04/bcon-report-extending-u-s-biodiversity-collections-to-promote-research-and-education/">BCoN Extending Biodiversity</a>
