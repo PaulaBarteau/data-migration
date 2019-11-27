@@ -1,7 +1,5 @@
 # New Mexico Museum of Natural History and Science Digitization
 
-<a href="http://sfp.ucdavis.edu/files/163926.pdf">The 30 Second Elevator Speech</a>
-
 ## Why Digitize?
 
  - "Digitization involves converting physical objects to high quality digital images, associated descriptive text to electronic records, and analog sound and motion recordings to digital representations. The digitization of biodiversity specimens allows museums and academic institutions across the U.S. to make their collections easily available to researchers, enthusiasts, constituents, and interested consumers worldwide through searchable online networks, thus facilitating discovery, learning, and enhanced appreciation for the fascinating array of biodiversity resources housed in US institutions."[1] 
@@ -20,7 +18,10 @@
 
 
 ## References
-[1] <a href="https://www.idigbio.org/technical-info">iDigBio Technical Information</a> 
-[2] <a href="http://www.nmnaturalhistory.org/">NMMNH&S Home</a> 
-[3] <a href="https://arctosdb.org/about/">About Arctos</a> 
-[4] <a href="https://bcon.aibs.org/2019/04/04/bcon-report-extending-u-s-biodiversity-collections-to-promote-research-and-education/">BCoN Extending Biodiversity</a>
+[1] <a href="https://www.idigbio.org/technical-info">iDigBio Technical Information</a>  
+[2] <a href="http://www.nmnaturalhistory.org/">NMMNH&S Home</a>  
+[3] <a href="https://arctosdb.org/about/">About Arctos</a>  
+[4] <a href="https://bcon.aibs.org/2019/04/04/bcon-report-extending-u-s-biodiversity-collections-to-promote-research-and-education/">BCoN Extending Biodiversity</a> 
+
+## Other Reading
+<a href="http://sfp.ucdavis.edu/files/163926.pdf">The 30 Second Elevator Speech</a>
