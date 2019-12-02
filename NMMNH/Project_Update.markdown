@@ -11,6 +11,7 @@ The Project kicked off at the beginning of October when the Digitization Tecnici
 
 ### Arctos Community Resources Created
  - 530 Paleo Agent names
+ - 670 Biology Agent names
  - 285 Paleo Taxa with associated classifications
  - 245 [Geology Attribute](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE) terms to be used as new locality attributes
  - 108 [part name](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME) definitions
