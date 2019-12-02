@@ -17,7 +17,7 @@ Paleo
  - 108 [part name](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME) definitions
  - 32 Paleo features
  - 47 Paleo new higher geography entries (In process: Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065 out of 2,430 Quads)
- Biology
+Biology
  - 670 Agent names
  - 44 Herbarium higher geographies added
  - 58 Herbarium taxon names added
