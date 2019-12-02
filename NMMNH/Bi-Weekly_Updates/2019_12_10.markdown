@@ -19,6 +19,7 @@ No imaging hardware has been recieved to date.
  - Writing data migration documentation.
  - Writing [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ - Drafted [elevator talks](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/Elevator_speech.markdown).
  
 #### Nicole
 **Complete**
