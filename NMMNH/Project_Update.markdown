@@ -10,15 +10,18 @@ The Project kicked off at the beginning of October when the Digitization Tecnici
  - 4,618 Total
 
 ### Arctos Community Resources Created
+Paleo
  - 530 Paleo Agent names
  - 285 Paleo Taxa with associated classifications
  - 245 [Geology Attribute](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE) terms to be used as new locality attributes
  - 108 [part name](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME) definitions
  - 32 Paleo features
  - 47 Paleo new higher geography entries (In process: Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065 out of 2,430 Quads)
- - 670 Biology Agent names
- - 44 Biology Herbarium higher geographies added
- - 58 Biology Herbarium taxon names added
+ Biology
+ - 670 Agent names
+ - 44 Herbarium higher geographies added
+ - 58 Herbarium taxon names added
+ - 30 Arthropod taxon names added
  
 ### Arctos Procedures Created/Refined
  - Worked with Arctos programmer to create a new method for encumbering all locality data.
@@ -31,7 +34,7 @@ The Project kicked off at the beginning of October when the Digitization Tecnici
  ### In Process
   - 2,430 Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065
   - 2,294 Taxa need to be researched and either corrected before loading to Arctos, or created in Arctos
-  - 200 Arthropod taxonomy to be researched, updated and loaded/created into Arctos
+  - 200 Biology Arthropod taxonomy to be researched, updated and loaded/created into Arctos
   - Invertebrate/mollusc records 
   - [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
   - Creating Tweets for BioSci @NMMNHS_Bio (Mollusc Monday, Mammal Monday) and Paleo (Fossil Friday) Twitter feeds and organizing with museum social media
