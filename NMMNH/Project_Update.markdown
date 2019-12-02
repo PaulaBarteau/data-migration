@@ -39,6 +39,7 @@ Biology
   - Invertebrate/mollusc records 
   - [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
   - Creating Tweets for BioSci @NMMNHS_Bio (Mollusc Monday, Mammal Monday) and Paleo (Fossil Friday) Twitter feeds and organizing with museum social media
+  - Ordering Digitization equipment for taking images. Setting up workstations.
   
  ### Project Management Resources
   - [Arctos Portal](http://arctos.database.museum/home.cfm#NMMNHS)
