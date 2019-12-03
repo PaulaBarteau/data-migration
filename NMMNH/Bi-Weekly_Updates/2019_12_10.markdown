@@ -9,8 +9,8 @@ Total Images Taken: 0
 
 No imaging hardware has been recieved to date.
 
-### Geoscience
-#### Teresa
+## Geoscience
+### Teresa
 **Complete**
  - Wrote [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
  
@@ -20,7 +20,7 @@ No imaging hardware has been recieved to date.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
  - Drafted [elevator talks](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/Elevator_speech.markdown).
  
-#### Nicole
+### Nicole
 **Complete**
 
  
@@ -30,7 +30,7 @@ No imaging hardware has been recieved to date.
  - Reviewing taxon and part data as requested.
  - Picked a higher taxon authority for the vertebrate paleontology collections (Vertebrate Paleontology, 3rd Ed., Benton, Appendix "Classification of the Vertebrates"
 
-#### Hannah
+### Hannah
 **Complete**
 
 
@@ -38,16 +38,16 @@ No imaging hardware has been recieved to date.
  - Creating a Higher Geography bulkload of approximately 2375 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 
 
  
-#### Lucius
+### Lucius
 **In Process**
   - Researching names for taxa that are not in Arctos and do not appear to be valid per Arctos validation tool.
  
-### Bioscience
-#### Teresa
+## Bioscience
+### Teresa
 **Complete**
 
  
-#### Lindsey
+### Lindsey
 **Complete**
 
 
@@ -56,7 +56,7 @@ No imaging hardware has been recieved to date.
  - Working on bulkloading herbarium cat# records 1000-1999
  - Mentoring Paula on bulkloading procedures for the mollusck bulkload
  
-#### Paula
+### Paula
  **Complete**
  
  
