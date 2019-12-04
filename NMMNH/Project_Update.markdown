@@ -1,7 +1,7 @@
 # New Mexico Museum of Natural History and Science Collections Digitization Project Update
 ## November, 2019
 
-The New Mexico Museum of Natural History and Science recived funding for this project in July 2019. We immediately initiated work on four tasks 1) beginning the hiring paperwork for two interns and one digitization technician, 2) requoting and ordering computer equipment, 3) mapping out the database transfer, and 4) uploading accession records into the new database.
+The New Mexico Museum of Natural History and Science received funding for this project in July 2019. We immediately initiated work on four tasks 1) beginning the hiring paperwork for two interns and one digitization technician, 2) requoting and ordering computer equipment, 3) mapping out the database transfer, and 4) uploading accession records into the new database.
 
 During August and September, the collections managers transferred accessions to the new database. These are important records that document when and from whom the museum aquired specimens and show that the museum is the legal caretaker of all our specimens. We added all 284 of the biology accessions and 213 of the most critical geoscience accessions. In this time we were also able to map out how the data fields would be migrated to the new database. The Biology collections manager finished this task quickly, and with the help of volunteers, was able to upload some taxonomy and higher geography before the new staff even started. Mapping out the data migration was more complicated for the Paleontology collection because we are the first large paleontology collection to move into Arctos. During September and October we created new protocols and data structures for fossil specimens in Arctos.
 
