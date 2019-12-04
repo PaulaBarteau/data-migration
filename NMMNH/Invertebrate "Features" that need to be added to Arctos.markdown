@@ -61,6 +61,8 @@ Features:
 
 •	Chilaw (Chilaw Point)- https://en.wikipedia.org/wiki/Chilaw https://geographic.org/geographic_names/name.php?uni=-3063035&fid=986&c=sri_lanka 
 
+>this is a city and should be specific locality
+
 •	Helen Island/Reef “Western Carolines” https://en.wikipedia.org/wiki/Hatohobei 
 
 •	Suez Canal	https://en.wikipedia.org/wiki/Suez_Canal 
