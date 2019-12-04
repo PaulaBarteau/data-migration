@@ -61,11 +61,8 @@ No imaging hardware has been recieved to date.
  
  
  **In Process**
- - Entering Bird records manually. Records entered to date: 526 (520 in bulkloader awaiting approval, 6 in Arctos)
+ - Bird entry complete
  - Creating mollusc bulkload templated and method for bulkloading mollusc records
- - Editing cat# 1-98 mollusc records for bulkloading.
-   - deleted and fixing
- - Editing cat# 98-198 mollusc records for bulkloading
  - Cleaning up taxon and geography information for entire invertabrate collection
  
 ## Discussion Topics
