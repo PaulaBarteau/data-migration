@@ -33,10 +33,19 @@ Higher Geography:
 >created as West Indies, United Kingdom, British Virgin Islands, Lesser Antilles, Anegada
 
 •	Mios Woendi- https://en.wikipedia.org/wiki/Mios_Woendi
-Features:
-•	Pacific Remote Islands Marine National Monument	https://en.wikipedia.org/wiki/Pacific_Remote_Islands_Marine_National_Monument 
 
-•	Manú National Park- https://en.wikipedia.org/wiki/Man%C3%BA_National_Park 
+>created as Asia, Indonesia, Papua, Schouten Islands, Mios Woendi
+
+Features:
+
+•	Pacific Remote Islands Marine National Monument	https://en.wikipedia.org/wiki/Pacific_Remote_Islands_Marine_National_Monument
+
+>created as Pacific Ocean, United States, Pacific Remote Islands Marine National Monument, Line Islands, Palmyra Atoll
+
+•	Manú National Park- https://en.wikipedia.org/wiki/Man%C3%BA_National_Park
+
+>created as South America, Peru, Madre de Dios, Manú National Park
+>created as South America, Peru, Cusco, Manú National Park
 
 •	Cocha Cashu Biological Station-	https://en.wikipedia.org/wiki/Cocha_Cashu_Biological_Station 
 
