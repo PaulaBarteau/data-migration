@@ -49,6 +49,8 @@ Features:
 
 •	Cocha Cashu Biological Station-	https://en.wikipedia.org/wiki/Cocha_Cashu_Biological_Station 
 
+>As this is part of Manú National Park, I suggest it be placed in Specific Locality (the station is only 10 square km)
+
 •	Eluvaitivu- https://en.wikipedia.org/wiki/Eluvaitivu 
 
 •	Karaitivu Island- https://en.wikipedia.org/wiki/Karaitivu_(Jaffna) 
