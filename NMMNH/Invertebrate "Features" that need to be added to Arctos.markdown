@@ -44,7 +44,7 @@ Features:
 
 •	Manú National Park- https://en.wikipedia.org/wiki/Man%C3%BA_National_Park
 
->created as South America, Peru, Madre de Dios, Manú National Park
+>created as South America, Peru, Madre de Dios, Manú National Park  
 >created as South America, Peru, Cusco, Manú National Park
 
 •	Cocha Cashu Biological Station-	https://en.wikipedia.org/wiki/Cocha_Cashu_Biological_Station 
