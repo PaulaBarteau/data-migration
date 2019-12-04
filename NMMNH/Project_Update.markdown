@@ -14,6 +14,9 @@ While we are finishing up our data migration this winter, we will begin working 
  - 3,631 Herbarium
  -   462 Paleontology
  - 4,618 Total
+ 
+### Accession Records Entered
+ - 284 Biology accessions added
 
 ### Arctos Community Resources Created
 Paleo
