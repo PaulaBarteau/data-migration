@@ -70,4 +70,6 @@ Features:
 >also created Pacific Ocean, Republic of Palau, Hatohobei, Palau Islands
 
 •	Suez Canal	https://en.wikipedia.org/wiki/Suez_Canal 
-Map-https://www.google.com/maps/place/Helen+Island/@2.5355774,131.4710068,9.42z/data=!4m5!3m4!1s0x32b971629309275f:0x20d2e81fa9ca8bb0!8m2!3d2.9737065!4d131.8119383
+Map-https://www.google.com/maps/place/Helen+Island/@2.5355774,131.4710068,9.42z/data=!4m5!3m4!1s0x32b971629309275f:0x20d2e81fa9ca8bb0!8m2!3d2.9737065!4d131.8119383 
+
+>created as Africa, Egypt, Suez Canal
