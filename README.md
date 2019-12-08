@@ -1,5 +1,6 @@
-# data-migration
-Repository to manage migration of data for incoming collections.
+# Data Migration
+
+This repository is used to manage migration of data for incoming collections.
 
 Activity in this repository will be intiated once a new collection has finalized and signed an MOU and collection portals have been created.
 
