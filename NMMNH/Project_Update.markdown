@@ -11,47 +11,48 @@ We anticipate data migration to be 90% complete by late January and we plan to b
 
 # Catalog Records Entered
  - 525 Birds
-•	3,631 Herbarium
-•	462 Paleontology
-•	4,618 Total
+ - 3,631 Herbarium
+ - 462 Paleontology
+ - 4,618 Total
 
 # Accession Records Entered
-•	284 Biology accessions added
-•	213 Paleontology accessions added
-Arctos Community Resources Created
+ - 284 Biology accessions added
+ - 213 Paleontology accessions added
+ 
+# Arctos Community Resources Created
 
 # Paleontology
-•	530 Paleontology Agent names
-•	285 Paleontology Taxa with associated classifications
-•	245 Geology Attribute terms to be used as new locality attributes
-•	108 part name definitions
-•	32 Paleontology features
-•	47 Paleontology new higher geography entries (In process: Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065 out of 2,430 Quads)
+ - 530 Paleontology Agent names
+ - 285 Paleontology Taxa with associated classifications
+ - 245 Geology Attribute terms to be used as new locality attributes
+ - 108 part name definitions
+ - 32 Paleontology features
+ - 47 Paleontology new higher geography entries (In process: Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065 out of 2,430 Quads)
 
 # Biosciences
-•	670 Agent names
-•	44 Herbarium higher geographies added
-•	58 Herbarium taxon names added
-•	30 Arthropod taxon names added
+ - 670 Agent names
+ - 44 Herbarium higher geographies added
+ - 58 Herbarium taxon names added
+ - 30 Arthropod taxon names added
 
 # Arctos Procedures Created/Refined
-•	Worked with Arctos programmer to create a new method for encumbering all locality data.
-•	Tested bulk upload of research localities and collecting events with Arctos programmer.
+ - Worked with Arctos programmer to create a new method for encumbering all locality data.
+ - Tested bulk upload of research localities and collecting events with Arctos programmer.
 
 # Arctos Documentation Written
-•	wrote How To Create a Locality
-•	wrote How to Encumber Locality Data
+ - wrote How To Create a Locality
+ - wrote How to Encumber Locality Data
 
 # In Process
-•	2,430 Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065
-•	2,294 Taxa need to be researched and either corrected before loading to Arctos, or created in Arctos
-•	200 Biology Arthropod taxonomy to be researched, updated and loaded/created into Arctos
-•	Invertebrate/mollusc records
-•	How To Add Geology Attributes to a Locality
-•	Creating Tweets for BioSci @NMMNHS_Bio (Mollusc Monday, Mammal Monday) and Paleo (Fossil Friday) Twitter feeds and organizing with museum social media
-•	Ordering Digitization equipment for taking images. Setting up workstations.
+ - 2,430 Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065
+ - 2,294 Taxa need to be researched and either corrected before loading to Arctos, or created in Arctos
+ - 200 Biology Arthropod taxonomy to be researched, updated and loaded/created into Arctos
+ - Invertebrate/mollusc records
+ - How To Add Geology Attributes to a Locality
+ - Creating Tweets for BioSci @NMMNHS_Bio (Mollusc Monday, Mammal Monday) and Paleo (Fossil Friday) Twitter feeds and organizing with museum social media
+ - Ordering Digitization equipment for taking images. Setting up workstations.
 
 # Project Management Resources
-•	Arctos Portal
-•	GitHub Bi-Weekly Summary
-•	GitHub Bi-Weekly Reports
+ - Arctos Portal
+ - GitHub Bi-Weekly Summary
+ - GitHub Bi-Weekly Reports
