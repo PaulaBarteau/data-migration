@@ -11,6 +11,7 @@ We anticipate data migration to be 90% complete by late January and we plan to b
 
 ### Catalog Records Entered
  - 525 Birds
+ -- Example <a href="http://arctos.database.museum/guid/NMMNH:Bird:478">Bird<a/>
  - 3,631 Herbarium
  - 462 Paleontology
  - 4,618 Total
