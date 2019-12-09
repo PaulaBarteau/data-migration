@@ -10,7 +10,7 @@ Despite beginning the process in July, we experienced several delays with state 
 We anticipate data migration to be 90% complete by late January and we plan to begin working on developing protocols for photographing and 3D scanning specimens. We have purchased all imaging equipment, which will begin arriving in December and early January. We will set up the equipment in January and start taking images soon after.
 
 # Catalog Records Entered
-•	525 Birds
+ - 525 Birds
 •	3,631 Herbarium
 •	462 Paleontology
 •	4,618 Total
