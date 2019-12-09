@@ -15,7 +15,7 @@ We anticipate data migration to be 90% complete by late January and we plan to b
    - Check out a <a href="http://arctos.database.museum/guid/NMMNH:Herb:3420">NMMNHS Botany Record<a/>
  - 462 Paleontology
  - 4,618 Total
-   - <a href="http://arctos.database.museum/SpecimenSearch.cfm">NMMNHS Portal<a/>
+   - <a href="http://arctos.database.museum/home.cfm#NMMNHS">NMMNHS Portals<a/>
 
 ### Accession Records Entered
  - 284 Biology accessions added
