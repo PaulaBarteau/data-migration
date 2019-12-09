@@ -36,7 +36,7 @@ Biology
  
 ### Arctos Procedures Created/Refined
  - Worked with Arctos programmer to create a new method for encumbering all locality data.
- - Tested bulkload of research localities and collecting events with Arctos programmer.
+ - Tested bulk upload of research localities and collecting events with Arctos programmer.
 
 ### Arctos Documentation Written
  - wrote [How To Create a Locality](http://handbook.arctosdb.org/how_to/How-to-Create-a-Locality.html)
