@@ -11,10 +11,11 @@ We anticipate data migration to be 90% complete by late January and we plan to b
 
 ### Catalog Records Entered
  - 525 Birds
- -- Example <a href="http://arctos.database.museum/guid/NMMNH:Bird:478">Bird<a/>
+   - Check out a <a href="http://arctos.database.museum/guid/NMMNH:Bird:478">Bird Record<a/>
  - 3,631 Herbarium
  - 462 Paleontology
  - 4,618 Total
+   - <a href="http://arctos.database.museum/SpecimenSearch.cfm">NMMNHS Portal<a/>
 
 ### Accession Records Entered
  - 284 Biology accessions added
