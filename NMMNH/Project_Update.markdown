@@ -9,19 +9,19 @@ Despite beginning the process in July, we experienced several delays with state 
 
 We anticipate data migration to be 90% complete by late January and we plan to begin working on developing protocols for photographing and 3D scanning specimens. We have purchased all imaging equipment, which will begin arriving in December and early January. We will set up the equipment in January and start taking images soon after.
 
-## Catalog Records Entered
+### Catalog Records Entered
  - 525 Birds
  - 3,631 Herbarium
  - 462 Paleontology
  - 4,618 Total
 
-## Accession Records Entered
+### Accession Records Entered
  - 284 Biology accessions added
  - 213 Paleontology accessions added
  
-# Arctos Community Resources Created
+## Arctos Community Resources Created
 
-## Paleontology
+### Paleontology
  - 530 Paleontology Agent names
  - 285 Paleontology Taxa with associated classifications
  - 245 Geology Attribute terms to be used as new locality attributes
@@ -29,21 +29,21 @@ We anticipate data migration to be 90% complete by late January and we plan to b
  - 32 Paleontology features
  - 47 Paleontology new higher geography entries (In process: Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065 out of 2,430 Quads)
 
-## Biosciences
+### Biosciences
  - 670 Agent names
  - 44 Herbarium higher geographies added
  - 58 Herbarium taxon names added
  - 30 Arthropod taxon names added
 
-## Arctos Procedures Created/Refined
+### Arctos Procedures Created/Refined
  - Worked with Arctos programmer to create a new method for encumbering all locality data.
  - Tested bulk upload of research localities and collecting events with Arctos programmer.
 
-## Arctos Documentation Written
+### Arctos Documentation Written
  - wrote How To Create a Locality
  - wrote How to Encumber Locality Data
 
-# In Process
+## In Process
  - 2,430 Quad maps are being added as higher geography via a bulk process. We have gathered the necessary data for 1,065
  - 2,294 Taxa need to be researched and either corrected before loading to Arctos, or created in Arctos
  - 200 Biology Arthropod taxonomy to be researched, updated and loaded/created into Arctos
@@ -52,7 +52,7 @@ We anticipate data migration to be 90% complete by late January and we plan to b
  - Creating Tweets for BioSci @NMMNHS_Bio (Mollusc Monday, Mammal Monday) and Paleo (Fossil Friday) Twitter feeds and organizing with museum social media
  - Ordering Digitization equipment for taking images. Setting up workstations.
 
-# Project Management Resources <aArctos Portal
+## Project Management Resources <aArctos Portal
  - <a href="http://arctos.database.museum/SpecimenSearch.cfm">Arctos Portal<a/>
  - GitHub Bi-Weekly Summary
  - GitHub Bi-Weekly Reports
