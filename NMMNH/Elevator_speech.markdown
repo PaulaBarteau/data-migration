@@ -4,6 +4,16 @@
 
 We are digitizing our physical objects by creating high quality digital images and associated descriptive electronic records. Digitization will make our collections accessible to researchers, enthusiasts, constituents, and interested consumers worldwide through searchable online networks. This is accomplished with Arctos, a collaboratively maintained collection data management system that integrates information from all of our disciplines and provides current, web accessible collection data linked with external resources. Arctos’ data standards create more precise and searchable information, allowing us to connect objects, people and places and demonstrate the impact our collection has on science and public knowledge. 
 
+Here is a simplified/bullet points version of this. Talking points can be mixed and matched as approipriate for who you are talking to.
+
+- We are making our collections more accessible by moving them onto the internet.
+- This is accomplished with Arctos, a natural history database shared by a network of museums and universities across the country.
+- Arctos enables us to standardize our data and make it more precise and searcheable.
+- Arctos enables us to make more connections between objects, people, and places.
+- Arctos enables us to demonstrate our impact on science and public knowledge.
+- Arctos is accessible to the public and will allow us to expand our public and scientific outreach.
+- We will be taking high quality images of specimens that will be shared with the public on Arctos.
+
 ## Two minute version
 
 We are in the process of enhancing our physical objects by creating high quality digital images and recording associated descriptive text to electronic records, otherwise known as digitization. This will allow us to make our collections accessible to researchers, enthusiasts, constituents, and interested consumers worldwide through searchable online networks, facilitating discovery, learning, and enhanced appreciation for the fascinating array of biodiversity resources housed in museum collections. Our mission is to preserve and interpret the distinctive natural and scientific heritage of our state through extraordinary collections, research, exhibits and programs designed to ignite a passion for lifelong learning.  Digitizing our collection is a direct path to fulfilling our mission. 
