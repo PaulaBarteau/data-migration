@@ -33,9 +33,11 @@ No imaging hardware has been recieved to date.
 ### Hannah
 **Complete**
  - 283 taxonomy added to Arctos
+ - 2,695 higher geography quad maps compiled
 
 **In Process**
- - Creating a Higher Geography bulkload of approximately 2600 Quad Maps. Information has been gathered for Quad Map Bulkload to date: 2300
+ - Researching for specimen photography protocol
+ - Locating unknown paleo parts within the collection to verify part names
 
  
 ### Lucius
