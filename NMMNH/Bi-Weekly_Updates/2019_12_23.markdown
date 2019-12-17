@@ -13,6 +13,7 @@ No imaging hardware has been recieved to date.
 ### Teresa
 **Complete**
  - Uploaded XXX basic records
+ - Worked with Arctos DBA, uploaded 2,686 map quad higher geography to be used for paleo data migration.
  
 **In Process**
  - Standardizing Parts
