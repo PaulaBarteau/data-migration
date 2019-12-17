@@ -16,6 +16,7 @@ This document lists major tasks completed by the team over the course of the pro
  - Added 30 features and created 40 new higher geography entries
  - wrote [How To Create a Locality](http://handbook.arctosdb.org/how_to/How-to-Create-a-Locality.html)
  - wrote [How to Encumber Locality Data](http://handbook.arctosdb.org/how_to/How-to-Encumber-Locality.html)
+ - Wrote [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
  
 #### Nicole
  - Created the bulkload for 115 non-conforming Agent names
@@ -23,8 +24,8 @@ This document lists major tasks completed by the team over the course of the pro
  
 
 #### Hannah
- - Found quad maps for localities of specimens. Have completed 1,065 out of 2,430.
- - Filled in any missing or questionable data for taxonomy. Have completed 285 taxa.
+ - 283 taxa/classifications added to Arctos
+ - 2,695 higher geography quad maps compiled for bulkload
  
  
 #### Lucius
@@ -36,6 +37,7 @@ This document lists major tasks completed by the team over the course of the pro
  - Trained Paula on pulling information from specimens cataloged in other collections with which we share a specimen
  - Instructed Paula on entering UTM and TRS data
  - Assisted with locality for bird specimen shared with MSB
+ - Added 59 higher geography for mollusk collection
  
 #### Lindsey
 
