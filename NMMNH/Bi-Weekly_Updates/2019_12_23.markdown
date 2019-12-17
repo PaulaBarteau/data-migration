@@ -12,13 +12,12 @@ No imaging hardware has been recieved to date.
 ## Geoscience
 ### Teresa
 **Complete**
- - Wrote [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
+ - Uploaded XXX basic records
  
 **In Process**
  - Standardizing Parts
  - Writing data migration documentation.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
- - Drafted [elevator talks](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/Elevator_speech.markdown).
  
 ### Nicole
 **Complete**
@@ -32,13 +31,11 @@ No imaging hardware has been recieved to date.
 
 ### Hannah
 **Complete**
- - 283 taxonomy added to Arctos
  - 2,695 higher geography quad maps compiled
 
 **In Process**
  - Researching for specimen photography protocol
  - Locating unknown paleo parts within the collection to verify part names
-
  
 ### Lucius
 **In Process**
@@ -47,7 +44,7 @@ No imaging hardware has been recieved to date.
 ## Bioscience
 ### Teresa
 **Complete**
-
+ - Added 59 higher geography for mollusk collection
  
 ### Lindsey
 **Complete**
@@ -63,7 +60,6 @@ No imaging hardware has been recieved to date.
  
  
  **In Process**
- - Bird entry complete
  - Creating mollusc bulkload templated and method for bulkloading mollusc records
  - Cleaning up taxon and geography information for entire invertabrate collection
  
