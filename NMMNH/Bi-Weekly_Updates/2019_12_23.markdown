@@ -23,7 +23,7 @@ No imaging hardware has been recieved to date.
  
 ### Nicole
 **Complete**
- - Added bullet point version of [Elevator Speech](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/Elevator_speech.markdown
+ - Added bullet point version of [Elevator Speech](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/Elevator_speech.markdown)
  
  **In Process**
  - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
