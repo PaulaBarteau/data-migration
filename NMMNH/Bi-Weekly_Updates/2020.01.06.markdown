@@ -1,0 +1,86 @@
+# NMMNH Digitization Grant 2020-01-06 Bi-weekly Update
+
+This documents discussion at weekly team meetings
+
+## Progress Report
+
+Total records in Arctos:  
+Total Images Taken: 0
+
+No imaging hardware has been recieved to date.
+
+## Geoscience
+### Teresa
+**Complete**
+ - Uploaded XXX basic records
+ - Worked with Arctos DBA, uploaded 2,686 map quad higher geography to be used for paleo data migration.
+ - Added 34 formations to Geology code table
+ 
+**In Process**
+ - Standardizing Parts
+ - Writing data migration documentation.
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ 
+### Nicole
+**Complete**
+ - Added bullet point version of [Elevator Speech](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/Elevator_speech.markdown)
+ 
+ **In Process**
+ - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
+ - Total tally of NMMNHS paleo agents added to Arctos is 746.
+ - Reviewing taxon and part data as requested.
+ - Picked a higher taxon authority for the vertebrate paleontology collections (Vertebrate Paleontology, 3rd Ed., Benton, Appendix "Classification of the Vertebrates"
+  - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
+
+### Hannah
+**Complete**
+ - 2,695 higher geography quad maps compiled
+
+**In Process**
+ - Researching for specimen photography protocol
+ - Locating unknown paleo parts within the collection to verify part names
+ - Reseacrching taxa
+ 
+### Lucius
+**In Process**
+  - Researching names for taxa that are not in Arctos and do not appear to be valid per Arctos validation tool.
+ 
+## Bioscience
+### Teresa
+**Complete**
+ - Added 59 higher geography for mollusk collection
+ 
+### Lindsey
+**Complete**
+
+
+**In Process**
+ - Standardizing data on remaining Herbarium records for bulkload to Arctos
+ - Working on bulkloading herbarium cat# records 1000-1999
+ - Mentoring Paula on bulkloading procedures for the mollusck bulkload
+ 
+### Paula
+ **Complete**
+ 
+ 
+ **In Process**
+ - Creating mollusc bulkload templated and method for bulkloading mollusc records
+ - Cleaning up taxon and geography information for entire invertabrate collection
+ 
+## Discussion Topics
+
+### SPNHC
+ - Teresa will be leading Creating and Refining Controlled Vocabularies in Arctos
+ - Suggest we submit an abstract to <a href="http://www.spnhc-icomnathist2020.com/s7-3sharing-sensitive-species-data-in-a-digital-world-where-are-we-and-where-do-we-need-to-go/">S7.3 Sharing Sensitive Species Data in a Digital World: Where are we, and where do we need to go?</a> regarding the recent addition of the "access = private" function. Created [workshop project in GitHub](https://github.com/ArctosDB/SPNHC/projects/5)
+
+### Social Media
+Need to document social media strategy
+ - Mollusc Monday, Mammal Monday (Paula)
+ - Fossil Friday (Hannah)
+ 
+### Tracking Time
+It would be good for us to figure out how long it takes to complete specific tasks.
+ - Average time to manually enter a single catalog record
+ - Average time to research and add a new taxon name to Arctos
+ - Average time to add higher geography (map quads) to Arctos
+Anything else?
