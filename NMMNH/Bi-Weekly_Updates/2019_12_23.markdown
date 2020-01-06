@@ -4,7 +4,7 @@ This documents discussion at weekly team meetings
 
 ## Progress Report
 
-Total records in Arctos:  
+Total records in Arctos:  4,951
 Total Images Taken: 0
 
 No imaging hardware has been recieved to date.
@@ -12,7 +12,7 @@ No imaging hardware has been recieved to date.
 ## Geoscience
 ### Teresa
 **Complete**
- - Uploaded XXX basic records
+ - Uploaded 328 basic records
  - Worked with Arctos DBA, uploaded 2,686 map quad higher geography to be used for paleo data migration.
  - Added 34 formations to Geology code table
  
