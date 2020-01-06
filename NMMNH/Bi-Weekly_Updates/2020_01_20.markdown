@@ -12,13 +12,14 @@ No imaging hardware has been recieved to date.
 ## Geoscience
 ### Teresa
 **Complete**
- - Added 746 basic paleo records
+ 
 
  
 **In Process**
  - Standardizing Parts
  - Writing data migration documentation.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+  - Added 746 basic paleo records (geology needs some correction - awaiting merge of localities L-100_199)
  
 ### Nicole
 **Complete**
