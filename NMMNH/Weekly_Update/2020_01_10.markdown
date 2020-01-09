@@ -1,0 +1,59 @@
+# NMMNH Digitization Grant 2020-01-10 Weekly Update
+
+This documents discussion at weekly team meetings
+
+## Progress Report
+
+Total records in Arctos: 
+Total Images Taken: 0
+
+Most Imaging hardware has been recieved.
+
+### Geoscience
+#### Teresa
+**Complete**
+ 
+**In Process**
+ 
+#### Nicole
+**Complete**
+ 
+ **In Process**
+- Assembling imaging equipment
+- Researching imaging
+- Adding mineral accesssions
+
+#### Hannah
+**Complete**
+ 
+**In Process**
+ 
+#### Lucius
+**In Process**
+  - Researching names for taxa that are not in Arctos and do not appear to be valid per Arctos validation tool.
+ 
+### Bioscience
+#### Teresa
+**Complete**
+ 
+#### Lindsey
+**In Process**
+ 
+**Complete**
+ 
+#### Paula
+**In Process**
+ 
+ **Complete**
+ 
+## Discussion Topics
+
+### Social Media
+- Still trying to track down the paleo twitter login.
+ 
+### Tracking Time
+It would be good for us to figure out how long it takes to complete specific tasks.
+ - Average time to manually enter a single catalog record
+ - Average time to research and add a new taxon name to Arctos
+ - Average time to add higher geography (map quads) to Arctos
+Anything else?
