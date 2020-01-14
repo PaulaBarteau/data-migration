@@ -8,7 +8,7 @@ This documents discussion at weekly team meetings
 Total records in Arctos:  
 Total Images Taken: 0
 
-No imaging hardware has been recieved to date.
+Most imaging hardware has been recieved and is being inventoried and set up.
 
 ## Geoscience
 ### Teresa
