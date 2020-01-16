@@ -15,6 +15,7 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 **Complete**
  - Completed "Manage Collection" for Paleo adding museum logo to record header and details for future publication to aggregators.
  - Updated "[How to Manage a Collection](http://handbook.arctosdb.org/how_to/How-to-Manage-a-Collection-in-Arctos.html)" for the Arctos community.
+ - Reviewed all chronostratigraphy terms used in localities. Added 12 terms to the Arctos code table and sent 39 terms to Nicole for review.
  
 **In Process**
  - Standardizing Parts
