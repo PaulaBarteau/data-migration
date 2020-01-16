@@ -13,8 +13,8 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 ## Geoscience
 ### Teresa
 **Complete**
- 
-
+ - Completed "Manage Collection" for Paleo adding museum logo to record header and details for future publication to aggregators.
+ - Updated "[How to Manage a Collection](http://handbook.arctosdb.org/how_to/How-to-Manage-a-Collection-in-Arctos.html)" for the Arctos community.
  
 **In Process**
  - Standardizing Parts
