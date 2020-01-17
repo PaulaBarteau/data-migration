@@ -1,14 +1,15 @@
 Dates:
--Unknown dates use 1800-01-01; the current date will be used as the end date
-      If there is a prep date, we use the prep date for the end date.
-      If a year is provided, we use year-01-01 to year-12-31
-      If a year and month are provided we use yyyy-mm-01 to the last day of that month
-	
-Identification Date: does not require full date
-Attribute Date: Does not require full date
-Detr. Date: REQUIRED (in case of no date use the first of the month or year)
-VerbatimDate: Literally the date that is written as is, and put No date recorded.
-Begin and End date: Earliest we know it was collected and then the latest
+ - Unknown dates use 1800-01-01; the current date will be used as the end date
+ - If there is a prep date, we use the prep date for the end date.
+ - If a year is provided, we use year-01-01 to year-12-31
+ - If a year and month are provided we use yyyy-mm-01 to the last day of that month
+
+Types of Dates:
+ - Identification Date: does not require full date
+ - Attribute Date: Does not require full date
+ - Detr. Date: REQUIRED (in case of no date use the first of the month or year)
+ - VerbatimDate: Literally the date that is written as is, and put No date recorded.
+ - Begin and End date: Earliest we know it was collected and then the latest
 
 
 
