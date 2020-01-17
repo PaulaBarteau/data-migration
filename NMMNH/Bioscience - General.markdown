@@ -1,7 +1,7 @@
 Dates:
       Unknown dates use 1800-01-01; the current date will be used as the end date
       If there is a prep date, we use the prep date for the end date.
-      If a year is provided, we use year-01-01 to year-31-12
+      If a year is provided, we use year-01-01 to year-12-31
       If a year and month are provided we use yyyy-mm-01 to the last day of that month
 	
   Identification Date: does not require full date
