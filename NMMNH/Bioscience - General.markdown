@@ -3,6 +3,11 @@ Dates:
  - If there is a prep date, we use the prep date for the end date.
  - If a year is provided, we use year-01-01 to year-12-31
  - If a year and month are provided we use yyyy-mm-01 to the last day of that month
+ - summer: June to end of August. ex: Summer 1992 is 1992-06-01	to 1992-08-31
+ - spring: March to end of May. ex: Spring 1995 is 1995-03-01	to 1995-05-31
+ - fall: September to end of November. ex: Fall 1989	is 1989-09-01	to 1989-11-30
+
+
 
 Types of Dates:
  - Identification Date: does not require full date
