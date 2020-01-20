@@ -16,12 +16,15 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
  - Updated "[How to Manage a Collection](http://handbook.arctosdb.org/how_to/How-to-Manage-a-Collection-in-Arctos.html)" for the Arctos community.
  - Reviewed all chronostratigraphy terms used in localities. Added 12 terms to the Arctos code table and sent 39 terms to Nicole for review.
+ - Created tutorial for uploading small batches of media to TACC
+ - Created tutorial for bulkloading media metadata
  
 **In Process**
  - Standardizing Parts
  - Writing data migration documentation.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
   - Added 746 basic paleo records (geology needs some correction - awaiting merge of localities L-100_199)
+  - Drafted [abstract for SPNHC presentation on private loaclities](https://github.com/ArctosDB/SPNHC/issues/30).
  
 ### Nicole
 **Complete**
