@@ -7,6 +7,7 @@ This document lists major tasks completed by the team over the course of the pro
 ### Geoscience
 
 #### Teresa
+   - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
  - Bulkloaded 245 Geology Attribute terms to be used as new locality attributes.
  - Worked with Arctos programmer to create a new method for encumbering all locality data.
  - Tested bulkload of research localities and collecting events with Arctos programmer.
@@ -17,6 +18,11 @@ This document lists major tasks completed by the team over the course of the pro
  - wrote [How To Create a Locality](http://handbook.arctosdb.org/how_to/How-to-Create-a-Locality.html)
  - wrote [How to Encumber Locality Data](http://handbook.arctosdb.org/how_to/How-to-Encumber-Locality.html)
  - Wrote [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
+ - Updated "[How to Manage a Collection](http://handbook.arctosdb.org/how_to/How-to-Manage-a-Collection-in-Arctos.html)" for the Arctos community.
+ - Added definitions to 68 Chronostratigraphy - International Commission on Stratigraphy terms in the [geology code table](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE).
+ - Added 58 Chronostratigraphy - International Commission on Stratigraphy terms (all terms from Phanerozoic to present) to the [geology code table](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE).
+ - Created video tutorial for uploading small batches of media to TACC
+ - Created video tutorial for bulkloading media metadata
  
 #### Nicole
  - Created the bulkload for 115 non-conforming Agent names
