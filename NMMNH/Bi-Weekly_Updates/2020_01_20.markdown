@@ -79,13 +79,30 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Teresa will be leading Creating and Refining Controlled Vocabularies in Arctos
  - Suggest we submit an abstract to <a href="http://www.spnhc-icomnathist2020.com/s7-3sharing-sensitive-species-data-in-a-digital-world-where-are-we-and-where-do-we-need-to-go/">S7.3 Sharing Sensitive Species Data in a Digital World: Where are we, and where do we need to go?</a> regarding the recent addition of the "access = private" function. Created [workshop project in GitHub](https://github.com/ArctosDB/SPNHC/projects/5)
 
-### Social Media
-Need to document social media strategy
- - Mollusc Monday, Mammal Monday (Paula)
- - Fossil Friday (Hannah)
- 
-### Tracking Time
-It would be good for us to figure out how long it takes to complete specific tasks.
- - Average time to manually enter a single catalog record
- - Average time to research and add a new taxon name to Arctos
- - Average time to add higher geography (map quads) to Arctos
+### Bi-Weekly Meeting Notes
+
+#### SPNHC
+- we can take leave before or after!
+- book your own travel and get reimbursed within the next two weeks
+- budget limits will get emailed to everyone (approx $3,900) - Lindsey
+- share your research on flights and lodging
+- flexing time for part time people
+
+#### Open Items
+- computers, monitors not here
+- photoshop
+- 3D imager
+- new ethernet March 1st
+- no internet for paleo digitization station currently
+- red bar on Excel
+
+#### Gila Conference
+- Jason, Hannah and me
+- stay at Joe's brother's house?
+- Museum suburban for transport
+- potential per-diem from museum
+- leave Thursday, return Sunday? depends on start time on Friday and schedule on Saturday
+
+
+
+
