@@ -7,13 +7,7 @@ This document lists major tasks completed by the team over the course of the pro
 ### Geoscience
 
 #### Teresa
-   - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
- - Bulkloaded 245 Geology Attribute terms to be used as new locality attributes.
- - Worked with Arctos programmer to create a new method for encumbering all locality data.
- - Tested bulkload of research localities and collecting events with Arctos programmer.
- - Bulkloaded 461 specimen records
- - Bulkloaded 115 non-conforming Agents to Arctos
- - Added definitions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
+##### Benefits all Arctos Collections
  - Added 30 features and created 40 new higher geography entries
  - wrote [How To Create a Locality](http://handbook.arctosdb.org/how_to/How-to-Create-a-Locality.html)
  - wrote [How to Encumber Locality Data](http://handbook.arctosdb.org/how_to/How-to-Encumber-Locality.html)
@@ -23,30 +17,45 @@ This document lists major tasks completed by the team over the course of the pro
  - Added 58 Chronostratigraphy - International Commission on Stratigraphy terms (all terms from Phanerozoic to present) to the [geology code table](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE).
  - Created video tutorial for uploading small batches of media to TACC
  - Created video tutorial for bulkloading media metadata
+ - Bulkloaded 245 Geology Attribute terms to be used as new locality attributes.
+ - Added definitions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
+ - Worked with Arctos programmer to create a new method for encumbering all locality data.
+   
+##### Benefits NMMNH Geoscience
+ - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
+ - Tested bulkload of research localities and collecting events with Arctos programmer.
+ - Bulkloaded 461 specimen records
+ - Bulkloaded 115 non-conforming Agents to Arctos
  
 #### Nicole
+##### Benefits all Arctos Collections
  - Created the bulkload for 115 non-conforming Agent names
  - Since beginning of project has created 530 agents in Arctos (256 bulkloaded, 274 entered individually)
  
 
 #### Hannah
+##### Benefits all Arctos Collections
  - 283 taxa/classifications added to Arctos
  - 2,695 higher geography quad maps compiled for bulkload
  
  
 #### Lucius
- - Created defintions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
+##### Benefits all Arctos Collections
+- Created defintions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
  
 ### Bioscience
 #### Teresa
+##### Benefits all Arctos Collections
+ - Added 59 higher geography for mollusk collection
+ 
+##### Benefits NMMNH Bioscience
  - Assisted Lindsey with Herbarium Bulkload questions
  - Trained Paula on pulling information from specimens cataloged in other collections with which we share a specimen
  - Instructed Paula on entering UTM and TRS data
  - Assisted with locality for bird specimen shared with MSB
- - Added 59 higher geography for mollusk collection
  
 #### Lindsey
-
+##### Benefits NMMNH Bioscience
  - Bulkloaded 2999 Herbarium specimen records
  - Marked Paulas 98 mollusc records to load, loaded
    - Deleted 98 mollusc records, some of them got scrambled so needed to delete. Paula will fix and re-upload
@@ -55,6 +64,7 @@ This document lists major tasks completed by the team over the course of the pro
  - Sent Charles an email about the registrar workstation, the 4 inventory laptops, and the 2 digitization workstations. 11/15/2019
 
 #### Paula
+##### Benefits NMMNH Bioscience
  - Entered 520 bird records manually
  - Bulkloaded 98 mollusc records
  - Edited bird issues - locality and dates
