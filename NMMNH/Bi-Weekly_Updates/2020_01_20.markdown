@@ -78,10 +78,6 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 ### SPNHC
  - Teresa will be leading Creating and Refining Controlled Vocabularies in Arctos
  - Suggest we submit an abstract to <a href="http://www.spnhc-icomnathist2020.com/s7-3sharing-sensitive-species-data-in-a-digital-world-where-are-we-and-where-do-we-need-to-go/">S7.3 Sharing Sensitive Species Data in a Digital World: Where are we, and where do we need to go?</a> regarding the recent addition of the "access = private" function. Created [workshop project in GitHub](https://github.com/ArctosDB/SPNHC/projects/5)
-
-### Bi-Weekly Meeting Notes
-
-#### SPNHC
 - we can take leave before or after!
 - book your own travel and get reimbursed within the next two weeks
 - budget limits will get emailed to everyone (approx $3,900) - Lindsey
