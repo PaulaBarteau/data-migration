@@ -1,0 +1,84 @@
+# NMMNH Digitization Grant 2020-02-03 Bi-weekly Update
+(Activity from 2020-01-20 through 2020-02-02)
+
+This documents discussion at bi-weekly team meetings
+
+## Progress Report
+
+Total records in Arctos:  
+Total Images Taken: 0
+
+Most imaging hardware has been recieved and is being inventoried and set up.
+
+## Geoscience
+### Teresa
+**Complete**
+
+ 
+**In Process**
+ - Standardizing Parts
+ - Writing data migration documentation.
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+  - Added 746 basic paleo records (geology needs some correction - awaiting merge of localities L-100_199)
+  - Drafted [abstract for SPNHC presentation on private loaclities](https://github.com/ArctosDB/SPNHC/issues/30).
+ 
+### Nicole
+**Complete**
+
+ 
+ **In Process**
+ - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
+ - Total tally of NMMNHS paleo agents added to Arctos is 746.
+ - Reviewing taxon and part data as requested.
+ - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
+
+### Hannah
+**Complete**
+ 
+
+**In Process**
+ - Researching geology terms
+ - Researching for specimen photography protocol
+ - Researching taxa
+ 
+### Lucius
+**In Process**
+  - Researching names for taxa that are not in Arctos and do not appear to be valid per Arctos validation tool.
+ 
+## Bioscience
+### Teresa
+**Complete**
+ - Completed "Manage Collection" for all collections adding museum logo to record header and details for future publication to aggregators. 
+ 
+### Lindsey
+**Complete**
+
+
+**In Process**
+ - Standardizing data on remaining Herbarium records for bulkload to Arctos
+ - Working on bulkloading herbarium cat# records 1000-1999
+ - Mentoring Paula on bulkloading procedures for the mollusck bulkload
+ 
+### Paula
+ **Complete**
+ 
+ 
+ **In Process**
+ - Creating mollusc bulkload templated and method for bulkloading mollusc records
+ - Cleaning up taxon and geography information for entire invertabrate collection
+ 
+## Discussion Topics
+
+### SPNHC
+ - Teresa will be leading Creating and Refining Controlled Vocabularies in Arctos
+ - Suggest we submit an abstract to <a href="http://www.spnhc-icomnathist2020.com/s7-3sharing-sensitive-species-data-in-a-digital-world-where-are-we-and-where-do-we-need-to-go/">S7.3 Sharing Sensitive Species Data in a Digital World: Where are we, and where do we need to go?</a> regarding the recent addition of the "access = private" function. Created [workshop project in GitHub](https://github.com/ArctosDB/SPNHC/projects/5)
+
+#### Open Items
+- computers, monitors not here
+- photoshop
+- 3D imager
+- new ethernet March 1st
+- no internet for paleo digitization station currently
+- red bar on Excel
+
+#### Gila Conference
