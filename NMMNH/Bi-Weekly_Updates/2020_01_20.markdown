@@ -58,12 +58,14 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  
 ### Lindsey
 **Complete**
-
+ - Finished bulkloading Herbarium specimens. 
+ - Received, unpacked and tested more digitization equipment
+ - Met with digitization crew to get started with SPNHC abstracts and travel
 
 **In Process**
- - Standardizing data on remaining Herbarium records for bulkload to Arctos
- - Working on bulkloading herbarium cat# records 1000-1999
- - Mentoring Paula on bulkloading procedures for the mollusck bulkload
+ - Working on standardizing Herbarium data to be uploaded to GBIF
+ - Working on fixing dates and agents in arthropod data.
+ - Mentoring Paula on taxonomy procedures for the mollusc bulkload
  
 ### Paula
  **Complete**
