@@ -21,6 +21,10 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
   - Added 746 basic paleo records (geology needs some correction - awaiting merge of localities L-100_199)
   - Drafted [abstract for SPNHC presentation on private loaclities](https://github.com/ArctosDB/SPNHC/issues/30).
+  - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
+  - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
+  - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
+  - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
  
 ### Nicole
 **Complete**
