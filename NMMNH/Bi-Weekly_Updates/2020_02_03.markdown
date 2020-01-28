@@ -52,7 +52,8 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 ## Bioscience
 ### Teresa
 **Complete**
- - Completed "Manage Collection" for all collections adding museum logo to record header and details for future publication to aggregators. 
+ - Completed "Manage Collection" for all collections adding museum logo to record header and details for future publication to aggregators.
+ - Added 3 higher geography to code table
  
 ### Lindsey
 **Complete**
