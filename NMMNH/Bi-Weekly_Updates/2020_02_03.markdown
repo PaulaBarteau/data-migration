@@ -25,6 +25,7 @@ Most imaging hardware has been recieved and is being inventoried and set up.
   - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
   - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
   - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
+  - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
  
 ### Nicole
 **Complete**
