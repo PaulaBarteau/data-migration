@@ -47,8 +47,11 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Writing abstract for SPNHC presentation. Symposia S8.2. 
  
 ### Lucius
+**Complete**
+ - Researched 83 taxon names
+ 
 **In Process**
-  - Researching names for taxa that are not in Arctos and do not appear to be valid per Arctos validation tool.
+ - Researching names for taxa that are not in Arctos and do not appear to be valid per Arctos validation tool.
  
 ## Bioscience
 ### Teresa
