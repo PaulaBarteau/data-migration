@@ -58,6 +58,7 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 **Complete**
  - Completed "Manage Collection" for all collections adding museum logo to record header and details for future publication to aggregators.
  - Added 3 higher geography to code table
+ - Downloaded 5,798 records shared with MSB and prepped bulkload file for load to NMMNH:Mamm collection.
  
 ### Lindsey
 **Complete**
