@@ -71,6 +71,7 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Fixing remaining arthropod and mammal issues
  - Get mollusc records into bulkload format
  - Getting non-tissued mammal records into Arctos ~450
+ - Creating IPM/Arctos abstract for SPNHC
  
 ### Paula
  **Complete**
