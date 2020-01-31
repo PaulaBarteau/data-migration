@@ -91,7 +91,7 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 - computers, monitors not here
 - photoshop
 - 3D imager
-- new ethernet March 1st
+- new ethernet Feb 3rd
 - no internet for paleo digitization station currently
 - red bar on Excel
 
