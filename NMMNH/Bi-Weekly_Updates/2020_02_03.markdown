@@ -62,12 +62,15 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  
 ### Lindsey
 **Complete**
-
+ - Bulk uploaded ~7000 arthropod records
+ - Researched alcohol arthropod digitzation techniques
+ - Bulk uploaded ~6000 mammal records
+ - Researching and purchasing SPNHC trip flight and registration
 
 **In Process**
- - Standardizing data on remaining Herbarium records for bulkload to Arctos
- - Working on bulkloading herbarium cat# records 1000-1999
- - Mentoring Paula on bulkloading procedures for the mollusck bulkload
+ - Fixing remaining arthropod and mammal issues
+ - Get mollusc records into bulkload format
+ - Getting non-tissued mammal records into Arctos ~450
  
 ### Paula
  **Complete**
