@@ -88,8 +88,9 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Suggest we submit an abstract to <a href="http://www.spnhc-icomnathist2020.com/s7-3sharing-sensitive-species-data-in-a-digital-world-where-are-we-and-where-do-we-need-to-go/">S7.3 Sharing Sensitive Species Data in a Digital World: Where are we, and where do we need to go?</a> regarding the recent addition of the "access = private" function. Created [workshop project in GitHub](https://github.com/ArctosDB/SPNHC/projects/5)
 
 #### Open Items
-- computers, monitors not here
+- digitization computers, monitors not here
 - photoshop
+--will not be able to get photoshop and lightroom together, will need to be purchased seperately. Look for state funding support
 - 3D imager
 - new ethernet Feb 3rd
 - no internet for paleo digitization station currently
