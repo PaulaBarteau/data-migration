@@ -5,7 +5,7 @@ This documents discussion at bi-weekly team meetings
 
 ## Progress Report
 
-Total records in Arctos:  
+Total records in Arctos: 18,806 
 Total Images Taken: 0
 
 Most imaging hardware has been recieved and is being inventoried and set up.
@@ -19,13 +19,13 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Standardizing Parts
  - Writing data migration documentation.
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
-  - Added 746 basic paleo records (geology needs some correction - awaiting merge of localities L-100_199)
-  - Drafted [abstract for SPNHC presentation on private loaclities](https://github.com/ArctosDB/SPNHC/issues/30).
-  - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
-  - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
-  - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
-  - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
-  - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
+ - Added 746 basic paleo records (geology needs some correction - awaiting merge of localities L-100_199)
+ - Drafted [abstract for SPNHC presentation on private loaclities](https://github.com/ArctosDB/SPNHC/issues/30).
+ - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
+ - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
+ - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
+ - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
+ - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
  
 ### Nicole
 **Complete**
@@ -89,11 +89,16 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 
 #### Open Items
 - digitization computers, monitors not here
-- photoshop
---will not be able to get photoshop and lightroom together, will need to be purchased seperately. Look for state funding support
-- 3D imager
-- new ethernet Feb 3rd
+- photoshop Adobe waiting on the state - probably a month out at least. Get camera software and start taking pics.
+- new ethernet Feb 3rd they are working on it now
 - no internet for paleo digitization station currently
-- red bar on Excel
+- Order 3-D printing stuff this week
+- Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
+
+#### SPNHC
+- Next Tuesday meet up to finalize abstracts and register
 
 #### Gila Conference
+
+Hannah and Jason presenting, Teresa going for moral support
+
