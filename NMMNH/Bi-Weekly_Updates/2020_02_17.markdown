@@ -59,13 +59,18 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  
 ### Lindsey
 **Complete**
-
+ - Fixed 488 invertebrate agents
+ - Uploaded tissued mammals
+ - 
 
 **In Process**
  - Fixing remaining arthropod and mammal issues
  - Get mollusc records into bulkload format
+ - Fixing mollusc taxonomy problems
  - Getting non-tissued mammal records into Arctos ~450
  - Creating IPM/Arctos abstract for SPNHC
+ - checking in on everyone's travel for SPNHC
+ 
  
 ### Paula
  **Complete**
