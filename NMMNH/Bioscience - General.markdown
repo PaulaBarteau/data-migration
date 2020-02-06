@@ -25,3 +25,4 @@ Localities for Herb: for 1000 speciemsn, to create verbatim locality, higher geo
 Excel functions:
 =datevalue to convert text dates to numerical dates
 =trim() to get rid of extra spaces at the beginning, middle or end
+ =VLOOKUP(uniqueidentifier(catnum),highlightentiretable,whichcolumntoreadfrom,FALSE)
