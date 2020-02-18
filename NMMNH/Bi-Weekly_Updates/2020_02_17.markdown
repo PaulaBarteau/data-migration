@@ -8,7 +8,7 @@ This documents discussion at bi-weekly team meetings
 Total records in Arctos: 28,594  
 Total Images Taken: 15 (with an iPhone!)
 
-Most imaging hardware has been recieved and is being inventoried and set up. Electricity is a problem in Geoscience.
+All imaging hardware has been recieved and is being inventoried and set up. Electricity is a problem in Geoscience.
 
 ## Geoscience
 ### Teresa
