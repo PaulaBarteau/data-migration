@@ -5,27 +5,30 @@ This documents discussion at bi-weekly team meetings
 
 ## Progress Report
 
-Total records in Arctos:  
-Total Images Taken: 0
+Total records in Arctos: 28,594 
+Total Images Taken: 15 (with an iPhone!)
 
-Most imaging hardware has been recieved and is being inventoried and set up.
+Most imaging hardware has been recieved and is being inventoried and set up. Electricity is a problem in Geoscience.
 
 ## Geoscience
 ### Teresa
 **Complete**
-
- 
-**In Process**
- - Standardizing Parts
- - Writing data migration documentation.
- - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
- - Added 746 basic paleo records (geology needs some correction - awaiting merge of localities L-100_199)
- - Drafted [abstract for SPNHC presentation on private loaclities](https://github.com/ArctosDB/SPNHC/issues/30).
  - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
  - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
  - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
  - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
  - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
+ - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
+ 
+**In Process**
+ - Standardizing Parts
+ - Writing data migration protocols
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ - Added approx 5,000 basic paleo records
+ - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
+ - Creating container environment for object tracking.
+ - Loan and Project for Hannah's presentation
+ - Project for grant - add funding?
  
 ### Nicole
 **Complete**
@@ -36,6 +39,7 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  - Total tally of NMMNHS paleo agents added to Arctos is 746.
  - Reviewing taxon and part data as requested.
  - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
+ - Submitted abstract for SPNHC - [Adapting Arctos for Paleontology Collections](https://github.com/ArctosDB/SPNHC/issues/37#issuecomment-585845604)
 
 ### Hannah
 **Complete**
@@ -43,15 +47,10 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 
 **In Process**
  - Researching stratigraphy links using macrostrat
- - Writing abstract for SPNHC presentation. Symposia S8.2. 
+ - Submitted [abstract for SPNHC](https://github.com/ArctosDB/SPNHC/issues/35)
+ - Submitted [Specimen Spotlight](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-586609361) for SPNHC
+ - Preparing presentation for Gila Symposium
  
-### Lucius
-**Complete**
-
- 
-**In Process**
-
-
 ## Bioscience
 ### Teresa
 **Complete**
@@ -61,14 +60,13 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 **Complete**
  - Fixed 488 invertebrate agents
  - Uploaded tissued mammals
- - 
+ - Submitted abstract for SPNHC - [Arctos and Object Tracking Facilitates Integrated Pest Management](https://github.com/ArctosDB/SPNHC/issues/29#issuecomment-585854535)
 
 **In Process**
  - Fixing remaining arthropod and mammal issues
  - Get mollusc records into bulkload format
  - Fixing mollusc taxonomy problems
  - Getting non-tissued mammal records into Arctos ~450
- - Creating IPM/Arctos abstract for SPNHC
  - checking in on everyone's travel for SPNHC
  
  
@@ -79,20 +77,21 @@ Most imaging hardware has been recieved and is being inventoried and set up.
  **In Process**
  - Creating mollusc bulkload templated and method for bulkloading mollusc records
  - Cleaning up taxon and geography information for entire invertabrate collection
+ - Submitted abstract for SPNHC - [Inevitable Interpretations: Locations In Legacy Data](https://github.com/ArctosDB/SPNHC/issues/27#issuecomment-586406081)
+ - Submitted [Specimen Spotlight for SPNHC](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-587505968)
  
 ## Discussion Topics
 
 ### SPNHC
-
+All abstracts submitted plus 2 specimen spotlights.
 
 #### Open Items
-- digitization computers, monitors not here
 - photoshop Adobe waiting on the state - probably a month out at least. Get camera software and start taking pics.
-- new ethernet Feb 3rd they are working on it now
+- new ethernet installed, electricity issue in geosci
 - no internet for paleo digitization station currently
 - Order 3-D printing stuff this week
 - Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
 
 #### Gila Conference
 
-Hannah and Jason presenting, Teresa going for moral support
+Hannah and Jason presenting, Teresa going for moral support. Hannah to practice soon.
