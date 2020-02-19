@@ -2,6 +2,9 @@
 
 This document lists major tasks completed by the team over the course of the project as reported in the Weekly Meeting notes.
 
+Total records in Arctos: 28,594
+Total Images Taken: 15
+
 ## Completed by Person
 
 ### Geoscience
@@ -24,8 +27,14 @@ This document lists major tasks completed by the team over the course of the pro
 ##### Benefits NMMNH Geoscience
  - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
  - Tested bulkload of research localities and collecting events with Arctos programmer.
- - Bulkloaded 461 specimen records
+ - Bulkloaded 11,294 specimen records
  - Bulkloaded 115 non-conforming Agents to Arctos
+ - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
+ - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
+ - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
+ - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
+ - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
+ - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
  
 #### Nicole
 ##### Benefits all Arctos Collections
@@ -59,6 +68,7 @@ This document lists major tasks completed by the team over the course of the pro
  - Assisted with locality for bird specimen shared with MSB
  - Completed "Manage Collection" for all collections adding museum logo to record header and details for future publication to aggregators.
  - Downloaded 5,798 records shared with MSB and prepped bulkload file for load to NMMNH:Mamm collection.
+ - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
  
 #### Lindsey
 ##### Benefits NMMNH Bioscience
@@ -72,6 +82,8 @@ This document lists major tasks completed by the team over the course of the pro
  - Researched alcohol arthropod digitzation techniques
  - Bulk uploaded ~6000 mammal records
  - Researching and purchasing SPNHC trip flight and registration
+ - Fixed 488 invertebrate agents
+ - Uploaded tissued mammals
 
 #### Paula
 ##### Benefits NMMNH Bioscience
