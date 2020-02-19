@@ -60,7 +60,6 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
 **Complete**
  - Fixed 488 invertebrate agents
  - Uploaded tissued mammals
- - Submitted abstract for SPNHC - [Arctos and Object Tracking Facilitates Integrated Pest Management](https://github.com/ArctosDB/SPNHC/issues/29#issuecomment-585854535)
 
 **In Process**
  - Fixing remaining arthropod and mammal issues
@@ -68,6 +67,8 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
  - Fixing mollusc taxonomy problems
  - Getting non-tissued mammal records into Arctos ~450
  - checking in on everyone's travel for SPNHC
+ - Submitted abstract for SPNHC - [Arctos and Object Tracking Facilitates Integrated Pest Management](https://github.com/ArctosDB/SPNHC/issues/29#issuecomment-585854535)
+
  
  
 ### Paula
