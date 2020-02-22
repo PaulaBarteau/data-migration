@@ -1,3 +1,11 @@
+
+---
+title:NMMNH Paleontology How To Create a New Locality
+layout: default_toc
+author: Teresa J. Mayfield-Meyer
+date: 2020-02-22
+---
+
 ### New Mexico Museum of Natural History and Science - Paleontology
 # How To Create a New Locality
 
@@ -154,10 +162,3 @@ Once these edits are complete, scroll to the bottom of the page and select "Save
  - Determined Date = Date the determination was made in the format YYYY-MM-DD (leave blank if unknown)
 
 After all locality attributes in the categories above have been added to the new locality it is ready for use in cataloging and can be found easily using the locality nickname.
-
----
-title:NMMNH Paleontology How To Create a New Locality
-layout: default_toc
-author: Teresa J. Mayfield-Meyer
-date: 2020-02-22
----
