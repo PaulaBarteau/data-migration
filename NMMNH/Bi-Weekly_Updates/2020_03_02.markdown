@@ -13,7 +13,7 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
 ## Geoscience
 ### Teresa
 **Complete**
-
+ - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown)
  
 **In Process**
  - Standardizing Parts
