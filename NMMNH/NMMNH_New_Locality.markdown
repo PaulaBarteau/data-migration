@@ -35,7 +35,7 @@ Once these edits are complete, scroll to the bottom of the page and select "Save
 
 #### Required Public Locality Attributes
 
-**NMMNH Locality Number*** 
+**NMMNH Locality Number** 
  - Attribute = Site Identifier
  - Value = NMMNH:Paleo:L-X (where X is the locality number)
  - Determiner = New Mexico Museum of Natural History and Science
@@ -93,7 +93,7 @@ To create the research locality, from the main menu select [Manage Data > Locati
 
 ### Clone the public locality 
  
-All of the locality attributes created for the public locality will also be included in the research locality. Cloning the public locality will negate the need to create the public locality attributes for the research locality.
+All of the locality attributes created for the public locality will also be included in the research locality. Cloning the public locality will negate the need to create the public locality attributes for the research locality. **NOTE - this is not true until the migration to PostGreSQL is complete. In the interim, the attributes added to the public locality will need to be re-added to the research locality.**
 
  - From the main Arctos menu select [Manage Data > Location > Find Locality](http://arctos.database.museum/Locality.cfm?action=findLO)
  - In the **Locality Nickname** field, enter the locality nickname for the public locality that was just created.
