@@ -155,5 +155,5 @@ Once these edits are complete, scroll to the bottom of the page and select "Save
 
 After all locality attributes in the categories above have been added to the new locality it is ready for use in cataloging and can be found easily using the locality nickname.
 
-## Author: Teresa J. Mayfield-Meyer
-## Date: 2020-02-22
+#### Author: Teresa J. Mayfield-Meyer
+#### Date: 2020-02-22
