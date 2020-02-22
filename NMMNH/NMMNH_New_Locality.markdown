@@ -115,7 +115,7 @@ Once these edits are complete, scroll to the bottom of the page and select "Save
 
 #### Required Public Locality Attributes
 
-**Access*** 
+**Access** 
  - Attribute = access
  - Value = private
  - Determiner = New Mexico Museum of Natural History and Science
