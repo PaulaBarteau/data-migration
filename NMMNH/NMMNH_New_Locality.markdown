@@ -11,13 +11,13 @@ This documents the process for pre-creating named public and research localities
 
 ## Public Locality
 
-To create the public locality, from the main menu select Manage Data > Location > Find Locality. 
+To create the public locality, from the main menu select [Manage Data > Location > Find Locality](http://arctos.database.museum/Locality.cfm?action=findLO). 
 
 ### Clone a georeferenced county-level locality 
 
 Public localities will not include any locality information other than higher geography and some locality attributes. In order to allow mapping of these "fuzzy" localities, it is important to start with a locality that has been georeferenced. If the new locality is within New Mexico or nearby states, it is likely that a georeferenced county locality already exists in Arctos. Cloning this to create the new locality will add consistency to the mapping of public localities. Begin with a search for a georeferenced county locality.
 
- - From the main Arctos menu select Manage Data > Location > Find Locality
+ - From the main Arctos menu select [Manage Data > Location > Find Locality](http://arctos.database.museum/Locality.cfm?action=findLO)
  - In the **Locality Nickname** field, enter the county for which you need a georeferenced locality in this format "State, County (no specific locality)". Quay County New Mexico will be entered as **New Mexico, Quay County (no specific locality)**
  - There should be only one result. If nothing is found, this means a georeferenced locality for the county you are using has not yet been created. **NEED INSTRUCTIONS FOR DOING THIS**
  - Select the "edit option for the locality.
@@ -89,13 +89,13 @@ After all locality attributes in the categories above have been added to the new
 
 ## Research Locality
 
-To create the research locality, from the main menu select Manage Data > Location > Find Locality. 
+To create the research locality, from the main menu select [Manage Data > Location > Find Locality](http://arctos.database.museum/Locality.cfm?action=findLO). 
 
 ### Clone the public locality 
  
 All of the locality attributes created for the public locality will also be included in the research locality. Cloning the public locality will negate the need to create the public locality attributes for the research locality.
 
- - From the main Arctos menu select Manage Data > Location > Find Locality
+ - From the main Arctos menu select [Manage Data > Location > Find Locality](http://arctos.database.museum/Locality.cfm?action=findLO)
  - In the **Locality Nickname** field, enter the locality nickname for the public locality that was just created.
  - There should be only one result. If nothing is found, this means that either a public locality has not yet been created or it was not named appropriately. **NEED INSTRUCTIONS FOR DOING THIS**
  - Select the "edit option for the locality.
