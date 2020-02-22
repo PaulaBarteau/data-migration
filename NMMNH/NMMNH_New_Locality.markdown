@@ -85,7 +85,7 @@ Once these edits are complete, scroll to the bottom of the page and select "Save
  - Determiner = Arctos Agent name of person who determined the biostratigraphy (leave blank if unknown)
  - Determined Date = Date the determination was made in the format YYYY-MM-DD (leave blank if unknown)
  
-After all locality attributes in the categories above have been added to the new locality it is ready for use in cataloging.
+After all locality attributes in the categories above have been added to the new locality it is ready for use in cataloging and can be found easily using the locality nickname.
 
 ## Research Locality
 
@@ -113,6 +113,13 @@ You now have a locality with many of the attributes you will need that can be cu
  
 Once these edits are complete, scroll to the bottom of the page and select "Save Edits". Now the basic new research locality has been created. The next step is to add research Locality Attributes. Scroll to the bottom of the page again and you will see a box for "Geology Attributes. For each attribute described here, you will need to complete a new attribute box and save it by selecting "Create Determination". This adds the attribute to the locality with no need to re-save the locality itself. There are a few required attributes and many optional attributes.
 
+#### Required Public Locality Attributes
+
+**Access*** 
+ - Attribute = access
+ - Value = private
+ - Determiner = New Mexico Museum of Natural History and Science
+ 
 #### Optional Research Locality Attributes
 
 **Site Land Status** 
@@ -145,7 +152,9 @@ Once these edits are complete, scroll to the bottom of the page and select "Save
  - Value = select from the code table
  - Determiner = Arctos Agent name of person who determined the aliquot (leave blank if unknown)
  - Determined Date = Date the determination was made in the format YYYY-MM-DD (leave blank if unknown)
- 
+
+After all locality attributes in the categories above have been added to the new locality it is ready for use in cataloging and can be found easily using the locality nickname.
+
 ---
 title:NMMNH Paleontology How To Create a New Locality
 layout: default_toc
