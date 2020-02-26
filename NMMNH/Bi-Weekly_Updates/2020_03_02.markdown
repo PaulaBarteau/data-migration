@@ -24,6 +24,7 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
  - Creating container environment for object tracking.
  - Loan and Project for Hannah's presentation
  - Project for grant - add funding?
+ - Currently 7,547 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything except Lithostratigraphy have been summarized for Nicole. Hannah conitinues to look up macrostrat links for lithostratigraphy (383 terms) so that terms can be confidently added to Arctos code table.
  
 ### Nicole
 **Complete**
