@@ -35,6 +35,10 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
  - Reviewing taxon and part data as requested.
  - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
  - Submitted abstract for SPNHC - [Adapting Arctos for Paleontology Collections](https://github.com/ArctosDB/SPNHC/issues/37#issuecomment-585845604)
+ - Reviewing 542 localities with higher geography issues (N:\GeoScience\Arctos\Nicole\Higher Geography Issues.xlxs)
+ - Reviewing 45 geology terms (N:\GeoScience\Arctos\Nicole\Geology Term Problems.xlsx)
+ - Reviewing 343 TRS terms (N:\GeoScience\Arctos\Nicole\TRS Problems.xlsx)
+ - Reviewing 537 bistratigraphic terms (N:\GeoScience\Arctos\Nicole\Biostratigraphy Problems.xlsx)
 
 ### Hannah
 **Complete**
