@@ -58,21 +58,19 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
  
 ### Lindsey
 **Complete**
-
+- Fixed mollusc taxonomy to be able to upload into Arctos
 
 **In Process**
  - Fixing remaining arthropod and mammal issues
  - Get mollusc records into bulkload format
- - Fixing mollusc taxonomy problems
+ - Fix Higher geography of mollusc records
  - Getting non-tissued mammal records into Arctos ~450
  - checking in on everyone's travel for SPNHC
  
  
 ### Paula
  **Complete**
-  - Cleaning up taxon and geography information for entire invertabrate collection
-  - Submitted abstract for SPNHC - [Inevitable Interpretations: Locations In Legacy Data](https://github.com/ArctosDB/SPNHC/issues/27#issuecomment-586406081)
- - Submitted [Specimen Spotlight for SPNHC](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-587505968)
+ - Pictures of 4 birds for loan to SMNHC
  
  **In Process**
  - Researching digitization and imaging protocols
@@ -86,9 +84,7 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
 
 #### Open Items
 - photoshop Adobe waiting on the state - probably a month out at least. Get camera software and start taking pics.
-- new ethernet installed, electricity issue in geosci
 - no internet for paleo digitization station currently
-- Order 3-D printing stuff this week
 - Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
 
 #### Gila Conference
