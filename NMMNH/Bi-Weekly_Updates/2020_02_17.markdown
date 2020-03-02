@@ -59,7 +59,7 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
 ### Lindsey
 **Complete**
  - Fixed 488 invertebrate agents
- - Uploaded tissued mammals
+ - Uploaded 5788 tissued mammals
 
 **In Process**
  - Fixing remaining arthropod and mammal issues
@@ -73,13 +73,12 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
  
 ### Paula
  **Complete**
- 
+  - Submitted abstract for SPNHC - [Inevitable Interpretations: Locations In Legacy Data](https://github.com/ArctosDB/SPNHC/issues/27#issuecomment-586406081)
+ - Submitted [Specimen Spotlight for SPNHC](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-587505968)
  
  **In Process**
- - Creating mollusc bulkload templated and method for bulkloading mollusc records
  - Cleaning up taxon and geography information for entire invertabrate collection
- - Submitted abstract for SPNHC - [Inevitable Interpretations: Locations In Legacy Data](https://github.com/ArctosDB/SPNHC/issues/27#issuecomment-586406081)
- - Submitted [Specimen Spotlight for SPNHC](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-587505968)
+ - Troubleshooting digitizing biology collection and using digitzation equipment
  
 ## Discussion Topics
 
