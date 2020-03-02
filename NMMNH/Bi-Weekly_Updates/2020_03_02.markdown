@@ -64,6 +64,7 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
  - Fixing remaining arthropod and mammal issues
  - Get mollusc records into bulkload format
  - Fix Higher geography of mollusc records
+ - Fixing dates in mollusc records for bulkload format
  - Getting non-tissued mammal records into Arctos ~450
  - checking in on everyone's travel for SPNHC
  
