@@ -6,7 +6,7 @@ This documents discussion at bi-weekly team meetings
 ## Progress Report
 
 Total records in Arctos: 28,939  
-Total Images Taken: 15
+Total Images Taken: 19
 
 All imaging hardware has been recieved and is being inventoried and set up.
 
