@@ -1,0 +1,99 @@
+# NMMNH Digitization Grant 2020-03-16 Bi-weekly Update
+(Activity from 2020-02-18 through 2020-03-02)
+
+This documents discussion at bi-weekly team meetings
+
+## Progress Report
+
+Total records in Arctos: 28,939  
+Total Images Taken: 19
+
+All imaging hardware has been recieved and is being inventoried and set up.
+
+## Geoscience
+### Teresa
+**Complete**
+
+ 
+**In Process**
+ - Standardizing Parts
+ - Writing data migration protocols
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ - Added approx 5,000 basic paleo records
+ - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
+ - Creating container environment for object tracking.
+ - Loan and Project for Hannah's presentation
+ - Project for grant - add funding?
+ - Currently 7,547 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything except Lithostratigraphy have been summarized for Nicole. Hannah conitinues to look up macrostrat links for lithostratigraphy (383 terms) so that terms can be confidently added to Arctos code table.
+ 
+### Nicole
+**Complete**
+
+ 
+ **In Process**
+ - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
+ - Total tally of NMMNHS paleo agents added to Arctos is 746.
+ - Reviewing taxon and part data as requested.
+ - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
+ - Submitted abstract for SPNHC - [Adapting Arctos for Paleontology Collections](https://github.com/ArctosDB/SPNHC/issues/37#issuecomment-585845604)
+ - Reviewing 542 localities with higher geography issues (N:\GeoScience\Arctos\Nicole\Higher Geography Issues.xlxs)
+ - Reviewing 45 geology terms (N:\GeoScience\Arctos\Nicole\Geology Term Problems.xlsx)
+ - Reviewing 343 TRS terms (N:\GeoScience\Arctos\Nicole\TRS Problems.xlsx)
+ - Reviewing 537 bistratigraphic terms (N:\GeoScience\Arctos\Nicole\Biostratigraphy Problems.xlsx)
+
+### Hannah
+**Complete**
+ - Presentation at Gila Symposium "[Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science](http://arctos.database.museum/project/10003333)"
+
+**In Process**
+ - Researching stratigraphy links using macrostrat
+ - Submitted [abstract for SPNHC](https://github.com/ArctosDB/SPNHC/issues/35)
+ - Submitted [Specimen Spotlight](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-586609361) for SPNHC
+ - Preparing presentation for Gila Symposium
+ 
+## Bioscience
+### Teresa
+**Complete**
+
+**In Process**
+Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
+
+ 
+### Lindsey
+**Complete**
+
+
+**In Process**
+ - Fixing remaining arthropod and mammal issues
+ - Get mollusc records into bulkload format
+ - Fix Higher geography of mollusc records
+ - Fixing dates in mollusc records for bulkload format
+ - Getting non-tissued mammal records into Arctos ~450
+ - checking in on everyone's travel for SPNHC
+ 
+ 
+### Paula
+ **Complete**
+
+ 
+ **In Process**
+ - Researching digitization and imaging protocols
+ - Researching and troubleshooting imaging workflow set up
+ - Writing digitization and imaging workflow protocols
+ 
+## Discussion Topics
+
+### SPNHC
+
+
+#### Open Items
+- photoshop will be installed 3/3/20.
+- Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
+- need velvet and lime green background for photography
+
+#### Notes from last meeting
+
+Need to publish to journals about the project and potentially going forward about collection activity.
+Need protocol for media size for upload to Arctos
+File naming protocol
+Define metadata terms needed in Arctos media and make GitHub requests
