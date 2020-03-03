@@ -87,6 +87,7 @@ Total Images Taken: 19
  - Researching and purchasing SPNHC trip flight and registration
  - Fixed 488 invertebrate agents
  - Uploaded tissued mammals
+ - Fixed mollusc taxonomy to be able to upload into Arctos
 
 #### Paula
 ##### Benefits NMMNH Bioscience
