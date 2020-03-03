@@ -5,10 +5,10 @@ This documents discussion at bi-weekly team meetings
 
 ## Progress Report
 
-Total records in Arctos: 28,594  
+Total records in Arctos: 28,939  
 Total Images Taken: 15
 
-All imaging hardware has been recieved and is being inventoried and set up. Electricity is a problem in Geoscience.
+All imaging hardware has been recieved and is being inventoried and set up.
 
 ## Geoscience
 ### Teresa
@@ -43,7 +43,7 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
 
 ### Hannah
 **Complete**
- - Presentation at Gila Symposium "Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science"
+ - Presentation at Gila Symposium "[Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science](http://arctos.database.museum/project/10003333)"
 
 **In Process**
  - Researching stratigraphy links using macrostrat
@@ -54,6 +54,9 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
 ## Bioscience
 ### Teresa
 **Complete**
+
+**In Process**
+Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
 
  
 ### Lindsey
@@ -84,8 +87,17 @@ All imaging hardware has been recieved and is being inventoried and set up. Elec
 
 
 #### Open Items
-- photoshop Adobe waiting on the state - probably a month out at least. Get camera software and start taking pics.
-- no internet for paleo digitization station currently
+- photoshop will be installed 3/3/20.
 - Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
+- need velvet and lime green background for photography
 
 #### Gila Conference
+
+Hannah's presentation was awesome!
+
+#### Notes from meeting
+
+Need to publish to journals about the project and potentially going forward about collection activity.
+Need protocol for media size for upload to Arctos
+File naming protocol
+Define metadata terms needed in Arctos media and make GitHub requests
