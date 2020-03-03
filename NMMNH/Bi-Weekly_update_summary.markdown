@@ -2,8 +2,8 @@
 
 This document lists major tasks completed by the team over the course of the project as reported in the Weekly Meeting notes.
 
-Total records in Arctos: 28,594
-Total Images Taken: 15
+Total records in Arctos: 28,939
+Total Images Taken: 19
 
 ## Completed by Person
 
@@ -35,6 +35,7 @@ Total Images Taken: 15
  - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
  - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
  - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
+ - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown)
  
 #### Nicole
 ##### Benefits all Arctos Collections
@@ -50,6 +51,8 @@ Total Images Taken: 15
  
 #### Benefits NMMNH Geoscience
 - Wrote and submitted Gila Symposium abstract- "Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science"
+- Presentation at Gila Symposium "[Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science](http://arctos.database.museum/project/10003333)"
+
 
 #### Lucius
 ##### Benefits all Arctos Collections
@@ -90,4 +93,5 @@ Total Images Taken: 15
  - Entered 520 bird records manually
  - Bulkloaded 98 mollusc records
  - Edited bird issues - locality and dates
+ - Pictures of 4 birds for loan to SMNHC
  
