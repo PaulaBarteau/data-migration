@@ -13,7 +13,7 @@ All imaging hardware has been recieved and is being inventoried and set up.
 ## Geoscience
 ### Teresa
 **Complete**
-
+ - Loaded 882 basic records
  
 **In Process**
  - Standardizing Parts
