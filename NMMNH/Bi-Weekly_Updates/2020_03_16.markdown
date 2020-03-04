@@ -1,5 +1,5 @@
 # NMMNH Digitization Grant 2020-03-16 Bi-weekly Update
-(Activity from 2020-02-18 through 2020-03-02)
+(Activity from 2020-03-02 through 2020-03-16)
 
 This documents discussion at bi-weekly team meetings
 
@@ -43,20 +43,18 @@ All imaging hardware has been recieved and is being inventoried and set up.
 
 ### Hannah
 **Complete**
- - Presentation at Gila Symposium "[Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science](http://arctos.database.museum/project/10003333)"
+ - looked up support for 379 lithostrata
 
 **In Process**
- - Researching stratigraphy links using macrostrat
  - Submitted [abstract for SPNHC](https://github.com/ArctosDB/SPNHC/issues/35)
  - Submitted [Specimen Spotlight](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-586609361) for SPNHC
- - Preparing presentation for Gila Symposium
  
 ## Bioscience
 ### Teresa
 **Complete**
 
 **In Process**
-Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
+ - Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
 
  
 ### Lindsey
