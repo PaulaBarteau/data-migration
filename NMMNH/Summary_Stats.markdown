@@ -51,6 +51,36 @@ Total Images Taken: 0
 ### Taxonomy
 - 5,924 unique taxon names in MS Access
 - 701 mollusc taxon names do not match a name in Arctos
- - 363 misspellings or typos
- - 16 added to arctos
- - 321 were not fixable, therefore used a text string to upload to the lowest known taxon group
+  - 363 misspellings or typos
+  - 16 added to arctos
+  - 321 unresolved, used a text string to upload to the lowest known taxon group
+- 1624 unique plant taxon names
+  - 322 taxon names do not match a name in Arctos
+  - 109 misspellings or typos
+  - 58 added to arctos
+  - 145 needed updated taxonomy
+  - 3 unresolved, used a text string to upload to the lowest known taxon group
+- 1501 unique arthropod taxon names
+  - 321 taxon names do not match a name in Arctos
+  - 135 misspellings or typos
+  - 109 added to arctos
+  - 44 needed updated taxonomy
+  - 31 unresolved, used a text string to upload to the lowest known taxon group
+- 169 unique Bird taxon names
+  - 129 taxon names do not match a name in Arctos
+  - 74 misspellings or typos
+  - 0 added to arctos
+  - 126 needed updated taxonomy
+  - 0 unresolved
+- 169 unique Mammal taxon names (needs changed
+  - 129 taxon names do not match a name in Arctos
+  - 74 misspellings or typos
+  - 0 added to arctos
+  - 126 needed updated taxonomy
+  - 0 unresolved
+- 169 unique Reptile/Amphibian taxon names (needs changed
+  - 129 taxon names do not match a name in Arctos
+  - 74 misspellings or typos
+  - 0 added to arctos
+  - 126 needed updated taxonomy
+  - 0 unresolved
