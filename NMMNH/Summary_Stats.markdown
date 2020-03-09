@@ -84,3 +84,6 @@ Total Images Taken: 0
   - 0 added to arctos
   - 126 needed updated taxonomy
   - 0 unresolved
+  
+### Higher Geography
+ - 40 new HG
