@@ -25,4 +25,31 @@ Total Images Taken: 0
  - 248 taxa added to Arctos to date (9% of non-matching names are new taxa in Arctos, this represents 4% of all NMMNHS taxa) 
  
 ## Bioscience
+### Agents
+####Molluscs
+ - 488 unique Agent names in MS Access
+ - 282 Agents added to Arctos
+ - 206 mispellings corrected prior to data migration
+####Botany
+ - 17 unique Agent names in MS Access
+ - 17 Agents added to Arctos
+ - 17 mispellings corrected prior to data migration
+####Mammals
+ - 101 unique Agent names in MS Access
+ - 83 Agents added to Arctos
+ - 83 mispellings corrected prior to data migration
+####Birds
+ - 101 unique Agent names in MS Access
+ - 60 Agents added to Arctos
+ - 11 mispellings corrected prior to data migration
+####Insects
+ - 179 unique Agent names in MS Access
+ - 132 Agents added to Arctos
+ - 12 mispellings corrected prior to data migration
+ 
 ### Taxonomy
+- 5,924 unique taxon names in MS Access
+- 701 mollusc taxon names do not match a name in Arctos
+ - 363 misspellings or typos
+ - 16 added to arctos
+ - 321 were not fixable, therefore used a text string to upload to the lowest known taxon group
