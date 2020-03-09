@@ -26,23 +26,24 @@ Total Images Taken: 0
  
 ## Bioscience
 ### Agents
-####Molluscs
+
+#### Molluscs
  - 488 unique Agent names in MS Access
  - 282 Agents added to Arctos
  - 206 mispellings corrected prior to data migration
-####Botany
+#### Botany
  - 17 unique Agent names in MS Access
  - 17 Agents added to Arctos
  - 17 mispellings corrected prior to data migration
-####Mammals
+#### Mammals
  - 101 unique Agent names in MS Access
  - 83 Agents added to Arctos
  - 83 mispellings corrected prior to data migration
-####Birds
+#### Birds
  - 101 unique Agent names in MS Access
  - 60 Agents added to Arctos
  - 11 mispellings corrected prior to data migration
-####Insects
+#### Insects
  - 179 unique Agent names in MS Access
  - 132 Agents added to Arctos
  - 12 mispellings corrected prior to data migration
