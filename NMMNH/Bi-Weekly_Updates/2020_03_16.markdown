@@ -43,11 +43,13 @@ All imaging hardware has been recieved and is being inventoried and set up.
 
 ### Hannah
 **Complete**
- - looked up support for 379 lithostrata
+ - Imaging quipment set up and working properly
+ - First two images taken of holotpyes
 
 **In Process**
- - Submitted [abstract for SPNHC](https://github.com/ArctosDB/SPNHC/issues/35)
- - Submitted [Specimen Spotlight](https://github.com/ArctosDB/SPNHC/issues/31#issuecomment-586609361) for SPNHC
+ - Researching and learning how to use helicon for imaging and photo stacking images of specimens
+ - Writing protocols for paleo imaging
+ - Reviewing and correcting errors in taxonomy 
  
 ## Bioscience
 ### Teresa
