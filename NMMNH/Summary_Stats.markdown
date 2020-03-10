@@ -49,7 +49,7 @@ Total Images Taken: 0
  - 12 mispellings corrected prior to data migration
  
 ### Taxonomy
-- 5,924 unique taxon names in MS Access
+- $$$$ unique taxon names in MS Access
 - 701 mollusc taxon names do not match a name in Arctos
   - 363 misspellings or typos
   - 16 added to arctos
