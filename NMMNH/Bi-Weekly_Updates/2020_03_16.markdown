@@ -48,7 +48,7 @@ All imaging hardware has been recieved and is being inventoried and set up.
 
 **In Process**
  - Researching and learning how to use helicon for imaging and photo stacking images of specimens
- - Writing protocols for paleo imaging
+ - Writing workflows for paleo imaging
  - Reviewing and correcting errors in taxonomy 
  
 ## Bioscience
