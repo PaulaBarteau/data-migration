@@ -14,6 +14,7 @@ All imaging hardware has been recieved and is being inventoried and set up.
 ### Teresa
 **Complete**
  - Loaded 2,538 basic records
+ - Loaded 9,925 research localities
  
 **In Process**
  - Standardizing Parts
