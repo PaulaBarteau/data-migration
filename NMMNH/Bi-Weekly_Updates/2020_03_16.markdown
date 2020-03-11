@@ -46,8 +46,9 @@ All imaging hardware has been recieved and is being inventoried and set up.
  - First two images taken of holotpyes
 
 **In Process**
- - Researching and learning how to use helicon for imaging and photo stacking images of specimens
+ - Researching and learning how to use helicon for imaging and stacking
  - Writing workflows for paleo imaging
+ - Thinking about how to write protocols for different kinds of specimens, for example: teeth, flat specimens, large/small, etc.
  - Reviewing and correcting errors in taxonomy 
  
 ## Bioscience
