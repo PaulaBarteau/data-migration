@@ -4,3 +4,7 @@
  - Troubleshooted the laptop and computer setup, got zoom installed, installed recommended programs
  - Got notes ready for Digitization Meeeting
  - Getting people Started in Zoom, Github and Arctos; troubleshooting Webex
+## 2020-03-17  
+Hours | Work Description
+-- | --
+1 | Zoom Meeting to organize telework with Digitization Team
