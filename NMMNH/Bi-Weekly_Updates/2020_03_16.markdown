@@ -54,6 +54,7 @@ All imaging hardware has been recieved and is being inventoried and set up.
 ## Bioscience
 ### Teresa
 **Complete**
+ - Created barcodes for all rooms, cabinets, drawers, shelves, and insect traps in Biosci
 
 **In Process**
  - Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
