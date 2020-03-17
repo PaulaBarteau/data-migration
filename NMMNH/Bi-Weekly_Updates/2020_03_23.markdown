@@ -18,7 +18,6 @@ Total Images Taken: 51
  - Standardizing Parts
  - Writing data migration protocols
  - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
- - Added approx 5,000 basic paleo records
  - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
  - Project for grant - add funding?
  - Currently 2,418 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
