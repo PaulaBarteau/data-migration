@@ -40,13 +40,12 @@ Total Images Taken: 51
 
 ### Hannah
 **Complete**
-
+- For scale rulers for imaging printed out at UPS and ready for when imaging can continue 
+- 400 mineral taxonomy links compiled
 
 **In Process**
- - Researching and learning how to use helicon for imaging and stacking
- - Writing workflows for paleo imaging
- - Thinking about how to write protocols for different kinds of specimens, for example: teeth, flat specimens, large/small, etc.
- - Reviewing and correcting errors in taxonomy 
+ - Researching mineral taxonomy on Mindat
+ - Reading papers on paleo imaging protocols and trying to incorporate relevant information into own paleo imaging protocols
  
 ## Bioscience
 ### Teresa
