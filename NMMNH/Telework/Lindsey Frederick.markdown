@@ -7,3 +7,7 @@ Hours | Work Description
 2 | Troubleshooting the laptop and computer setup, got zoom installed, installed recommended programs, Got notes ready for Digitization Meeeting
 1 | Zoom Meeting to organize telework with Digitization Team, learning how to use markdown, troubleshooting Webex
 1 | Trying to get dropbox to work on laptop, buying and installing trial version of 365
+1 | Clearing out email box because it is always full and I don't have access to my archiving folders
+2 | Working on Mollusc excel sheet - dates
+1 | hosting Digitization Meeting
+
