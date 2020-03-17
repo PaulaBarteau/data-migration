@@ -1,0 +1,114 @@
+# NMMNH Digitization Grant 2020-03-23 Weekly Update
+(Activity from 2020-17-02 through 2020-03-23)
+
+This documents discussion at bi-weekly team meetings - due to COVID19 and telework, updates will be given weekly.
+
+## Progress Report
+
+Total records in Arctos: 34,735  
+Total Images Taken: 51
+
+## Geoscience
+### Teresa
+**Complete**
+ - Loaded  basic records
+ - 
+ 
+**In Process**
+ - Standardizing Parts
+ - Writing data migration protocols
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ - Added approx 5,000 basic paleo records
+ - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
+ - Project for grant - add funding?
+ - Currently 2,418 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
+ 
+### Nicole
+**Complete**
+
+ 
+ **In Process**
+ - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
+ - Total tally of NMMNHS paleo agents added to Arctos is 746.
+ - Reviewing taxon and part data as requested.
+ - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
+ - Submitted abstract for SPNHC - [Adapting Arctos for Paleontology Collections](https://github.com/ArctosDB/SPNHC/issues/37#issuecomment-585845604)
+ - Reviewing 542 localities with higher geography issues (N:\GeoScience\Arctos\Nicole\Higher Geography Issues.xlxs)
+ - Reviewing 45 geology terms (N:\GeoScience\Arctos\Nicole\Geology Term Problems.xlsx)
+ - Reviewing 343 TRS terms (N:\GeoScience\Arctos\Nicole\TRS Problems.xlsx)
+ - Reviewing 537 bistratigraphic terms (N:\GeoScience\Arctos\Nicole\Biostratigraphy Problems.xlsx)
+
+### Hannah
+**Complete**
+
+
+**In Process**
+ - Researching and learning how to use helicon for imaging and stacking
+ - Writing workflows for paleo imaging
+ - Thinking about how to write protocols for different kinds of specimens, for example: teeth, flat specimens, large/small, etc.
+ - Reviewing and correcting errors in taxonomy 
+ 
+## Bioscience
+### Teresa
+**Complete**
+
+**In Process**
+ - Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
+
+ 
+### Lindsey
+**Complete**
+
+
+**In Process**
+ - Fixing remaining arthropod and mammal issues
+ - Get mollusc records into bulkload format
+ - Fix Higher geography of mollusc records
+ - Fixing dates in mollusc records for bulkload format
+ - Getting non-tissued mammal records into Arctos ~450
+ - checking in on everyone's travel for SPNHC
+ 
+ 
+### Paula
+ **Complete**
+
+
+ 
+ **In Process**
+ - Developed tentative protocals for imaging insects and birds/mammals and mollusks
+ -Trouble shooting Lightbox work flow.
+ - Digitization material research and testing
+ - Researching digitization and imaging protocols
+ - Researching and troubleshooting imaging workflow set up
+ - Writing digitization and imaging workflow protocols
+ - Comparing light stand and light box quality for different kinds of specimens
+ - Started post processing workflow
+ 
+## Discussion Topics
+
+### SPNHC
+
+Work on presentations - conference has not been canceled.
+
+### COVID19
+
+- everyone working from home, but would like to have the ability to have one day a week in the office.
+
+Day | Person
+--- | ---
+Monday | 
+Tuesday | 
+Wednesday | Lindsey
+Thursday | Paula
+Friday | Hannah
+
+#### Open Items
+- Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
+- need velvet and lime green background for photography
+
+#### Notes from last meeting
+
+Need to publish to journals about the project and potentially going forward about collection activity.
+Need protocol for media size for upload to Arctos
+File naming protocol
+Define metadata terms needed in Arctos media and make GitHub requests
