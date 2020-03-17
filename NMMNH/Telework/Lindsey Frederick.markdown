@@ -3,4 +3,4 @@
 ## Tuesday
  - Troubleshooted the laptop and computer setup, got zoom installed, installed recommended programs
  - Got notes ready for Digitization Meeeting
- - Getting people Started in Zoom, Github and Arctos
+ - Getting people Started in Zoom, Github and Arctos; troubleshooting Webex
