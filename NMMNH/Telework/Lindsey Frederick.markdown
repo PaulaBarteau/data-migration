@@ -9,5 +9,5 @@ Hours | Work Description
 1 | Trying to get dropbox to work on laptop, buying and installing trial version of 365
 1 | Clearing out email box because it is always full and I don't have access to my archiving folders
 2 | Working on Mollusc excel sheet - dates
-1 | hosting Digitization Meeting
+1 | hosting Digitization Meeting, met with Paula to figure out how we are coordinating projects, going into collection
 
