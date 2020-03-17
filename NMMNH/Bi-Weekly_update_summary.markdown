@@ -2,8 +2,8 @@
 
 This document lists major tasks completed by the team over the course of the project as reported in the Weekly Meeting notes.
 
-Total records in Arctos: 28,939
-Total Images Taken: 19
+Total records in Arctos: 34,735
+Total Images Taken: 51
 
 ## Completed by Person
 
@@ -52,6 +52,8 @@ Total Images Taken: 19
 #### Benefits NMMNH Geoscience
 - Wrote and submitted Gila Symposium abstract- "Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science"
 - Presentation at Gila Symposium "[Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science](http://arctos.database.museum/project/10003333)"
+ - Imaging equipment set up and working properly
+ - First two images taken of holotpyes
 
 
 #### Lucius
@@ -63,6 +65,7 @@ Total Images Taken: 19
 #### Teresa
 ##### Benefits all Arctos Collections
  - Added 62 higher geography for mollusk collection
+ - Created barcodes for all rooms, cabinets, drawers, shelves, and insect traps in Biosci
  
 ##### Benefits NMMNH Bioscience
  - Assisted Lindsey with Herbarium Bulkload questions
@@ -95,4 +98,10 @@ Total Images Taken: 19
  - Bulkloaded 98 mollusc records
  - Edited bird issues - locality and dates
  - Pictures of 4 birds for loan to SMNHC
+ - Photographed 4 bird specimens for loan
+ - Photographed 2 insect specimens with temporary and current lables for potential format change
+ - Photographed 8 Birds for report
+ -Photographed 12 skulls and shells in light box.
+ - Photographed several different kinds of plant for contrast between light stand and light box image quality
+ - Trained Hannah in basic photography workflow
  
