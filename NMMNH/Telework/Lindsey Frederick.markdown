@@ -14,6 +14,7 @@ Hours | Work Description
 ## 2020-03-18 Wednesday 
 Hours | Work Description
 -- | --
-4 | Organizing File folders and files for MAP, Familty Tides
+4 | Organizing File folders and files
+4 | Organizing catalogs, butterfly information, catalogs and localities. Testing GeoLocate georeferencing with large batches
 
 
