@@ -12,8 +12,11 @@ Hours | Work Description
 ## 2020-03-18 Wednesday  
 Hours | Work Description
 -- | --
-5 | Loaded 1,261 basic paleo records
-1 | Loaded 2,041 research events
+6 | Loaded 1,858 basic paleo records
+1 | Loaded 2,638 research events
 1 | Arctos taxonomy committee meeting
-
-
+  
+## 2020-03-19 Thursday  
+Hours | Work Description
+-- | --
+0 | Loaded  basic paleo records
