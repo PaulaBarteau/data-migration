@@ -11,8 +11,8 @@ Total Images Taken: 51
 ## Geoscience
 ### Teresa
 **Complete**
- - Loaded 1,437 basic records
- - Loaded 2,436 research events
+ - Loaded 2,041 basic records
+ - Loaded 3,040 research events
  - 
  
 **In Process**
