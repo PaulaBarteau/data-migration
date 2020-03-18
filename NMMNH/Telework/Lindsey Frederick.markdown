@@ -11,3 +11,9 @@ Hours | Work Description
 2 | Working on Mollusc excel sheet - dates
 1 | hosting Digitization Meeting, met with Paula to figure out how we are coordinating projects, going into collection
 
+## 2020-03-18 Wednesday 
+Hours | Work Description
+-- | --
+4 | Organizing File folders and files for MAP, Familty Tides
+
+
