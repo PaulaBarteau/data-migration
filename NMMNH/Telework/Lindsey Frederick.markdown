@@ -14,7 +14,7 @@ Hours | Work Description
 ## 2020-03-18 Wednesday 
 Hours | Work Description
 -- | --
-4 | Organizing File folders and files
+4 | Organizing File folders and files, discussed over phone with Nicole about concerns with collection access, photography for the grant and type specimen access
 4 | Organizing catalogs, butterfly information, catalogs and localities. Testing GeoLocate georeferencing with large batches
 
 
