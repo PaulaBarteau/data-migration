@@ -17,7 +17,9 @@ Hours | Work Description
 ## 2020-03-18  
 Hours | Work Description
 -- | --
-3.5| 
+3| Drafted protocols for mammals, molluscs, and birds; Arthropods; and Wet Collection, 
+   Retrieved files from collection
+   Drafted excell project template 
 
 
 Ojbectives:
