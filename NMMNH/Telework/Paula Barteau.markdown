@@ -35,7 +35,9 @@ Ojbectives:
 ## 2020-03-19  
 Hours | Work Description
 -- | --
-1| Editing arthropod photography procedures with Lindsey
+1| Editing arthropod photography procedures
+1| Emails, organizing and planning for next week
+
 
 Objectives: 
 Today- edit procedures and brainstorm final format
