@@ -71,17 +71,23 @@ Total Images Taken: 51
 ### Paula
  **Complete**
 
-
- 
- **In Process**
- - Developed tentative protocals for imaging insects and birds/mammals and mollusks
+- Developed tentative protocals for imaging insects and birds/mammals and mollusks
+- Developed tentative protocols for imaging herbarium
+- Developed tentative protocols for imaging wet collection
+- Developed tentative protocols for imaging arthropods
  -Trouble shooting Lightbox work flow.
  - Digitization material research and testing
- - Researching digitization and imaging protocols
- - Researching and troubleshooting imaging workflow set up
- - Writing digitization and imaging workflow protocols
- - Comparing light stand and light box quality for different kinds of specimens
+ - Photographing presentation specimens for mammals and molluscs.
+ 
+ **In Process**
+ 
+ - Photographing arthropods
+ - Photographing mollusc labels
+ - Photographing herbarium specimens with light box
+ - Troubleshooting wet collection procedures and workflow
+ - Continue writing and editing on procedures and work flows
  - Started post processing workflow
+ - Photoshop- creating a reliable scale, creating color profiles, etc..
  
 ## Discussion Topics
 
