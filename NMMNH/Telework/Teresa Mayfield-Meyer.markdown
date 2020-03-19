@@ -19,4 +19,11 @@ Hours | Work Description
 ## 2020-03-19 Thursday  
 Hours | Work Description
 -- | --
-0 | Loaded  basic paleo records
+5 | Loaded 2,070 basic paleo records
+2 | Loaded 2,347 research events
+1 | GitHub issue discussion with Nicole and Dusty
+
+## 2020-03-20 Friday  
+Hours | Work Description
+-- | --
+ | Loaded  basic paleo records
