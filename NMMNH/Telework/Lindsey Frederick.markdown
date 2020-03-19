@@ -22,7 +22,7 @@ Hours | Work Description
 -- | --
 3 | Went into collection, pulled out insects for Paula to take photography of. Put some insects in freezer because of pest/frass indications. Refilled some alcohol vials that were low, answered emails, researched USFWS permit, went through to delete out old emails since my email is full, edited insect photography protocols, locked all collection cabinets. Checked on Paleo collection and contaced nicole about cabinet open, its difficut to close so couldnt get it to lock and left it. 
 2 | Creating USFWS account, applying for permit, uploading old permits
-1 | Answering and sending emails
+1 | Answering and sending emails, answering object tracking question for nicole
 2 | Georeferencing Butterflies
 
 
