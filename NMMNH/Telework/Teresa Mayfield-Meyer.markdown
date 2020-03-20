@@ -26,4 +26,13 @@ Hours | Work Description
 ## 2020-03-20 Friday  
 Hours | Work Description
 -- | --
- | Loaded  basic paleo records
+2 | Loaded 802 basic paleo records
+1 | Loaded 802 research events
+1 | Call with Hannah - instructions for Mineral taxonomy
+1 | Organization of mineral taxonomy file
+1 | Publications added for 3 holotypes and related taxa
+1 | create template for publication bulkload
+.5 | Collection object remark bulkload created and sent to programmer for upload
+.5 | Review of paleo prep electronic form and recommendation to Justy for GitHub issue
+
+
