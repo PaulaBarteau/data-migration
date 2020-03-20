@@ -38,13 +38,20 @@ Hours | Work Description
 1| Editing arthropod photography procedures
 1| Emails, organizing and planning for next week
 
+## 2020-03-20  
+Hours | Work Description
+-- | --
+1.5| Editing photography procedures
+
 
 Objectives: 
 Today- edit procedures and brainstorm final format
-Next week- * update weekly logs from notes
-           * Photograph the specimens Lindsey pulled out for me- Wednesday or Thursday?
-           * continue work on procedures, possibly ask for further feedback
-           * Start work on SPNCH presentations?
-           * Weekly meeting- Tuesday 2pm
-           * Begin work on mollusc data
+- Next week
+- Meeting w/ Lindsey on Zoom 9am Monday
+- update weekly logs from notes
+ - Weekly meeting- Tuesday 2pm
+ - Photograph the specimens Lindsey pulled out for me- Wednesday or Thursday?
+ - continue work on procedures, possibly ask for further feedback
+ - Start work on SPNCH presentations?
+ - Begin work on mollusc data
         
