@@ -16,5 +16,5 @@ Hours | Work Description
 ## 2020-03-20 Friday  
 Hours | Work Description
 -- | --
-0 | Webex meeting with Teresa
-1 | Mineral taxonomy using Mindat
+1 | Webex meeting with Teresa
+4 | Mineral taxonomy using Mindat
