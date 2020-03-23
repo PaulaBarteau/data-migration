@@ -50,8 +50,13 @@ Today- edit procedures and brainstorm final format
 - Meeting w/ Lindsey on Zoom 9am Monday
 - update weekly logs from notes
  - Weekly meeting- Tuesday 2pm
- - Photograph the specimens Lindsey pulled out for me- Wednesday or Thursday?
+ - Photograph the specimens Lindsey pulled out for me-Thursday
  - continue work on procedures, possibly ask for further feedback
  - Start work on SPNCH presentations?
  - Begin work on mollusc data
         
+
+## 2020-03-23  
+Hours | Work Description
+-- | --
+| 
