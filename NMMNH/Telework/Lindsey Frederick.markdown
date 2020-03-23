@@ -32,5 +32,6 @@ Hours | Work Description
 1 | Applying for USFWS permits
 1 | Creating meeting notes, editing old notes, making focus nots for Paulas imaging
 2 | Researching standard protocols for archiving and hosting pictures
+2 | Editing protocols for digitization
 
 
