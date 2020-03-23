@@ -44,6 +44,11 @@ Hours | Work Description
 1.5| Editing photography procedures
 
 
+
+-2020-03- 16-20
+-18hrs
+
+
 Objectives: 
 Today- edit procedures and brainstorm final format
 - Next week
@@ -53,10 +58,28 @@ Today- edit procedures and brainstorm final format
  - Photograph the specimens Lindsey pulled out for me-Thursday
  - continue work on procedures, possibly ask for further feedback
  - Start work on SPNCH presentations?
- - Begin work on mollusc data
+ - Begin work on mollusc data?
         
+
+-This week
+-Monday
+- meeting, editing, etc..
+-Tuesday
+- meeting, editing, etc..., make list of everything I need to document for Thursday
+-Wednesday
+-Thursday
+- Go to collection, photograph Insects & doccument process, photograph labels, Take pictures of equipment- color checker, ruler, forcepts, staging mount, swivel mount, etc.. take screen shots in Photoshop and light room to document how to save things, save files to drive or email to include in documents
+-Friday- Incorporate information from Thursday into protocols
+
 
 ## 2020-03-23  
 Hours | Work Description
 -- | --
-| 
+1| Meeting about Bioscience Photography Protocols w/ Lindsey on Zoom
+2.5| Outlining project manual and editing procedures.
+
+Today's objectives:
+- outline Instruction Manual 
+- fill in missing elements
+- keep editing
+
