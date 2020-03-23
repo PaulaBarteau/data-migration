@@ -12,7 +12,7 @@ While we telework, this is the schedule for access to the collections building.
 Day | Person
 --- | ---
 Monday | 
-Tuesday | 
-Wednesday | Lindsey
+Tuesday | Lindsey
+Wednesday | 
 Thursday | Paula
 Friday | Hannah
