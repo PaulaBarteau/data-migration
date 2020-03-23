@@ -5,7 +5,7 @@ Hours | Work Description
 -- | --
 .5 | Zoom Meeting to with Mariel at MSB re: other ids and barcodes
 1 | Correct other IDs for Mammal records related to MSB:Mamm
-.5 | Update and correct localities for public loaclities for 90-99
+.5 | Update and correct localities for public localities for 90-99
 3 | Loaded 1,038 basic paleo records and research events
 3 | Loaded 1,069 basic paleo records and 1,656 research events
   
