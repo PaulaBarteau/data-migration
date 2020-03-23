@@ -34,4 +34,9 @@ Hours | Work Description
 2 | Researching standard protocols for archiving and hosting pictures
 2 | Editing protocols for digitization
 
+## 2020-03-23 Monday
+Hours | Work Description
+-- | --
+1 | Checking and replying to emails 
+
 
