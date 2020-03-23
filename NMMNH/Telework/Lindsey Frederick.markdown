@@ -38,5 +38,8 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Checking and replying to emails 
+1 | Editing Protocols - Mammals, Herbarium, Focus meeting
+2 | Meeting with Paula about digitization, needs, collections updates, answering questions about protocols
+1 | Continued Editing Protocols - Mammals, Herbarium, Focus document
 
 
