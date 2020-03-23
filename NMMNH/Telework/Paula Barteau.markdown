@@ -76,7 +76,7 @@ Today- edit procedures and brainstorm final format
 Hours | Work Description
 -- | --
 1| Meeting about Bioscience Photography Protocols w/ Lindsey on Zoom
-2.5| Outlining project manual and editing procedures.
+2| Outlining project manual and editing procedures.
 
 Today's objectives:
 - outline Instruction Manual 
