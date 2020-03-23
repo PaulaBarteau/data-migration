@@ -11,8 +11,8 @@ Total Images Taken: 51
 ## Geoscience
 ### Teresa
 **Complete**
- - Loaded 5,510 basic records
- - Loaded 6,786 research events
+ - Loaded 7,617 basic records
+ - Loaded 8,893 research events
  
 **In Process**
  - Standardizing Parts
@@ -49,6 +49,7 @@ Total Images Taken: 51
 ## Bioscience
 ### Teresa
 **Complete**
+ - Corrected relationship for MSB mammal records
 
 **In Process**
  - Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
@@ -89,6 +90,14 @@ Total Images Taken: 51
  - Photoshop- creating a reliable scale, creating color profiles, etc..
  
 ## Discussion Topics
+
+### Community Engagement
+- We have > 42,000 recrods in Arctos - how can we use the data to engage the public confined to their homes?
+- Also, how about some social media posts by those who go into the collection?
+- Give people a taste of what goes on behind the scenes and how we are "digitizing" the collection?
+- Can we get some teachers involved?
+- Put something up on the museum website to direct the public to Arctos?
+- Start an iNaturalist project to have people look for local biodiversity in our collection and document where they can be found now? (Backyard "weed" watch)
 
 ### SPNHC
 
