@@ -88,3 +88,5 @@ Hours | Work Description
 -- | --
 1| Meeting with digitization team, discussed new grant, social media outreach, and collection closure
 2| Fleshing out Photography Procedures outline
+.5| Meeting with Lindsey to discuss progress & direction.
+
