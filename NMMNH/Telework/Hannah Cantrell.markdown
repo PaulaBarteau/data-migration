@@ -23,3 +23,9 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2 | Mineral taxonomy using Mindat
+
+## 2020-03-24 Tuesday 
+Hours | Work Description
+-- | --
+2 | Mineral taxonomy using Mindat
+1 | Webex meeting with Digitization Team
