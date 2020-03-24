@@ -1,0 +1,103 @@
+# NMMNH Digitization Grant 2020-03-31 Weekly Update
+(Activity from 2020-03-24 through 2020-03-31)
+
+This documents discussion at bi-weekly team meetings - due to COVID19 and telework, updates will be given weekly.
+
+## Progress Report
+
+Total records in Arctos: 42,351  
+Total Images Taken: 51
+
+## Geoscience
+### Teresa
+**Complete**
+ - Loaded basic records
+ - Loaded research events
+ 
+**In Process**
+ - Standardizing Parts
+ - Writing data migration protocols
+ - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
+ - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
+ - Project for grant - add funding?
+ - Currently 2,418 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
+ 
+### Nicole
+
+ **In Process**
+-Creating bulkload file for new localities and specimens (to date 195 specimens and 260 localities)
+-Preparation loan for Arctos
+-Working out part names and definitions on Arctos
+
+### Hannah
+**Complete**
+
+
+**In Process**
+ - Researching mineral taxonomy on Mindat
+ - Reading papers on paleo imaging protocols to incorporate relevant information into NMMNHS paleo imaging protocols
+ 
+## Bioscience
+### Teresa
+**Complete**
+ - Corrected relationship for MSB mammal records
+
+**In Process**
+ - Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
+
+ 
+### Lindsey
+**Complete**
+
+
+**In Process**
+ - Fixing remaining arthropod and mammal issues
+ - Get mollusc records into bulkload format
+ - Fix Higher geography of mollusc records
+ - Fixing dates in mollusc records for bulkload format
+ - Getting non-tissued mammal records into Arctos ~450
+ - checking in on everyone's travel for SPNHC
+ 
+ 
+### Paula
+ **Complete**
+
+ **In Process**
+ 
+ - Photographing arthropods
+ - Photographing mollusc labels
+ - Photographing herbarium specimens with light box
+ - Troubleshooting wet collection procedures and workflow
+ - Continue writing and editing on procedures and work flows
+ - Started post processing workflow
+ - Photoshop- creating a reliable scale, creating color profiles, etc..
+ 
+## Meeting Discussion Topics
+
+### New Grant Ideas
+Review [Ideas Document](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/New%20Grant%20Ideas.markdown)
+
+### Community Engagement
+
+### File Sharing
+Use Google Drive for most things, but Dropbox for all Excel files and stuff that needs to maintain a format (forms, etc.)
+
+[Google Drive](https://drive.google.com/open?id=1Fol3x_1L2UOc0PoMQKS7ldOrofJACL09
+Dropbox
+
+### SPNHC
+
+Work on presentations - conference has not been canceled.
+
+### COVID19
+
+Keep track of [productivity in GitHub](https://github.com/ArctosDB/data-migration/tree/master/NMMNH/Telework)
+
+#### Open Items
+- Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
+- need velvet and lime green background for photography
+
+#### Notes from last meeting
+
+Need to publish to journals about the project and potentially going forward about collection activity.
+Define metadata terms needed in Arctos media and make GitHub requests
