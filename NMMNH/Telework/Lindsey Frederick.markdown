@@ -40,6 +40,13 @@ Hours | Work Description
 1 | Checking and replying to emails 
 1 | Editing Protocols - Mammals, Herbarium, Focus meeting
 2 | Meeting with Paula about digitization, needs, collections updates, answering questions about protocols
-1 | Continued Editing Protocols - Mammals, Herbarium, Focus document
+3 | Continued Editing Protocols - Mammals, Herbarium, Focus document
+1 | Checking and replying to emails about lockdown to collection, making signs for freexers
 
+## 2020-03-24 Tuesday
+Hours | Work Description
+-- | --
+2 | In collection, checking on rooms, putting away specimens and eqiupment, grabbing scanners from accross the street, labeling freezers, checked on entire Aneex building even outside. 
+1 | Checking email and scheduling an order
+1 | Creating and editing meetings notes for paula meeting and digitization meeting,
 
