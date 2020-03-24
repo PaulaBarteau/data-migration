@@ -83,13 +83,25 @@ Total Images Taken: 51
  
 ## Discussion Topics
 
+### New Grant Ideas
+Teresa will set up a GitHub list for this and email around.
+
 ### Community Engagement
-- We have > 42,000 recrods in Arctos - how can we use the data to engage the public confined to their homes?
+- We have > 42,000 records in Arctos - how can we use the data to engage the public confined to their homes?
 - Also, how about some social media posts by those who go into the collection?
 - Give people a taste of what goes on behind the scenes and how we are "digitizing" the collection?
 - Can we get some teachers involved?
 - Put something up on the museum website to direct the public to Arctos?
 - Start an iNaturalist project to have people look for local biodiversity in our collection and document where they can be found now? (Backyard "weed" watch)
+
+### File Sharing
+Dropbox or Google Drive? Justy and Teresa perfer Dropbox for maintaining formats in MS products.
+
+Teresa will set up a Dropbox and share with everyone.
+
+Perhaps use Drive for most things, but Dropbox for all Excel files and stuff that needs to maintain a format (forms, etc.)
+
+Teresa to send Justy a Google Form Example
 
 ### SPNHC
 
@@ -97,15 +109,7 @@ Work on presentations - conference has not been canceled.
 
 ### COVID19
 
-- everyone working from home, but would like to have the ability to have one day a week in the office.
-
-Day | Person
---- | ---
-Monday | 
-Tuesday | 
-Wednesday | Lindsey
-Thursday | Paula
-Friday | Hannah
+Keep track of productivity in GitHub
 
 #### Open Items
 - Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
