@@ -50,3 +50,4 @@ Hours | Work Description
 1 | Checking email and scheduling an order
 1 | Creating and editing meetings notes for paula meeting and digitization meeting
 3 | Editing mollusc data began dates - ~6000
+1 | Hosting and leading Digitization meeting
