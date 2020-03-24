@@ -49,4 +49,4 @@ Hours | Work Description
 2 | In collection, checking on rooms, putting away specimens and eqiupment, grabbing scanners from accross the street, labeling freezers, checked on entire Aneex building even outside. 
 1 | Checking email and scheduling an order
 1 | Creating and editing meetings notes for paula meeting and digitization meeting
-3 | Editing mollusc data dates - ~6000
+3 | Editing mollusc data began dates - ~6000
