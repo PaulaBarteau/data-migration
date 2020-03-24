@@ -89,4 +89,25 @@ Hours | Work Description
 1| Meeting with digitization team, discussed new grant, social media outreach, and collection closure
 2| Fleshing out Photography Procedures outline
 .5| Meeting with Lindsey to discuss progress & direction.
+1| email, updating github trackers, adding to PPM, organizing for rest of week.
+
+
+- Objectives
+- by Friday, develop tentative plan for Promotional Photography and Garden Exhibit Digitization Community Out Reach for new grant
+- Work out other ideas for new Grant
+- Continue to focus time on PPM development, writing and editing
+-     Write Introductions
+-     Add in specific collection instructions and edit them for redundency
+-     Watch tutorials for setting up cameras w/ microscopes and write a mock-up to test when we can go back to collection
+-     Same for the things we need to do in photoshop
+-     Create a list of all the photographs and screenshots I need to take to illustrate the PPM
+-     Incorporate complete list of equipment
+-     Incorporate instructions for doccumenting progress in excell sheet in necessary sections
+-     Edit for clarity, redundancy, and tone.
+- Draft SPNCN presentations
+- community out reach Species identification project?
+- 
+
+
+
 
