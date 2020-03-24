@@ -2,7 +2,7 @@
 
 This document lists major tasks completed by the team over the course of the project as reported in the Weekly Meeting notes.
 
-Total records in Arctos: 34,735
+Total records in Arctos: 42,351
 Total Images Taken: 51
 
 ## Completed by Person
@@ -27,8 +27,10 @@ Total Images Taken: 51
 ##### Benefits NMMNH Geoscience
  - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
  - Tested bulkload of research localities and collecting events with Arctos programmer.
- - Bulkloaded 11,294 specimen records
+ - Bulkloaded 18,911 specimen records with public and research events
  - Bulkloaded 115 non-conforming Agents to Arctos
+ - Bulkloaded 9,928 research localities to Arctos
+ - Bulkloaded 9,928 public loalities to Arctos
  - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
  - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
  - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
@@ -48,6 +50,9 @@ Total Images Taken: 51
  - 283 taxa/classifications added to Arctos
  - 2,695 higher geography quad maps compiled for bulkload
  - Researched geology terms 148-433
+ - Scale rulers for imaging printed out at UPS and ready for when imaging can continue
+ - 720 mineral taxonomy links compiled
+
  
 #### Benefits NMMNH Geoscience
 - Wrote and submitted Gila Symposium abstract- "Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science"
@@ -74,6 +79,7 @@ Total Images Taken: 51
  - Assisted with locality for bird specimen shared with MSB
  - Completed "Manage Collection" for all collections adding museum logo to record header and details for future publication to aggregators.
  - Downloaded 5,798 records shared with MSB and prepped bulkload file for load to NMMNH:Mamm collection.
+ - Corrected relationship for MSB mammal records
  - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
  
 #### Lindsey
@@ -101,7 +107,13 @@ Total Images Taken: 51
  - Photographed 4 bird specimens for loan
  - Photographed 2 insect specimens with temporary and current lables for potential format change
  - Photographed 8 Birds for report
- -Photographed 12 skulls and shells in light box.
+ - Photographed 12 skulls and shells in light box.
  - Photographed several different kinds of plant for contrast between light stand and light box image quality
  - Trained Hannah in basic photography workflow
- 
+ - Developed tentative protocals for imaging insects and birds/mammals and mollusks
+ - Developed tentative protocols for imaging herbarium
+ - Developed tentative protocols for imaging wet collection
+ - Developed tentative protocols for imaging arthropods -Trouble shooting Lightbox work flow.
+ - Digitization material research and testing
+ - Photographing presentation specimens for mammals and molluscs.
+
