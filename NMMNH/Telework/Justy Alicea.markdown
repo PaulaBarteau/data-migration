@@ -28,3 +28,11 @@ catch up on work email
 familiarizing myself w loans and projects in arctos
 draft attempt of combining arctos loan form with physical prep records form
 Relearned how to edit choice controls
+
+
+3/24/20
+continue modifying draft Prep records form
+continue searching online and forums for how to perform functions in MSWord
+discussion on donatable PPE
+Digitization meeting
+google forms initial review
