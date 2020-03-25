@@ -11,7 +11,7 @@ Total Images Taken: 51
 ## Geoscience
 ### Teresa
 **Complete**
- - Loaded basic records
+ - Loaded 1,866 basic records
  - Loaded research events
  
 **In Process**
@@ -41,6 +41,7 @@ Total Images Taken: 51
 ### Teresa
 **Complete**
  - Corrected relationship for MSB mammal records
+ - Changed barcodes on NMMNH:Mamm specimens at MSB
 
 **In Process**
  - Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
