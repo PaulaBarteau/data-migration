@@ -57,5 +57,5 @@ Hours | Work Description
 -- | --
 2 | Meeting with Teresa on webex about Arctos/iNaturalist, mammal records, social media. Also met with Hannah. 
 1 | Checking email
-2 | Researching iNaturalist, Twitter, Facebook, getting files together
+2 | Researching iNaturalist, Twitter, Facebook, getting files together, editing buttefly photo, creating social media pdf
 3 | Editing mollusc data end dates - ~6000
