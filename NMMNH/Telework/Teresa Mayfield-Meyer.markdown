@@ -1,5 +1,15 @@
 # NMMNH Telework - Teresa
 
+## 2020-03-24 Tuesday  
+Hours | Work Description
+-- | --
+1.5 | MSB barcodes removed from NMMNH:Mamm parts and parts moved to new barcode
+1 | Digitization Team Meeting
+1 | Follow up from meeting - create Dropbox, document discussion, send Google Form out
+4 | Loaded 1,866 basic paleo records
+.5 | Update and correct localities for public localities for 100-109
+
+
 ## 2020-03-23 Monday  
 Hours | Work Description
 -- | --
