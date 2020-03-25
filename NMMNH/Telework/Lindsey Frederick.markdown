@@ -51,3 +51,11 @@ Hours | Work Description
 1 | Creating and editing meetings notes for paula meeting and digitization meeting
 3 | Editing mollusc data began dates - ~6000
 1 | Hosting and leading Digitization meeting
+
+## 2020-03-25 Wednesday
+Hours | Work Description
+-- | --
+2 | Meeting with Teresa on webex about Arctos/iNaturalist, mammal records, social media. Also met with Hannah. 
+1 | Checking email
+2 | Researching iNaturalist, Twitter, Facebook, getting files together
+3 | Editing mollusc data end dates - ~6000
