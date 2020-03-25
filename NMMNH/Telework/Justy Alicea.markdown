@@ -36,3 +36,12 @@ continue searching online and forums for how to perform functions in MSWord
 discussion on donatable PPE
 Digitization meeting
 google forms initial review
+
+3/25/20
+watch tutorial videos on google forms
+inquired on rationale for making a second form in google forms; transition of arctos means we cant actually make the form within framework
+manual porting over of word prep records form fields into google forms
+
+
+
+
