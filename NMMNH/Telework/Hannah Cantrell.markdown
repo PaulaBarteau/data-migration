@@ -29,3 +29,10 @@ Hours | Work Description
 -- | --
 2 | Mineral taxonomy using Mindat
 1 | Webex meeting with Digitization Team
+
+## 2020-03-25 Wednesday
+Hours | Work Description
+-- | --
+1.5 | Mineral taxonomy using Mindat
+.5 | Webex meeting with Teresa and Lindsey about public outreach ideas
+1 | Brainstorm social media ideas and set up meeting Webex meeting with Teresa and Nicole about social media ideas and platforms
