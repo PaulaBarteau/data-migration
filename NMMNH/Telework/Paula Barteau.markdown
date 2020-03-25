@@ -113,6 +113,8 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1.5| Writing and researching Microscope station set up for PPM
+.5 | Researching how to create color profiles
+1 | Writing and reorganizing PPM
 
 
 
