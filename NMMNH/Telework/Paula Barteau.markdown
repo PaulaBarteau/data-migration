@@ -104,6 +104,7 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3| Ironed out and decided on system for tracking photography project progress in excell, recieved aproval, wrote instructions for creating and using Photography Project Tracking excell sheets for PPM
+.5 | Drafted 3 ideas for grant
 
 Today's objectives:
 -Work out Documentation instructions for PPM
