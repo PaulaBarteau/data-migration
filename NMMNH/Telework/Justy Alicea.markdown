@@ -41,6 +41,27 @@ google forms initial review
 watch tutorial videos on google forms
 inquired on rationale for making a second form in google forms; transition of arctos means we cant actually make the form within framework
 manual porting over of word prep records form fields into google forms
+Posted finished draft to shared google drive
+
+
+3/26/20
+Reviewed draft of google form
+emailed digitization group about form upload
+Went through AMNH vendor list
+Went through DMNS vendor list
+Populated more of draft supply list for NMMNHS
+uniform formatted supply list 
+tracked down missing links and information for supply list; emailed several vendors
+
+
+
+
+
+
+
+
+
+
 
 
 
