@@ -36,3 +36,9 @@ Hours | Work Description
 1.5 | Mineral taxonomy using Mindat
 .5 | Webex meeting with Teresa and Lindsey about public outreach ideas
 1 | Brainstorm social media ideas, set up Webex meeting with Teresa and Nicole about social media ideas and platforms, make a paleo folder in dropbox for social media, emailed Spencer about any trace fossil speciman images he may have 
+
+## 2020-03-26 Thursday
+Hours | Work Description
+-- | --
+2 | Mineral taxonomy using Mindat
+1 | Worked on recording audio for Gila Presentation to upload to Youtube for teachers/public to access for an intro to NMMNHS database
