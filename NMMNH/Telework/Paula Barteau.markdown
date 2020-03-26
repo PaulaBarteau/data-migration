@@ -92,10 +92,30 @@ Hours | Work Description
 1| email, updating github trackers, adding to PPM, organizing for rest of week.
 
 
-- Objectives
+## 2020-03-25
+Hours | Work Description
+-- | --
+1.5| Writing and researching Microscope station set up for PPM
+.5 | Researching how to create color profiles
+1 | Adding to and reorganizing PPM into discreet sections for more efficient workflow
+
+
+## 2020-03-26
+Hours | Work Description
+-- | --
+3| Ironed out and decided on system for tracking photography project progress in excell, recieved aproval, wrote instructions for creating and using Photography Project Tracking excell sheets for PPM
+
+Today's objectives:
+-Work out Documentation instructions for PPM
+-Draft Grant ideas and run by Lindsey.
+
+
+
+- Week Objectives
 - by Friday, develop tentative plan for Promotional Photography and Garden Exhibit Digitization Community Out Reach for new grant
 - Work out other ideas for new Grant
 - Continue to focus time on PPM development, writing and editing
+-     Flesh out each section
 -     Write Introductions
 -     Add in specific collection instructions and edit them for redundency
 -     Watch tutorials for setting up cameras w/ microscopes and write a mock-up to test when we can go back to collection
@@ -104,17 +124,4 @@ Hours | Work Description
 -     Incorporate complete list of equipment
 -     Incorporate instructions for doccumenting progress in excell sheet in necessary sections
 -     Edit for clarity, redundancy, and tone.
-- Draft SPNCN presentations
 - community out reach Species identification project?
-- 
-
-
-## 2020-03-25
-Hours | Work Description
--- | --
-1.5| Writing and researching Microscope station set up for PPM
-.5 | Researching how to create color profiles
-1 | Writing and reorganizing PPM
-
-
-
