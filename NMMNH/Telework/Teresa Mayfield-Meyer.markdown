@@ -1,5 +1,13 @@
 # NMMNH Telework - Teresa
 
+## 2020-03-25 Wednesday  
+Hours | Work Description
+-- | --
+2 | Call with Lindsey and Hannah re: community engagement using Arctos data and iNaturalist
+1 | Set up migration file for localities 1300-1499
+2 | Load 2,609 parts and 1,867 research events for localities 900-1299
+3 | Reviewed/corrected 136 taxon names for localities 1300-1499
+
 ## 2020-03-24 Tuesday  
 Hours | Work Description
 -- | --
