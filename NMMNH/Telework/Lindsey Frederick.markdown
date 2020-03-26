@@ -59,3 +59,12 @@ Hours | Work Description
 1 | Checking email
 2 | Researching iNaturalist, Twitter, Facebook, getting files together, editing buttefly photo, creating social media pdf
 3 | Editing mollusc data end dates - ~6000
+
+## 2020-03-26 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Updating iNaturalist, Twitter, Facebook
+3 | Editing mollusc localities
+1 | Getting grant documents together for Paula
+
