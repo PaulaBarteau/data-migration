@@ -42,3 +42,10 @@ Hours | Work Description
 -- | --
 2 | Mineral taxonomy using Mindat
 1 | Worked on recording audio for Gila Presentation to upload to Youtube for teachers/public to access for an intro to NMMNHS database
+
+## 2020-03-27 Friday
+Hours | Work Description
+-- | --
+1 | Mineral taxonomy using Mindat
+1 | Recorded audio for Gila Presentation to upload to Youtube for teachers/public to access for an intro to NMMNHS database
+1 | Webex meeting with Teresa and Nicole to discuss paleo social media ideas
