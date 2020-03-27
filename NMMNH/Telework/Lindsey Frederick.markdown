@@ -67,4 +67,12 @@ Hours | Work Description
 1 | Updating iNaturalist, Twitter, Facebook
 3 | Editing mollusc localities
 1 | Getting grant documents together for Paula
+2 | Editing a few accessions in Arctos, researching google analytics
+
+## 2020-03-27 Friday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Updating iNaturalist, Twitter, Facebook. Editing a gif for the social media account post
+
 
