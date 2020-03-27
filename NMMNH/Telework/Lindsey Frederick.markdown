@@ -74,5 +74,6 @@ Hours | Work Description
 -- | --
 1 | Checking email
 1 | Updating iNaturalist, Twitter, Facebook. Editing a gif for the social media account post
+2 | Participating in NM Backyard Biodiversity
 
 
