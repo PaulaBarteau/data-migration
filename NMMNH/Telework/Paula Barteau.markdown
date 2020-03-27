@@ -110,14 +110,18 @@ Today's objectives:
 -Work out Documentation instructions for PPM
 -Draft Grant ideas and run by Lindsey.
 
-
+## 2020-03-26
+Hours | Work Description
+-- | --
+1| Edited and submitted ideas for Grant
+1| Worked on Photography Instructions for PPM
 
 - Week Objectives
-- by Friday, develop tentative plan for Promotional Photography and Garden Exhibit Digitization Community Out Reach for new grant
-- Work out other ideas for new Grant
+- by Friday, develop tentative plan for Promotional Photography and Garden Exhibit Digitization Community Out Reach for new grant \,
+- Work out other ideas for new Grant \,
 - Continue to focus time on PPM development, writing and editing
 -     Flesh out each section
--     Write Introductions
+-     Write Introductions \,
 -     Add in specific collection instructions and edit them for redundency
 -     Watch tutorials for setting up cameras w/ microscopes and write a mock-up to test when we can go back to collection
 -     Same for the things we need to do in photoshop
@@ -126,3 +130,22 @@ Today's objectives:
 -     Incorporate instructions for doccumenting progress in excell sheet in necessary sections
 -     Edit for clarity, redundancy, and tone.
 - community out reach Species identification project?
+
+
+-Week of 3/30-4/3
+To do:
+-Continue work on PPM
+-  Synthesize esential equipment list
+-  Flesh out remaining sections
+-  Read through in entirity, mark down inconsistancy, redundancy, make note of where pictures are necessary for illustration
+-  Re-organize for clarity
+-  Open for feedback
+-  Address feedback
+-Potentially help Hannah with Paleo's Protocols
+   
+-Plan:
+-Monday- Meeting with Lindsey 9 a.m., Work on PPM
+-Tuesday- Meeting with Team 2 p.m., Work on PPM
+-Wednesday- Work on PPM
+-Thursday- Work on PPM
+-Friday- Work on PPM
