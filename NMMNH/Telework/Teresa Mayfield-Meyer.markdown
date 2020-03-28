@@ -1,5 +1,14 @@
 # NMMNH Telework - Teresa
 
+## 2020-03-27 Thursday  
+Hours | Work Description
+-- | --
+1 | Meeting with Hannah and Nicole re: social media and Gila Presentation video
+3 | Prepare and load 2,271 records, 2,513 research events and 2,830 parts for localities 1500-2599
+1 | Set up migration file for localities 2600-2799
+2 | Reviewed/corrected 44 taxon names for localities 2600-2799
+1 | Make iNaturalist observations and identify observations by others for BioSci project, retweet to extend reach
+
 ## 2020-03-26 Thursday  
 Hours | Work Description
 -- | --
