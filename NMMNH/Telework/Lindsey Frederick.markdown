@@ -75,5 +75,16 @@ Hours | Work Description
 1 | Checking email
 1 | Updating iNaturalist, Twitter, Facebook. Editing a gif for the social media account post
 2 | Participating in NM Backyard Biodiversity
+4 | Continued organizing scanned files, digital and physical
+
+## 2020-03-30 Monday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Meeting with Paula on Webex
+2 | Editing Photography documents
+2 | Participating in NM Backyard Biodiversity
+
+
 
 
