@@ -110,7 +110,7 @@ Today's objectives:
 -Work out Documentation instructions for PPM
 -Draft Grant ideas and run by Lindsey.
 
-## 2020-03-26
+## 2020-03-27
 Hours | Work Description
 -- | --
 1| Edited and submitted ideas for Grant
@@ -132,6 +132,7 @@ Hours | Work Description
 - community out reach Species identification project?
 
 
+
 -Week of 3/30-4/3
 To do:
 -Continue work on PPM
@@ -149,3 +150,10 @@ To do:
 -Wednesday- Work on PPM
 -Thursday- Work on PPM
 -Friday- Work on PPM
+
+
+## 2020-03-30
+Hours | Work Description
+-- | --
+.5| Editing Photography Instructions in PPM
+1| BioScience meeting w/ Lindsey
