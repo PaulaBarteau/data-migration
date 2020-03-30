@@ -146,7 +146,7 @@ To do:
    
 -Plan:
 -Monday- Meeting with Lindsey 9 a.m., Work on PPM
--Tuesday- Meeting with Team 2 p.m., Work on PPM
+-Tuesday- Meeting with Team 2 p.m., Work on PPM- Contiue building Wet and Dry Photography instructions for Arthropods, Start equipment List.
 -Wednesday- Work on PPM
 -Thursday- Work on PPM
 -Friday- Work on PPM
@@ -157,3 +157,5 @@ Hours | Work Description
 -- | --
 .5| Editing Photography Instructions in PPM
 1| BioScience meeting w/ Lindsey
+1| Photographing "A Walk Through New Mexico" and uploading to docs/inaturalist.
+1| Editing and adding to Arthropod photography instructions for PPM.
