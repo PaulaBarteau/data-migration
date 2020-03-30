@@ -54,10 +54,17 @@ uniform formatted supply list
 tracked down missing links and information for supply list; emailed several vendors
 
 
+3/27/20
+tracked down missing links and information for supply list; emailed several vendors
+internet technician turned on connection
 
 
-
-
+3/30/20
+replied to emails
+tracked down missing links and information for supply list; emailed several vendors
+meeting with Kristin
+meeting with Brian
+Prep manual initial review
 
 
 
