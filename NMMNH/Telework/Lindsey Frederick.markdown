@@ -81,9 +81,9 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Checking email
-1 | Meeting with Paula on Webex
+1.5 | Meeting with Paula on Webex
 2 | Editing Photography documents
-2 | Participating in NM Backyard Biodiversity
+2 | Participating in NM Backyard Biodiversity, helping with identifications on project
 
 
 
