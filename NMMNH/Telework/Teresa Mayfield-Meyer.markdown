@@ -10,7 +10,7 @@ Hours | Work Description
 1 | correct public loalities 130-139
 .5 | Email and calendar, iNaturalist identifications
 
-## 2020-03-27 Thursday  
+## 2020-03-27 Friday  
 Hours | Work Description
 -- | --
 1 | Meeting with Hannah and Nicole re: social media and Gila Presentation video
