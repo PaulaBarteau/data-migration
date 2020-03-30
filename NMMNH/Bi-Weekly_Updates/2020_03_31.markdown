@@ -5,23 +5,28 @@ This documents discussion at bi-weekly team meetings - due to COVID19 and telewo
 
 ## Progress Report
 
-Total records in Arctos: 42,351  
-Total Images Taken: 51
+Total records in Arctos: 50,167  
+Images Taken: 51
+Taxa added to Arctos: 316
+Classifications added to Arctos: 521
+Publications added to Arctos: 10
 
 ## Geoscience
 ### Teresa
 **Complete**
- - Loaded 1,866 basic records
- - Loaded research events
+ - Loaded 7,816 basic records
+ - Loaded 8,449 research events
+ - Loaded 8,975 parts
+ - Reviewed 231 taxon names
  
 **In Process**
+ - Loading records for localities bulkloaded to Arctos
+ - Currently 2,418 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
  - Standardizing Parts
  - Writing data migration protocols
- - Reviewing names for taxa that are not in Arctos and appear to be invalid per Arctos validation tool. Names added to Arctos to date: 8, Classifications added to Arctos: 25
  - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
  - Project for grant - add funding?
- - Currently 2,418 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
- 
+  
 ### Nicole
 
  **In Process**
@@ -60,29 +65,29 @@ Total Images Taken: 51
  - Fixing dates in mollusc records for bulkload format
  - Getting non-tissued mammal records into Arctos ~450
  - checking in on everyone's travel for SPNHC
- 
- 
+  
 ### Paula
- **Complete**
-- Outline Photography Procedure manual
-- Decide on format for procedures final project
- **In Process**
+**Complete**
+ - Outline Photography Procedure manual
+ - Decide on format for procedures final project
+**In Process**
  - Writing Photography Procedures manual
  - Continue writing and editing on procedures and work flows
  - Make list of all images needed to illustrate porcedure manual
  - Photoshop- creating a reliable scale, creating color profiles, etc..
  - Draft SPNCH presentations
  - Develope 2nd Grant ideas
- -    Promotional Photographs of Specimens
- -    Digitize living garden collection as a community education project
+ - Promotional Photographs of Specimens
+ - Digitize living garden collection as a community education project
  - Social media assistance for community outreach
  
 ## Meeting Discussion Topics
 
+### Respond to request from Museum Director
+[Draft and ideas document](https://docs.google.com/document/d/1WaZPR0jUyyNorGMKL4zgxvXVrHLIgtPikHJ4_CuwkEM/edit?usp=sharing)
+
 ### New Grant Ideas
 Review [Ideas Document](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/New%20Grant%20Ideas.markdown)
-
-### Community Engagement
 
 ### File Sharing
 Use Google Drive for most things, but Dropbox for all Excel files and stuff that needs to maintain a format (forms, etc.)
@@ -92,13 +97,15 @@ Dropbox
 
 ### SPNHC
 
-Canceled - what do we do about $ spent already?
+Canceled - work on getting refunds.
 
 ### Social Media
 
 * Suggest we move documents to Google Drive - this is the kind of thing that should be there where we all can edit/work on it simultaneously and formatting matters not.
 
-* Paleo Twitter was mishandled - trying to get username/password. If unsuccessful, what do we do then?
+* Paleo Twitter is back on line!
+
+* iNaturalist challenge results
 
 ### COVID19
 
@@ -109,6 +116,5 @@ Keep track of [productivity in GitHub](https://github.com/ArctosDB/data-migratio
 - need velvet and lime green background for photography
 
 #### Notes from last meeting
-
 Need to publish to journals about the project and potentially going forward about collection activity.
 Define metadata terms needed in Arctos media and make GitHub requests
