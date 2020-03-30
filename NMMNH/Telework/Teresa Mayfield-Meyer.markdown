@@ -1,5 +1,15 @@
 # NMMNH Telework - Teresa
 
+## 2020-03-30 Monday  
+Hours | Work Description
+-- | --
+1 | Draft start of collaborative response to Director's inquiry
+2 | Prepare and load 1,363 records, 1,363 research events and 1,609 parts for localities 2600-2799
+2.5 | Prepare migration file for localities 2800-2999
+1 | Reviewed/corrected 20 taxon names for localities 2800-2999
+1 | correct public loalities 130-139
+.5 | Email and calendar, iNaturalist identifications
+
 ## 2020-03-27 Thursday  
 Hours | Work Description
 -- | --
