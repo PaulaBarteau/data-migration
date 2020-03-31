@@ -86,5 +86,14 @@ Hours | Work Description
 2 | Participating in NM Backyard Biodiversity, helping with identifications on project
 1.5 | Working on getting updated quotes for purchasing
 
+## 2020-03-31 Tuesday
+Hours | Work Description
+-- | --
+1 | Checking email
+3 | Organizing other file stack of old documents from filing cabinet
+3 | Editing 72 mollusc taxonomies
+1 | Hosting, note taking, Digitization Team Meeting on Webex
+
+
 
 
