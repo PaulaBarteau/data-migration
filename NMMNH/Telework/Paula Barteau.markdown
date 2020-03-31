@@ -160,9 +160,16 @@ Hours | Work Description
 1| Photographing "A Walk Through New Mexico" and uploading to docs/inaturalist.
 1| Editing and adding to Arthropod photography instructions for PPM.
 
-## 2020-03-30
+## 2020-03-31
 Hours | Work Description
 -- | --
 1| Macro/Microscope Photography research
 45min| Digitization team meeting
 15 min| transcribing insect prep methods with questions for PPM
+.5| Microscope photography research and notes.
+
+
+## 2020-04-01
+Today's objective: Flesh out Introduction to Equipment document, add formal equpment list as apendix. Read through all sections taking notes on what changes need to be made.
+Hours | Work Description
+-- | --
