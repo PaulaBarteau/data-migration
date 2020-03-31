@@ -49,3 +49,9 @@ Hours | Work Description
 1.5 | Mineral taxonomy using Mindat
 1.5 | Recorded audio for Gila Presentation to upload to Youtube for teachers/public to access for an intro to NMMNHS database and emailed it to digitization team
 1 | Webex meeting with Teresa and Nicole to discuss paleo social media ideas
+
+## 2020-03-31 Tuesday
+Hours | Work Description
+-- | --
+1 | Canceled and requested refunds for flight to Edinburgh and Airbnb for stay during conference 
+1 | Created first social media post, and created and organized folders in the dropbox for upcoming social media posts and sources
