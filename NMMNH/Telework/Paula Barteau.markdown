@@ -159,3 +159,10 @@ Hours | Work Description
 1| BioScience meeting w/ Lindsey
 1| Photographing "A Walk Through New Mexico" and uploading to docs/inaturalist.
 1| Editing and adding to Arthropod photography instructions for PPM.
+
+## 2020-03-30
+Hours | Work Description
+-- | --
+1| Macro/Microscope Photography research
+45min| Digitization team meeting
+15 min| transcribing insect prep methods with questions for PPM
