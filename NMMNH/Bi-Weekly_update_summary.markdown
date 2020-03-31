@@ -2,8 +2,11 @@
 
 This document lists major tasks completed by the team over the course of the project as reported in the Weekly Meeting notes.
 
-Total records in Arctos: 42,351
-Total Images Taken: 51
+Total records in Arctos: 50,167  
+Images Taken: 51
+Taxa added to Arctos: 316
+Classifications added to Arctos: 521
+Publications added to Arctos: 10
 
 ## Completed by Person
 
@@ -27,7 +30,7 @@ Total Images Taken: 51
 ##### Benefits NMMNH Geoscience
  - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
  - Tested bulkload of research localities and collecting events with Arctos programmer.
- - Bulkloaded 18,911 specimen records with public and research events
+ - Bulkloaded 34,850 specimen records with public and research events
  - Bulkloaded 115 non-conforming Agents to Arctos
  - Bulkloaded 9,928 research localities to Arctos
  - Bulkloaded 9,928 public loalities to Arctos
@@ -38,13 +41,13 @@ Total Images Taken: 51
  - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
  - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
  - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown)
+ - reviewed 231 non-conforming taxon names
  
 #### Nicole
 ##### Benefits all Arctos Collections
  - Created the bulkload for 115 non-conforming Agent names
  - Since beginning of project has created 530 agents in Arctos (256 bulkloaded, 274 entered individually)
  
-
 #### Hannah
 ##### Benefits all Arctos Collections
  - 283 taxa/classifications added to Arctos
@@ -71,6 +74,8 @@ Total Images Taken: 51
 ##### Benefits all Arctos Collections
  - Added 62 higher geography for mollusk collection
  - Created barcodes for all rooms, cabinets, drawers, shelves, and insect traps in Biosci
+ - Corrected relationship for MSB mammal records
+ - Changed barcodes on NMMNH:Mamm specimens at MSB
  
 ##### Benefits NMMNH Bioscience
  - Assisted Lindsey with Herbarium Bulkload questions
@@ -81,6 +86,7 @@ Total Images Taken: 51
  - Downloaded 5,798 records shared with MSB and prepped bulkload file for load to NMMNH:Mamm collection.
  - Corrected relationship for MSB mammal records
  - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
+
  
 #### Lindsey
 ##### Benefits NMMNH Bioscience
@@ -97,6 +103,7 @@ Total Images Taken: 51
  - Fixed 488 invertebrate agents
  - Uploaded tissued mammals
  - Fixed mollusc taxonomy to be able to upload into Arctos
+ - Created and launched NM Backyard iNaturalist challenge
 
 #### Paula
 ##### Benefits NMMNH Bioscience
@@ -116,4 +123,6 @@ Total Images Taken: 51
  - Developed tentative protocols for imaging arthropods -Trouble shooting Lightbox work flow.
  - Digitization material research and testing
  - Photographing presentation specimens for mammals and molluscs.
+ - Outline Photography Procedure manual
+ - Decide on format for procedures final project
 
