@@ -56,7 +56,7 @@ Publications added to Arctos: 10
  
 ### Lindsey
 **Complete**
-
+ - Created and launched NM Backyard iNaturalist challenge
 
 **In Process**
  - Fixing remaining arthropod and mammal issues
@@ -70,6 +70,7 @@ Publications added to Arctos: 10
 **Complete**
  - Outline Photography Procedure manual
  - Decide on format for procedures final project
+ 
 **In Process**
  - Writing Photography Procedures manual
  - Continue writing and editing on procedures and work flows
