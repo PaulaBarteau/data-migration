@@ -87,7 +87,7 @@ Publications added to Arctos: 10
 [Draft and ideas document](https://docs.google.com/document/d/1WaZPR0jUyyNorGMKL4zgxvXVrHLIgtPikHJ4_CuwkEM/edit?usp=sharing)
 
 ### New Grant Ideas
-Review [Ideas Document](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/New%20Grant%20Ideas.markdown)
+Review [Ideas Document](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/New%20Grant%20Ideas.markdown) will be transitioned to the Google Drive.
 
 ### File Sharing
 Use Google Drive for most things, but Dropbox for all Excel files and stuff that needs to maintain a format (forms, etc.)
@@ -97,15 +97,15 @@ Dropbox
 
 ### SPNHC
 
-Canceled - work on getting refunds.
+Canceled - waiting on instruction from the Foundation.
 
 ### Social Media
 
-* Suggest we move documents to Google Drive - this is the kind of thing that should be there where we all can edit/work on it simultaneously and formatting matters not.
+* Suggest we move documents to Google Drive - this is the kind of thing that should be there where we all can edit/work on it simultaneously and formatting matters not. - Agreed.
 
-* Paleo Twitter is back on line!
+* Paleo Twitter is back on line! Add ideas and tweets to Google Doc. (move from Dropbox)
 
-* iNaturalist challenge results
+* iNaturalist challenge results - news story hit yesterday so the challenge has been extended!
 
 ### COVID19
 
