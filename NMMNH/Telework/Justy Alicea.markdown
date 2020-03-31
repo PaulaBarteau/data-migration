@@ -64,11 +64,14 @@ replied to emails
 tracked down missing links and information for supply list; emailed several vendors
 meeting with Kristin
 meeting with Brian
-Prep manual initial review
+Volunteer Prep manual initial review
 
 
-
-
+3/31/20
+Volunteer Prep manual review
+Review of DMNS Lab safety training and earth science collections operations guidelines, and FLMH Prep page for updating NMMNHS volunteer training
+Digitization meeting
+Begin edits to Prep manual - proofreading original
 
 
 
