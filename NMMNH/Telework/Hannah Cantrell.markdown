@@ -56,3 +56,4 @@ Hours | Work Description
 .5 | Canceled and requested refunds for flight to Edinburgh and Airbnb for stay during conference 
 1 | Created some social media posts, and created and organized folders in the dropbox for upcoming social media posts and sources
 1.5 | Mineral taxonomy using Mindat
+1 | Webex meeting with Digitization Team
