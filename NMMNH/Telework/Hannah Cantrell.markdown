@@ -64,4 +64,4 @@ Hours | Work Description
 1 | Mineral taxonomy using Mindat  
 1 | Call with Teresa to discuss status and progress for social media ideas/posts
 1 | Watched DCA Facebook Seminar for ideas on how to interact with the public on social media platforms
-1 | Brown bag UNM seminar-- Dinosaur Ecology. Lots of ideas for social media posts from this.
+1 | Brown bag UNM seminar-- Dinosaur ecology and distrubution during the Mesozoic. Lots of ideas for social media posts from this.
