@@ -1,4 +1,4 @@
-##3/17/20
+## 3/17/20
 
 tried to set up outlook on personal computer
 contacted charles for help; switched to webapp
@@ -11,7 +11,7 @@ Webex meeting (1hr)
 review paleo supplier list
 
 
-##3/18/20
+## 3/18/20
 worked on github telework tracker
 cross referenced my paleo vendor supply list with the NM approved vendor list
 cross referenced my paleo vendor supply list with Mats RFP orders; no vendor info provided on RFPs, must get from reciepts attached to hard copies in office
