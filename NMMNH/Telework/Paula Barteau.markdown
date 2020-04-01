@@ -174,3 +174,4 @@ Today's objective: Flesh out Introduction to Equipment document, add formal equp
 Hours | Work Description
 -- | --
 2 | Reading through PPM and editing for clarity
+1 | Reading throug PPM and editing for clarity.
