@@ -1,5 +1,15 @@
 # NMMNH Telework - Teresa
 
+## 2020-03-31 Tuesday  
+Hours | Work Description
+-- | --
+1 | Weekly team meeting
+2 | Load 2,033 records for localities 2800-2999
+1 | Prepare part name definition project for staff working from home
+2 | Review/correct trace fossil parts
+1 | correct public loalities 140-149
+1 | Email and calendar, iNaturalist identifications
+
 ## 2020-03-30 Monday  
 Hours | Work Description
 -- | --
