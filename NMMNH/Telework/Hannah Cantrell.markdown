@@ -57,3 +57,11 @@ Hours | Work Description
 1 | Created some social media posts, and created and organized folders in the dropbox for upcoming social media posts and sources
 1.5 | Mineral taxonomy using Mindat
 1 | Webex meeting with Digitization Team
+
+## 2020-04-01 Wednesday
+Hours | Work Description
+-- | --
+1 | Mineral taxonomy using Mindat  
+1 | Call with Teresa to discuss status and progress for social media ideas/posts
+1 | Watched DCA Facebook Seminar for ideas on how to interact with the public on social media platforms
+1 | Brown bag UNM seminar-- Dinosaur Ecology. Lots of ideas for social media posts from this.
