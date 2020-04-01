@@ -94,6 +94,12 @@ Hours | Work Description
 3 | Editing 72 mollusc taxonomies
 1 | Hosting, note taking, Digitization Team Meeting on Webex
 
-
+## 2020-04-01 Wednesday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Watching DCA Facebook Webinar
+4 | Making identifications on iNaturalist for the Biodiversity Project
+2 | Continuing to edit 72 mollusc taxonomies
 
 
