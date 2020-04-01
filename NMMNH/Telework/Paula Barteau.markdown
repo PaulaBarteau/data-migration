@@ -173,3 +173,4 @@ Hours | Work Description
 Today's objective: Flesh out Introduction to Equipment document, add formal equpment list as apendix. Read through all sections taking notes on what changes need to be made.
 Hours | Work Description
 -- | --
+2 | Reading through PPM and editing for clarity
