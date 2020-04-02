@@ -84,7 +84,11 @@
 
 ## 4/2/20
 - edits to prep manual - replacing outdated instructions
-
+- discussion w Brian of what certifications for the lab can be taken online during this work from home period
+- reformat NMMNHS letterhead; attached to Fossil prep course outline
+- finish Fossil prep course outline; upload to dropbox
+- discussion w Kristin about Fossil prep course
+- attempt to reactivate DragonFly CT software account
 
 
 
