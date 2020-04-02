@@ -72,3 +72,4 @@ Hours | Work Description
 1.5 | Type up social media etiquette notes from DCA Facebook Seminar on google docs (it's in social media folder so bioscience can view it too), add to social media ideas, and find catalog numbers for trace fossil images we do have. They are now included in the file name of the image. Found Traces of the Permian Seacoast in PDF format, link is in geoscience social media ideas in google docs.   
 1 | Email Spencer about trace fossil images he sent, emailed Gary about getting PDF version of oreodont story, emailed all three paleo curators about being involved in social media posts
 .5 | Checked for discrepancies between records in Arctos and records in MS Access for specimen numbers given by Teresa in the Github issue
+1 | Mineral taxonomy using Mindat  
