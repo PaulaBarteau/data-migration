@@ -65,3 +65,9 @@ Hours | Work Description
 1 | Call with Teresa to discuss status and progress for social media ideas/posts
 1 | Watched DCA Facebook Seminar for ideas on how to interact with the public on social media platforms
 1 | Brown bag UNM seminar-- Dinosaur ecology and distrubution during the Mesozoic. Lots of ideas for social media posts from this.
+
+## 2020-04-02 Thursday
+Hours | Work Description
+-- | --
+1 | Type up social media etiquette notes from DCA Facebook Seminar on google docs (it's in social media folder so bioscience can view it too), add to social media ideas, and find catalog numbers for trace fossil images we do have. They are now included in the file name of the image. Found Traces of the Permian Seacoast in PDF format, link is in geoscience social media ideas in google docs.   
+1 | Email Spencer about trace fossil images he sent, emailed Gary about getting PDF version of oreodont story, emailed all three paleo curators about being involved in social media posts
