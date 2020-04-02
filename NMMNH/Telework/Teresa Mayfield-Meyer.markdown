@@ -1,5 +1,15 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-01 Wednesday  
+Hours | Work Description
+-- | --
+1 | Meeting with Hannah re: assignments, social media ideas, help with spot checking, and other community connection ideas
+1 | Prepare records to spot check for Hannah, discuss trace fossil part documentation with Arctos programmer
+2 | Load 2,033 research events and 904 parts for localities 2800-2999
+1 | Prepare Spirifer taxon project for staff working from home
+2 | Review/correct trace fossil parts
+1 | Email and calendar, iNaturalist identifications
+
 ## 2020-03-31 Tuesday  
 Hours | Work Description
 -- | --
