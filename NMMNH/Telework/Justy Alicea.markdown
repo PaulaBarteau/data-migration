@@ -83,7 +83,7 @@ created Fossil Lab Volunteer Training course outline handout (after DMNS course 
 
 
 ## 4/2/20
-# edits to prep manual - replacing outdated instructions
+### edits to prep manual - replacing outdated instructions
 
 
 
