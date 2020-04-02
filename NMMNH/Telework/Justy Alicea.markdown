@@ -74,16 +74,16 @@ Begin edits to Prep manual - proofreading original
 
 
 ## 4/1/20
-Input hrs in share
-edits to Prep manual - proofreading original
-Meeting with Brian
-edits to Prep manual - replacing outdated instructions
-upload Prep manual to shared google drive (original and current draft)
-created Fossil Lab Volunteer Training course outline handout (after DMNS course outline)
+- Input hrs in share
+- edits to Prep manual - proofreading original
+- Meeting with Brian
+- edits to Prep manual - replacing outdated instructions
+- upload Prep manual to shared google drive (original and current draft)
+- created Fossil Lab Volunteer Training course outline handout (after DMNS course outline)
 
 
 ## 4/2/20
-### edits to prep manual - replacing outdated instructions
+- edits to prep manual - replacing outdated instructions
 
 
 
