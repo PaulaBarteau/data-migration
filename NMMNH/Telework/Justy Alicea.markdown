@@ -82,3 +82,12 @@ upload Prep manual to shared google drive (original and current draft)
 created Fossil Lab Volunteer Training course outline handout (after DMNS course outline)
 
 
+## 4/2/20
+# edits to prep manual - replacing outdated instructions
+
+
+
+
+
+
+
