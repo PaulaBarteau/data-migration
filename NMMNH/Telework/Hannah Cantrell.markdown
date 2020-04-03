@@ -73,3 +73,9 @@ Hours | Work Description
 1 | Email Spencer about trace fossil images he sent, emailed Gary about getting PDF version of oreodont story, emailed all three paleo curators about being involved in social media posts
 .5 | Checked for discrepancies between records in Arctos and records in MS Access for specimen numbers given by Teresa in the Github issue
 1 | Mineral taxonomy using Mindat  
+
+## 2020-04-03 Friday
+Hours | Work Description
+-- | --
+2.5 | Mineral taxonomy using Mindat  
+.5 | Checking email and responding to emails
