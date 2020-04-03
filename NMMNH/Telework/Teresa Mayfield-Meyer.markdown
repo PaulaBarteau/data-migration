@@ -1,5 +1,14 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-02 Thursday  
+Hours | Work Description
+-- | --
+1.5 | Arctos Wroking Group Issues Meeting
+2 | Review 39 taxa for localities 3000-3299
+3 | Review and revise parts for part bulkloader
+1 | GitHub issues related to parts
+.5 | add photos to specimen records for social media posts
+
 ## 2020-04-01 Wednesday  
 Hours | Work Description
 -- | --
