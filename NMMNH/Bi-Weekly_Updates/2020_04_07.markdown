@@ -36,7 +36,9 @@ Publications added to Arctos: 10
 
 ### Hannah
 **Complete**
-
+ - 700 mineral links compiled from Mindat
+ - Progress with social media posts and plans with curators for their engagement in social media
+ - Checked on discrepancies between 10 records in Arctos and records in MS Access data
 
 **In Process**
  - Researching mineral taxonomy on Mindat
