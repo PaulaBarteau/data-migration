@@ -177,8 +177,13 @@ Hours | Work Description
 1 | Reading throug PPM and editing for clarity.
 
 
-## 2020-03-31
+## 2020-04-2
 Hours | Work Description
 -- | --
 1| Reading & editing PPM, restructuring introduction to equipment
 2 |Reading and revising PPM.
+
+## 2020-04-03
+Hours | Work Description
+-- | --
+2 | Revising PPM
