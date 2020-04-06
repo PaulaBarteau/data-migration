@@ -91,6 +91,33 @@
 - attempt to reactivate DragonFly CT software account
 
 
+## 4/3/20
+- Wrote draft update letter for lab volunteers; sent to Brian and Kristen
+- filled out survey for DragonFly CT software non commercial license
+- meeting w Brian
+- edits to prep manual - replacing outdated instructions
+
+
+## 4/6/20
+- tracked down old Smithsonian archival cradle video
+- revised draft email and sent to volunteers
+- meeting w Brian
+- edits to prep manual - adding section on archival cradling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
