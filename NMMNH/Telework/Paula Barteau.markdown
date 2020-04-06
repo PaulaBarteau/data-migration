@@ -187,3 +187,19 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2 | Revising PPM
+
+14 hours this week
+
+
+
+April 6-9
+This week
+Mon- meeting, take pictures, share rough draft with team, write post for Tuesday and Thursday
+Tues- Meeting, feedback, image list
+Wed- incorporating feedback, writing up social media outreach ideas
+Thur-
+Fri-
+## 2020-04-06
+Hours | Work Description
+-- | --
+1 | Meeting w/ Lindsey, discussed social media garden updates and ideas, and approach to PPM
