@@ -102,4 +102,27 @@ Hours | Work Description
 4 | Making identifications on iNaturalist for the Biodiversity Project
 2 | Continuing to edit 72 mollusc taxonomies
 
+## 2020-04-02 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+1.5 | Watching Connecting to Collections Webinar
+2 | Making identifications on iNaturalist for the Biodiversity Project
+3.5 | Organizing online files from old collections manager
+
+## 2020-04-03 Friday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Researching using Facebook
+2 | Editing noties for Digitization protocols
+4 | Continuing to edit mollusc remarks
+
+## 2020-04-04 Monday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Meeting with Paula
+
+
 
