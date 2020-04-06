@@ -203,3 +203,4 @@ Fri-
 Hours | Work Description
 -- | --
 1 | Meeting w/ Lindsey, discussed social media garden updates and ideas, and approach to PPM
+1.5| Photographed "A walk through New Mexico" and uploaded exhibit pictures to inaturalist & gdocs for future social media.
