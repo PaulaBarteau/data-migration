@@ -124,6 +124,7 @@ Hours | Work Description
 1 | Checking email
 1 | Organizing team meeting notes and old digitzation meeting notes
 1 | Meeting with Paula
-
-
+1 | DCA Meeting
+1 | Meeting with Nicole
+1 | Particpated in wikidata, ORCID, Bloodhound webinar
 
