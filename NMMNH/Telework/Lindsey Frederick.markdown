@@ -127,4 +127,5 @@ Hours | Work Description
 1 | DCA Meeting
 1 | Meeting with Nicole
 1.5 | Particpated in wikidata, ORCID, Bloodhound webinar
+1.5 | Working on getting upcoming inaturalist challenge and social media posts ready
 
