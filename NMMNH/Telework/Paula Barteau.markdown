@@ -212,5 +212,5 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Meeting w/ digitization
-1 | Meeting w/ Lindsey for Twitter and facebook posts, editing inaturalist posts and adding pictures
+1.5 | Meeting w/ Lindsey for Twitter and facebook posts, editing inaturalist posts and adding pictures, created project in inaturalist for "A walk thorugh New Mexico", created hashtag page in Social media folder
 .5| Editing PPM, uploading it to shared folder, emails, and google docs trouble shooting.
