@@ -206,3 +206,11 @@ Hours | Work Description
 1.5| Photographed "A walk through New Mexico" and uploaded exhibit pictures to inaturalist & gdocs for future social media.
 1| Writing posts for April 7th and 9th and uploading pictures for them.
 1| Editing Read Through Draft of PPM
+
+
+## 2020-04-06
+Hours | Work Description
+-- | --
+1 | Meeting w/ digitization
+1 | Meeting w/ Lindsey for Twitter and facebook posts, editing inaturalist posts and adding pictures
+.5| Editing PPM, uploading it to shared folder, emails, and google docs trouble shooting.
