@@ -79,3 +79,10 @@ Hours | Work Description
 -- | --
 2.5 | Mineral taxonomy using Mindat  
 .5 | Checking email and responding to emails
+
+## 2020-04-07 Tuesday
+Hours | Work Description
+-- | --
+1.5 | Mineral taxonomy using Mindat  
+1 | Checking email/prepare for meeting with Nicole and meeting with Nicole
+1 | Webex meeting with digitization team
