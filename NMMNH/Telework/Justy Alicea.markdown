@@ -105,8 +105,12 @@
 - edits to prep manual - adding section on archival cradling
 
 
-
-
+## 4/7/20
+- tracked down photos of old DMNS cradle making instructions
+- tracked down photos of old DMNS casting and molding instructions
+- transcribed these into new printable NMMNHS Word documents
+- digitization meeting
+- dust extraction initial review
 
 
 
