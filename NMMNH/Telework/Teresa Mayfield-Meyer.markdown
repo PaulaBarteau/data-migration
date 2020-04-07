@@ -5,7 +5,7 @@ Hours | Work Description
 -- | --
 1 | Bloodhound Tracker Webinar
 3 | review and correct 101 taxa for localities 3300-3499
-3 | Load 2,653 records, 2,698 events and 2,479 parts for localities 3300-3499
+3 | Prepare and Llad 2,653 records for localities 3300-3499
 1 | Enter public locality 239, localities entered audit
 
 ## 2020-04-03 Friday  
