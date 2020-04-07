@@ -86,3 +86,4 @@ Hours | Work Description
 1.5 | Mineral taxonomy using Mindat  
 1 | Checking email/prepare for meeting with Nicole and meeting with Nicole
 1 | Webex meeting with digitization team
+.5 | Compiling notes from meeting/emailing curators about their social media involvement
