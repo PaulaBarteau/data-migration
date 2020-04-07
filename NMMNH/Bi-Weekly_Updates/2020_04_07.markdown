@@ -5,19 +5,19 @@ This documents discussion at bi-weekly team meetings - due to COVID19 and telewo
 
 ## Progress Report
 
-Total records in Arctos: 50,167  
+Total records in Arctos: 56,760  
 Images Taken: 51
-Taxa added to Arctos: 316
-Classifications added to Arctos: 521
+Taxa added to Arctos: 327
+Classifications added to Arctos: 555
 Publications added to Arctos: 10
 
 ## Geoscience
 ### Teresa
 **Complete**
- - Loaded  basic records
- - Loaded  research events
- - Loaded  parts
- - Reviewed  taxon names
+ - Loaded 6,594 basic records
+ - Loaded 4,283 research events
+ - Loaded 2,823 parts
+ - Reviewed 140 taxon names
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
@@ -69,13 +69,13 @@ Publications added to Arctos: 10
 **Complete**
  - Develope 2nd Grant ideas
  - Weekly photographs of AWTNM
+ 
 **In Process**
  - Weekly documentation of "A Walk Through New Mexico" exhibit for digital curation.
  - Writing Photography Procedures manual
  - Continue writing and editing on procedures and work flows
  - Make list of all images needed to illustrate porcedure manual
  - Photoshop- creating a reliable scale, creating color profiles, etc..
-
  
 ## Meeting Discussion Topics
 
