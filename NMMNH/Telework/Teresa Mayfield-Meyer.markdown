@@ -1,9 +1,26 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-06 Monday  
+Hours | Work Description
+-- | --
+1 | Bloodhound Tracker Webinar
+3 | review and correct 101 taxa for localities 3300-3499
+3 | Load 2,653 records, 2,698 events and 2,479 parts for localities 3300-3499
+1 | Enter public locality 239, localities entered audit
+
+## 2020-04-03 Friday  
+Hours | Work Description
+-- | --
+2 | Meeting with Lindsey
+3 | Load 1,908 records, 2,250 events and 1,919 parts for localities 3000-3299
+1 | GitHub issues related to other IDs
+1 | email and follow up on specimens for Hannah (23920, 23921, 23922, 24090, 47800, 60681, 64510)
+1 | correct public loalities 150-159
+
 ## 2020-04-02 Thursday  
 Hours | Work Description
 -- | --
-1.5 | Arctos Wroking Group Issues Meeting
+1.5 | Arctos Working Group Issues Meeting
 2 | Review 39 taxa for localities 3000-3299
 3 | Review and revise parts for part bulkloader
 1 | GitHub issues related to parts
