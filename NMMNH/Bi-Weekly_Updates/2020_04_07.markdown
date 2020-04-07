@@ -83,7 +83,7 @@ Publications added to Arctos: 10
 [Draft and ideas document](https://docs.google.com/document/d/1WaZPR0jUyyNorGMKL4zgxvXVrHLIgtPikHJ4_CuwkEM/edit?usp=sharing)
 
 ### New Grant Ideas
-Review [Ideas Document](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/New%20Grant%20Ideas.markdown) will be transitioned to the Google Drive.
+Review [Ideas Document](https://drive.google.com/open?id=1XIoWyDddDmCqZubPN19NDKZvFQbW0T151vaRyJZQ3bw) will be transitioned to the Google Drive.
 
 ### File Sharing
 Use Google Drive for most things, but Dropbox for all Excel files and stuff that needs to maintain a format (forms, etc.)
