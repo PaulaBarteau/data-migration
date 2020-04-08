@@ -220,3 +220,6 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Simply Social Media Webinar- Instagram 
+2 | Transcribing mollusc issues from catalog pages into excel sheet
+1 | Researched, uploaded images for, wrote, and edited tweet for Thursday
+
