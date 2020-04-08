@@ -30,7 +30,7 @@ Publications added to Arctos: 10
 ##### Benefits NMMNH Geoscience
  - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
  - Tested bulkload of research localities and collecting events with Arctos programmer.
- - Bulkloaded 34,850 specimen records with public and research events
+ - Bulkloaded 56,760 specimen records with public and research events
  - Bulkloaded 115 non-conforming Agents to Arctos
  - Bulkloaded 9,928 research localities to Arctos
  - Bulkloaded 9,928 public loalities to Arctos
@@ -41,7 +41,7 @@ Publications added to Arctos: 10
  - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
  - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
  - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown)
- - reviewed 231 non-conforming taxon names
+ - reviewed 459 non-conforming taxon names
  
 #### Nicole
 ##### Benefits all Arctos Collections
@@ -54,15 +54,15 @@ Publications added to Arctos: 10
  - 2,695 higher geography quad maps compiled for bulkload
  - Researched geology terms 148-433
  - Scale rulers for imaging printed out at UPS and ready for when imaging can continue
- - 720 mineral taxonomy links compiled
-
+ - 1,420 mineral taxonomy links compiled
  
 #### Benefits NMMNH Geoscience
 - Wrote and submitted Gila Symposium abstract- "Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science"
 - Presentation at Gila Symposium "[Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science](http://arctos.database.museum/project/10003333)"
  - Imaging equipment set up and working properly
  - First two images taken of holotpyes
-
+ - Progress with social media posts and plans with curators for their engagement in social media
+ - Checked on discrepancies between 10 records in Arctos and records in MS Access data
 
 #### Lucius
 ##### Benefits all Arctos Collections
@@ -86,7 +86,6 @@ Publications added to Arctos: 10
  - Downloaded 5,798 records shared with MSB and prepped bulkload file for load to NMMNH:Mamm collection.
  - Corrected relationship for MSB mammal records
  - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
-
  
 #### Lindsey
 ##### Benefits NMMNH Bioscience
@@ -125,4 +124,7 @@ Publications added to Arctos: 10
  - Photographing presentation specimens for mammals and molluscs.
  - Outline Photography Procedure manual
  - Decide on format for procedures final project
+ - Developed 2nd Grant ideas
+ - Weekly photographs of AWTNM
+
 
