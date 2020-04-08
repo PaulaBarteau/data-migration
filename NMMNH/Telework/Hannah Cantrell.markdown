@@ -87,3 +87,10 @@ Hours | Work Description
 1 | Checking email/prepare for meeting with Nicole and meeting with Nicole
 1 | Webex meeting with digitization team
 .5 | Compiling notes from meeting/emailing curators about their social media involvement
+
+## 2020-04-08 Wednesday
+Hours | Work Description
+-- | --
+3 | Mineral taxonomy using Mindat 
+1 | Simply Social instagram webinar
+
