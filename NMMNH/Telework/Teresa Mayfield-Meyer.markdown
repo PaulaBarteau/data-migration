@@ -1,11 +1,22 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-06 Wednesday  
+Hours | Work Description
+-- | --
+3 | Load 2,478 parts and 2,698 research events for localities 3300-3499
+3 | review and modify parts from the master
+1 | Prepare file for localities 3500-3899
+1 | Begin review of taxa for localities 3500-3899
+
+## 2020-04-07 Tuesday
+No hours
+
 ## 2020-04-06 Monday  
 Hours | Work Description
 -- | --
 1 | Bloodhound Tracker Webinar
 3 | review and correct 101 taxa for localities 3300-3499
-3 | Prepare and Llad 2,653 records for localities 3300-3499
+3 | Prepare and Load 2,653 records for localities 3300-3499
 1 | Enter public locality 239, localities entered audit
 
 ## 2020-04-03 Friday  
