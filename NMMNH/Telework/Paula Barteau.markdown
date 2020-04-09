@@ -223,3 +223,8 @@ Hours | Work Description
 2 | Transcribing mollusc issues from catalog pages into excel sheet
 1 | Researched, uploaded images for, wrote, and edited tweet for Thursday
 
+
+## 2020-04-09
+Hours | Work Description
+-- | --
+1 | Transcribing mollusc issues from catalog pages into excel sheet
