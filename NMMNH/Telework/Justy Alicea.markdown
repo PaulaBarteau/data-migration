@@ -113,13 +113,18 @@
 - dust extraction initial review
 
 
+## 4/8/20
+- dust extraction quote review
+- reach out to DMNS for info on their recent dust extraction replacement
+- emailed airflow systems for new extractor quotes
+- emailed sentry air systems for new extractor quotes
 
 
-
-
-
-
-
+## 4/9/20
+- meeting with Airflow systems
+- discussion w DMNS about their extraction system
+- reviewing information provided by sentry air systems
+- meeting with Mike Eklund for microscope quotes
 
 
 
