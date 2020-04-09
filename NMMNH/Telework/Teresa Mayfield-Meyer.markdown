@@ -1,6 +1,14 @@
 # NMMNH Telework - Teresa
 
-## 2020-04-06 Wednesday  
+## 2020-04-09 Thursday  
+Hours | Work Description
+-- | --
+1.5 | Arctos Working Group meeting
+1 | Paleo update with Nicole
+1 | correct public localities 160-169
+4.5 | Review of taxa for localities 3500-3899
+
+## 2020-04-08 Wednesday  
 Hours | Work Description
 -- | --
 3 | Load 2,478 parts and 2,698 research events for localities 3300-3499
@@ -26,7 +34,7 @@ Hours | Work Description
 3 | Load 1,908 records, 2,250 events and 1,919 parts for localities 3000-3299
 1 | GitHub issues related to other IDs
 1 | email and follow up on specimens for Hannah (23920, 23921, 23922, 24090, 47800, 60681, 64510)
-1 | correct public loalities 150-159
+1 | correct public localities 150-159
 
 ## 2020-04-02 Thursday  
 Hours | Work Description
