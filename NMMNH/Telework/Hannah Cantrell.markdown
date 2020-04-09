@@ -94,3 +94,8 @@ Hours | Work Description
 2.5 | Mineral taxonomy using Mindat 
 1 | Simply Social instagram webinar
 .5 | Type up notes from webinar and add to social media ideas document
+
+## 2020-04-09 Thursday
+Hours | Work Description
+-- | --
+3.5 | Mineral taxonomy using Mindat 
