@@ -155,6 +155,7 @@ Hours | Work Description
 2 | Editing Digitization Budget, comparing to foundation budget
 1 | Looking for and organizing budget records from BnH, emailing BnH about past refund
 1 | Social Media discussions with Paula
-2 | Did identification on past and current iNaturalist project
+1.5 | Did identification on past and current iNaturalist project
+0.5 | Downloaded and organized CSV checklist data for Education for their iNaturalist Project
 1 | Created and posted twitter and facebook posts, edited iNaturalist Project
 
