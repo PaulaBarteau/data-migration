@@ -129,3 +129,32 @@ Hours | Work Description
 1.5 | Particpated in wikidata, ORCID, Bloodhound webinar
 1.5 | Working on getting upcoming inaturalist challenge and social media posts ready
 
+## 2020-04-05 Tuesday
+Hours | Work Description
+-- | --
+1 | Checking email
+2 | Meeting with Paula
+1 | DCA Meeting
+1 | Got iNaturalist project post ready
+1.5 | Hosted Digitization Meeting
+1.5 | Met with Paula about Social media posts
+
+## 2020-04-06 Wednesday
+Hours | Work Description
+-- | --
+1 | Checking email, emailed about MAP II
+3 | Went into the collection 
+1 | Calls with Jason about Social Media, Budgeting, and future purchases
+2 | Did identifications on past project
+1 | Created and posted iNaturalist project, twitter and facebook posts
+
+## 2020-04-07 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+2 | Editing Digitization Budget, comparing to foundation budget
+1 | Looking for and organizing budget records from BnH, emailing BnH about past refund
+1 | Social Media discussions with Paula
+2 | Did identification on past and current iNaturalist project
+1 | Created and posted twitter and facebook posts, edited iNaturalist Project
+
