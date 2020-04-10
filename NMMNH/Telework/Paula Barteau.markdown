@@ -227,4 +227,4 @@ Hours | Work Description
 ## 2020-04-09
 Hours | Work Description
 -- | --
-3 | Transcribing mollusc issues from catalog pages into excel sheet
+3.5 | Transcribing mollusc issues from catalog pages into excel sheet
