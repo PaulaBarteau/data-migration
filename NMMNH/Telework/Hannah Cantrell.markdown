@@ -104,3 +104,4 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2.5 | Mineral taxonomy using Mindat 
+1 | Read Paula's bioscience photography protocols
