@@ -99,3 +99,8 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3.5 | Mineral taxonomy using Mindat 
+
+## 2020-04-10 Friday
+Hours | Work Description
+-- | --
+2.5 | Mineral taxonomy using Mindat 
