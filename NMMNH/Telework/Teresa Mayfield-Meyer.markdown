@@ -1,5 +1,12 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-10 Friday  
+Hours | Work Description
+-- | --
+1 | Review and format Biosci Photography Manual
+4 | Review taxa for localities 3500-3899
+3 | Load 2,244 records, 2,344 events and 2,193 parts for localities 3300-3899
+
 ## 2020-04-09 Thursday  
 Hours | Work Description
 -- | --
