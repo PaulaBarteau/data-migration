@@ -110,3 +110,6 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2 | Create publication in Arctos for Traces of the Permian Seacoast, record catalog numbers from the book to create citations for these trace fossil records within Arctos, call with Teresa
+.5 | Paleo taxa research
+.5 | Canceled SPNHC and inquired about getting a full refund for conference lodging airbnb reservation
+
