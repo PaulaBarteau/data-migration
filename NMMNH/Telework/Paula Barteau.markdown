@@ -228,3 +228,10 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3.5 | Transcribing mollusc issues from catalog pages into excel sheet
+
+
+## 2020-04-13
+Hours | Work Description
+-- | --
+1| Meeting with Lindsey
+1| Social media posts for Tuesday and Thursday & transcribing mollusc data.
