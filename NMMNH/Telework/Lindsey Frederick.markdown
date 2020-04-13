@@ -159,3 +159,22 @@ Hours | Work Description
 0.5 | Downloaded and organized CSV checklist data for Education for their iNaturalist Project
 1 | Created and posted twitter and facebook posts, edited iNaturalist Project
 
+## 2020-04-08 Friday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Editing Digitization Budget
+1 | Meeting with Jason and Nicole about budget
+3 | Editing 7000 mollusc begin based off verbatim dates
+1 | Identified some iNaturalist posts
+
+## 2020-04-13 Monday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Monday morning meeting with Paula
+1 | Editing 102 mollusc accessions
+3 | Editing 7000 mollusc end dates based off accessions
+2 | Editing Digitizatoin Photography manual
+
+
