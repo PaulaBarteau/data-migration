@@ -105,3 +105,8 @@ Hours | Work Description
 -- | --
 2.5 | Mineral taxonomy using Mindat 
 1 | Read Paula's bioscience photography protocols
+
+## 2020-04-13 Monday
+Hours | Work Description
+-- | --
+2 | Create publication in Arctos for Traces of the Permian Seacoast, record catalog numbers from the book to create citations for these trace fossil records within Arctos, call with Teresa
