@@ -166,6 +166,7 @@ Hours | Work Description
 1 | Editing Digitization Budget
 1 | Meeting with Jason and Nicole about budget
 3 | Editing 7000 mollusc begin based off verbatim dates
+1 | Reading through Digitizatoin Photography manual
 1 | Identified some iNaturalist posts
 
 ## 2020-04-13 Monday
