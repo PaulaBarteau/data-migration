@@ -127,7 +127,17 @@
 - meeting with Mike Eklund for microscope quotes
 
 
+## 4/10/20
+- dust extraction follow up w Airflow systems
+- digitization grant follow up w Nicole
+- meeting with Brian
+- emailed facilities about power supply for dust extraction
+- tracked down missing links and information for supply list
+- cradle making supplies follow up w Nicole
 
 
-
-
+## 4/13/20
+- cradle making supplies followup
+- set up OSHA online training
+- extraction system followup
+- microscope order followup
