@@ -175,7 +175,8 @@ Hours | Work Description
 1 | Checking email
 1 | Monday morning meeting with Paula
 1 | Editing 102 mollusc accessions
-3 | Editing 7000 mollusc end dates based off accessions
+2 | Editing 7000 mollusc end dates based off accessions
+1 | Editing 15000 mollusc collection object remarks
 2 | Editing Digitizatoin Photography manual
 
 
