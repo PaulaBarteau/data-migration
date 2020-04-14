@@ -179,4 +179,12 @@ Hours | Work Description
 1 | Editing 15000 mollusc collection object remarks
 2 | Editing Digitizatoin Photography manual
 
+## 2020-04-14 Tuesday
+Hours | Work Description
+-- | --
+1 | Checking email
+3 | Editing Digitizatoin Photography manual
+3 | Researching and Reading photography protocols
+1 | Hosting Webex Meeting
+
 
