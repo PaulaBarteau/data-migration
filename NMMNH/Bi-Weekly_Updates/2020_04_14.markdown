@@ -32,10 +32,10 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ## Geoscience
 ### Teresa
 **Complete**
- - Loaded  basic records
- - Loaded  research events
- - Loaded  parts
- - Reviewed  taxon names
+ - Loaded 4,513 basic records
+ - Loaded 5,042 research events
+ - Loaded 4,671 parts
+ - Reviewed 181 taxon names
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
