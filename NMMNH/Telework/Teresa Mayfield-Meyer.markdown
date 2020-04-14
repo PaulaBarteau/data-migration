@@ -1,5 +1,17 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-13 Monday  
+Hours | Work Description
+-- | --
+1 | Prepare migration file for localities 3900-4299
+1 | Review 47 taxa for localities 3900-4299
+1 | Call with Hannah and prepare taxonomy file for her to work with
+1 | Prepare csv files for 1,910 records and 1,936 events for localities 3900-4299
+1 | Prepare migration file for localities 4300-4599
+1 | Review 59 taxa for localities 4300-4599
+1 | Prepare csv files for 1,807 records and 1,814 events for localities 4300-4599
+1 | Prepare migration file for localities 4600-4999
+
 ## 2020-04-10 Friday  
 Hours | Work Description
 -- | --
