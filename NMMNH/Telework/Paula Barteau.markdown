@@ -235,3 +235,23 @@ Hours | Work Description
 -- | --
 1| Meeting with Lindsey
 1| Social media posts for Tuesday and Thursday & transcribing mollusc data.
+
+## 2020-04-14
+Hours | Work Description
+-- | --
+1| Edited posts, entered time, contacted AirBNB for SPNCH travel arrangement refund
+1| Reviewing feedback and editing PPM
+20min| Team meeting on webex
+
+
+
+To do:
+-Take pictures in Garden
+- Update weekly work sheet
+- Run through Mollusc data and compare in arctos
+- meeting at 2
+- Revisit PPM
+- Pursue Refund for Airbnb
+
+AIRBNB plan
+- Current extenuating circumstances policy only covers reservations for before May 31st, will probably be extended further, my flight has been canceled so I should be able to get at least a 50% refund, but if they extend the extenuating circumstances policy into June, I should be able to get a full refund. 
