@@ -117,3 +117,5 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Call with Nicole, higher geography for mineral database
+1 | Digitization team webex meeting, higher geography for mineral database
+1 | Staff reconnect zoom meeting
