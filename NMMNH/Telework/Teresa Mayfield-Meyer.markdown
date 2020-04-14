@@ -1,6 +1,6 @@
 # NMMNH Telework - Teresa
 
-## 2020-04-13 Monday  
+## 2020-04-13 Monday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
 1 | Prepare migration file for localities 3900-4299
