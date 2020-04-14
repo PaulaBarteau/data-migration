@@ -113,3 +113,7 @@ Hours | Work Description
 .5 | Paleo taxa research
 .5 | Canceled SPNHC and inquired about getting a full refund for conference lodging airbnb reservation
 
+## 2020-04-14 Tuesday
+Hours | Work Description
+-- | --
+1 | Call with Nicole, higher geography for mineral database
