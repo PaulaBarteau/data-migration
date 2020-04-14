@@ -1,0 +1,121 @@
+# NMMNH Digitization Grant 2020-04-21 Weekly Update
+(Activity from 2020-04-14 through 2020-04-21)
+
+This documents discussion at bi-weekly team meetings - due to COVID19 and telework, updates will be given weekly.
+
+## Progress Report
+
+Total records in Arctos: 56,760  
+Images Taken: 51  
+Taxa added to Arctos: 327  
+Classifications added to Arctos: 555  
+Publications added to Arctos: 10  
+
+### Geoscience Migration Stats  
+
+Stat | Records	| % Complete 
+-- | -- | --
+Total Specimen Records	| 80,901 |	
+No data records	| (1,966)	| -2% | 
+**Total records to migrate**	| **78,935** | 	
+Records in Arctos	| 41,646 |	51%
+Not yet loaded	| 25,282 |	31%
+Locality Issues (unable to load)	| 13,970 |	17%
+*Records with Research Events*	| 40,126 |	50%
+**Total Localities**	| **12,345** |	
+Research Localities Loaded	| 9,929 |	80%
+Locality Issues (unable to load)	| 2,416 |	20%
+*Specimen-less localities*	| 3,732 |	30%
+
+
+
+## Geoscience
+### Teresa
+**Complete**
+ - Loaded  basic records
+ - Loaded  research events
+ - Loaded  parts
+ - Reviewed  taxon names
+ 
+**In Process**
+ - Loading records for localities bulkloaded to Arctos
+ - Currently 2,418 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
+ - Standardizing Parts
+ - Writing data migration protocols
+ - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
+ - Project for grant - add funding?
+  
+### Nicole
+
+ **In Process**
+-Creating bulkload file for new localities and specimens (to date 195 specimens and 260 localities)
+-Preparation loan for Arctos
+-Working out part names and definitions on Arctos
+
+### Hannah
+**Complete**
+ - 
+
+**In Process**
+ - Researching mineral taxonomy on Mindat
+ - Reading papers on paleo imaging protocols to incorporate relevant information into NMMNHS paleo imaging protocols
+ - Brainstorming paleo social media engagement ideas and platforms
+ 
+## Bioscience
+### Teresa
+**Complete**
+
+**In Process**
+ - Need to develop insect labels. Cut off spec loc and add coordinates, no autority on IDs, add sex.
+
+ 
+### Lindsey
+**Complete**
+
+
+**In Process**
+ - Fixing remaining arthropod and mammal issues
+ - Get mollusc records into bulkload format
+ - Fix Higher geography of mollusc records
+ - Fixing dates in mollusc records for bulkload format
+ - Getting non-tissued mammal records into Arctos ~450
+ - checking in on everyone's travel for SPNHC
+  
+### Paula
+**Complete**
+
+ 
+**In Process**
+ - Weekly documentation of "A Walk Through New Mexico" exhibit for digital curation.
+ - Writing Photography Procedures manual
+ - Continue writing and editing on procedures and work flows
+ - Make list of all images needed to illustrate porcedure manual
+ - Photoshop- creating a reliable scale, creating color profiles, etc..
+ 
+## Meeting Discussion Topics
+
+### New Grant Ideas
+Review [Ideas Document](https://drive.google.com/open?id=1XIoWyDddDmCqZubPN19NDKZvFQbW0T151vaRyJZQ3bw)
+
+### File Sharing
+Use Google Drive for most things, but Dropbox for all Excel files and stuff that needs to maintain a format (forms, etc.)
+
+[Google Drive](https://drive.google.com/open?id=1Fol3x_1L2UOc0PoMQKS7ldOrofJACL09)
+Dropbox
+
+### SPNHC
+
+Canceled - cancel all travel and seek refunds.
+
+### Social Media
+
+
+### COVID19
+
+Keep track of [productivity in GitHub](https://github.com/ArctosDB/data-migration/tree/master/NMMNH/Telework)
+
+#### Open Items
+- Micro CT scanning available from Sandia Labs (Corbin) - need to prioritize and get a list of stuff that would be good for scanning
+- need velvet and lime green background for photography
+- Need to publish to journals about the project and potentially going forward about collection activity.
+- Define metadata terms needed in Arctos media and make GitHub requests
