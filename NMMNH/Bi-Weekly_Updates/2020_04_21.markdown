@@ -5,6 +5,8 @@ This documents discussion at bi-weekly team meetings - due to COVID19 and telewo
 
 ## Progress Report
 
+On Monday, April 13, the production instance of Arctos went down. Covid-19 restrictions meant that tech support from TACC could not access the system until the following day. Repair of the Oracle box is under way. In the mean time, searches can be made on the ArctosPG test version at http://test.arctos.database.museum
+
 Total records in Arctos: 56,760  
 Images Taken: 51  
 Taxa added to Arctos: 327  
