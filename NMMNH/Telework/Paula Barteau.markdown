@@ -241,7 +241,7 @@ Hours | Work Description
 -- | --
 1| Edited posts, entered time, contacted AirBNB for SPNCH travel arrangement refund
 1| Reviewing feedback and editing PPM
-20min| Team meeting on webex
+.5| Team meeting on webex, updating weekly report sheet
 
 
 
