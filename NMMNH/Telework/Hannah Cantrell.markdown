@@ -116,6 +116,6 @@ Hours | Work Description
 ## 2020-04-14 Tuesday
 Hours | Work Description
 -- | --
-1 | Call with Nicole, higher geography for mineral database
-1 | Digitization team webex meeting, higher geography for mineral database
-1 | Staff reconnect zoom meeting
+1 | Call with Nicole, formatting higher geography for mineral database
+.5 | Digitization team webex meeting
+1.5 | Formatting higher geography for mineral databse
