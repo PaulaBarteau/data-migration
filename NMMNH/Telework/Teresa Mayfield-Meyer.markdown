@@ -1,5 +1,16 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-14 Tuesday - ARCTOS DOWN 
+Hours | Work Description
+-- | --
+1 | Prepare migration file for localities 4600-4999
+1 | Review 60 taxa for localities 4600-4999
+1 | Help Hannah make the Mineral locality standardization easier (add formulas - training)
+2 | Test object tracking in Arctos PG
+1 | Test locality editing in Arctos PG
+1 | Test Manage colelction in Arctos PG
+1 | Digitzation Team Meeting plus prep and follow-up
+
 ## 2020-04-13 Monday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
