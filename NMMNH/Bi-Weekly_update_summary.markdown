@@ -2,11 +2,29 @@
 
 This document lists major tasks completed by the team over the course of the project as reported in the Weekly Meeting notes.
 
-Total records in Arctos: 50,167  
-Images Taken: 51
-Taxa added to Arctos: 316
-Classifications added to Arctos: 521
-Publications added to Arctos: 10
+## Progress Report
+
+Total records in Arctos: 56,760  
+Images Taken: 51  
+Taxa added to Arctos: 327  
+Classifications added to Arctos: 555  
+Publications added to Arctos: 10  
+
+### Geoscience Migration Stats  
+
+Stat | Records	| % Complete 
+-- | -- | --
+Total Specimen Records	| 80,901 |	
+No data records	| (1,966)	| -2% | 
+**Total records to migrate**	| **78,935** | 	
+Records in Arctos	| 41,646 |	51%
+Not yet loaded	| 25,282 |	31%
+Locality Issues (unable to load)	| 13,970 |	17%
+*Records with Research Events*	| 40,126 |	50%
+**Total Localities**	| **12,345** |	
+Research Localities Loaded	| 9,929 |	80%
+Locality Issues (unable to load)	| 2,416 |	20%
+*Specimen-less localities*	| 3,732 |	30%
 
 ## Completed by Person
 
@@ -54,7 +72,7 @@ Publications added to Arctos: 10
  - 2,695 higher geography quad maps compiled for bulkload
  - Researched geology terms 148-433
  - Scale rulers for imaging printed out at UPS and ready for when imaging can continue
- - 1,420 mineral taxonomy links compiled
+ - 2,620 mineral taxonomy links compiled
  
 #### Benefits NMMNH Geoscience
 - Wrote and submitted Gila Symposium abstract- "Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science"
