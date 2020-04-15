@@ -119,3 +119,8 @@ Hours | Work Description
 1 | Call with Nicole, formatting higher geography for mineral database
 .5 | Digitization team webex meeting
 1.5 | Formatting higher geography for mineral databse
+
+## 2020-04-15 Wednesday
+Hours | Work Description
+-- | --
+3 | Higher geography for mineral database
