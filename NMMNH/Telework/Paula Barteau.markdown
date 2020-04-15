@@ -246,12 +246,21 @@ Hours | Work Description
 
 
 To do:
--Take pictures in Garden
-- Update weekly work sheet
+-Take pictures in "AWTNM"
 - Run through Mollusc data and compare in arctos
-- meeting at 2
 - Revisit PPM
 - Pursue Refund for Airbnb
+- make image list for PPM
+- SPNCH digital presentation update- respond to query.
 
 AIRBNB plan
 - Current extenuating circumstances policy only covers reservations for before May 31st, will probably be extended further, my flight has been canceled so I should be able to get at least a 50% refund, but if they extend the extenuating circumstances policy into June, I should be able to get a full refund. 
+
+
+
+## 2020-04-15
+Hours | Work Description
+-- | --
+1| Reading Photogrammy Paper from Nicole- good info to add to PPM, and good model for PPM writing style.
+.5| Emails, SPNCH Digital presentation response
+
