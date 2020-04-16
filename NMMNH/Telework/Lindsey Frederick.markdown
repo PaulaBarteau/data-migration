@@ -187,4 +187,24 @@ Hours | Work Description
 3 | Researching and Reading photography protocols
 1 | Hosting Webex Meeting
 
+## 2020-04-15 Wednesday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | In collection fixing email because it was too full to send or recieve emails
+2 | In collection swapping out IPM and checking on spaces, freezers and specimens
+2 | Watching Congressional Caucus Briefing: Wildlife Trade, Origins of COVID-19, & Preventing Future Pandemics
+2 | Editing mollusc bulkload sheet, signing up for text arctos database
+
+
+## 2020-04-16 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+3 | continued editing mollusc bulkload sheet
+2 | Meeting with Paula about mollusc project and future ideas
+1 | Editing and posting iNaturalist, twitter and facebook posts
+1 | Organizing family tides exhibit excel sheet, uploading parts to drive, uploading condition files to drive
+
+
 
