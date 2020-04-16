@@ -265,3 +265,13 @@ Hours | Work Description
 .5| Emails, SPNCH Digital presentation response
 2.5|  Photographing "A Walk Through NM" exhibit and uploading to inaturalist.
 
+
+## 2020-04-16
+-SPNCH is back on
+- Draft Presentations 
+- Mollusc stuff?
+- concerted revision of PPM
+- Monday- take pictures from AWTNM and write posts with sequences of the same flowers/ plants over time.
+Hours | Work Description
+-- | --
+1 | Generating Image List for PPM
