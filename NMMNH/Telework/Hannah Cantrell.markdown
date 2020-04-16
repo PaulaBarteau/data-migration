@@ -124,3 +124,9 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3 | Higher geography for mineral database
+
+## 2020-04-16 Thursday
+Hours | Work Description
+-- | --
+1.5 | Emailing Gary about Canovas Creek story social media post, organizing social media content from curators (still no word from Tom), and putting together a social media post for Friday 4/17/2020
+1.5 | Higher geography for mineral database
