@@ -267,6 +267,12 @@ Hours | Work Description
 
 
 ## 2020-04-16
+Hours | Work Description
+-- | --
+1.5| Generating Image List for PPM
+1.5| meeting w/ Lindsey- discussing Mollusc part table, arctos, project trajectory for immediate and distant future, SPNCH
+.5| Parts Code Table research
+
 -SPNCH is back on
 - Draft Presentations 
 - Mollusc stuff?
@@ -277,8 +283,3 @@ Hours | Work Description
 - Research Museum video tours and 
 - 
 - Monday- take pictures from AWTNM and write posts with sequences of the same flowers/ plants over time.
-Hours | Work Description
--- | --
-1.5 | Generating Image List for PPM
-1.5| meeting w/ Lindsey- discussing Mollusc part table, arctos, project trajectory for immediate and distant future, SPNCH
-.5| Parts Code Table research
