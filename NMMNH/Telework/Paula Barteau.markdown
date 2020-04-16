@@ -271,7 +271,13 @@ Hours | Work Description
 - Draft Presentations 
 - Mollusc stuff?
 - concerted revision of PPM
+- Parts Table Research
+- Parts Table make-over
+- See if you can get SPNCH refund and still participate in on-line conference.
+- Research Museum video tours and 
+- 
 - Monday- take pictures from AWTNM and write posts with sequences of the same flowers/ plants over time.
 Hours | Work Description
 -- | --
-1 | Generating Image List for PPM
+1.5 | Generating Image List for PPM
+1.5| meeting w/ Lindsey- discussing Mollusc part table, arctos, project trajectory for immediate and distant future, SPNCH
