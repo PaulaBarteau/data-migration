@@ -281,3 +281,4 @@ Hours | Work Description
 -- | --
 1.5 | Generating Image List for PPM
 1.5| meeting w/ Lindsey- discussing Mollusc part table, arctos, project trajectory for immediate and distant future, SPNCH
+.5| Parts Code Table research
