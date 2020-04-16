@@ -263,4 +263,5 @@ Hours | Work Description
 -- | --
 1| Reading Photogrammy Paper from Nicole- good info to add to PPM, and good model for PPM writing style.
 .5| Emails, SPNCH Digital presentation response
+2.5|  Photographing "A Walk Through NM" exhibit and uploading to inaturalist.
 
