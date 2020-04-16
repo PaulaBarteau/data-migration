@@ -201,7 +201,7 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Checking email
-3 | continued editing mollusc bulkload sheet
+3 | continued editing mollusc bulkload sheet, watched Arctos Parts Code Table Overview
 2 | Meeting with Paula about mollusc project and future ideas
 1 | Editing and posting iNaturalist, twitter and facebook posts
 1 | Organizing family tides exhibit excel sheet, uploading parts to drive, uploading condition files to drive
