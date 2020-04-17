@@ -206,5 +206,13 @@ Hours | Work Description
 1 | Editing and posting iNaturalist, twitter and facebook posts
 1 | Organizing family tides exhibit excel sheet, uploading parts to drive, uploading condition files to drive
 
+## 2020-04-16 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | edited spider videos for social media posts
+2 | Editing photography protocol
+1 | Working with BnH on refund
+
 
 
