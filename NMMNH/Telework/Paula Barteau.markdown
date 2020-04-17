@@ -283,3 +283,8 @@ Hours | Work Description
 - Research Museum video tours and 
 - 
 - Monday- take pictures from AWTNM and write posts with sequences of the same flowers/ plants over time.
+
+## 2020-04-16
+Hours | Work Description
+-- | --
+2| Research and drafting for Digital SPNCH Presentation on Argemone poppies.
