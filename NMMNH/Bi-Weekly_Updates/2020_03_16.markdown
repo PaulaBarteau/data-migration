@@ -30,15 +30,9 @@ All imaging hardware has been recieved and is being inventoried and set up.
 
  
  **In Process**
- - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
- - Total tally of NMMNHS paleo agents added to Arctos is 746.
- - Reviewing taxon and part data as requested.
- - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
- - Submitted abstract for SPNHC - [Adapting Arctos for Paleontology Collections](https://github.com/ArctosDB/SPNHC/issues/37#issuecomment-585845604)
- - Reviewing 542 localities with higher geography issues (N:\GeoScience\Arctos\Nicole\Higher Geography Issues.xlxs)
- - Reviewing 45 geology terms (N:\GeoScience\Arctos\Nicole\Geology Term Problems.xlsx)
- - Reviewing 343 TRS terms (N:\GeoScience\Arctos\Nicole\TRS Problems.xlsx)
- - Reviewing 537 bistratigraphic terms (N:\GeoScience\Arctos\Nicole\Biostratigraphy Problems.xlsx)
+ - Fossil preparation loans
+ - Reviewing taxon and part data as requested
+ - Part issues on Github
 
 ### Hannah
 **Complete**
