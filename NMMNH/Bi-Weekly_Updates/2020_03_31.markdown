@@ -33,6 +33,8 @@ Publications added to Arctos: 10
 - Creating bulkload file for new localities and specimens
 - Preparation loan for Arctos
 - Working out part names and definitions on Arctos
+- Front line staff working on publication locality and specimen citations
+- Arctos parts Github issues
 
 ### Hannah
 **Complete**
