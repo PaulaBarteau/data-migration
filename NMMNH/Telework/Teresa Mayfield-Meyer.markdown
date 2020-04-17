@@ -1,5 +1,10 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-1 Friday - ARCTOS DOWN 
+Hours | Work Description
+-- | --
+8 | Testing Arctos PG in preparation for migration to new platform See work in https://github.com/ArctosDB/PG-migration-testing/issues and at https://github.com/ArctosDB/PG-migration-testing/blob/master/Testing_Summary.markdown
+
 ## 2020-04-16 Thursday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
