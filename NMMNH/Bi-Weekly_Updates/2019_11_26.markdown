@@ -24,13 +24,8 @@ No imaging hardware has been recieved to date.
  
 #### Nicole
 **Complete**
- - All locality and specimen agents loaded into Arctos.
  
  **In Process**
- - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
- - Total tally of NMMNHS paleo agents added to Arctos is 746.
- - Reviewing taxon and part data as requested.
- - Picked a higher taxon authority for the vertebrate paleontology collections (Vertebrate Paleontology, 3rd Ed., Benton, Appendix "Classification of the Vertebrates"
 
 #### Hannah
 **Complete**
