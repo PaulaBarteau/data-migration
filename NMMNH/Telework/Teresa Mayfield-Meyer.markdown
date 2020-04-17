@@ -1,5 +1,14 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-16 Thursday - ARCTOS DOWN 
+Hours | Work Description
+-- | --
+3 | Test single record data entry, record bulkloading and locality cloning in Arctos PG
+1 | Arctos Code Table Committee meeting
+2 | Prepare migration file for localities 5000-5399
+1 | Review 24 taxa for localities 5000-5399
+1 | Prepare record and event csv files for localities 5000-5399
+
 ## 2020-04-15 Wednesday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
