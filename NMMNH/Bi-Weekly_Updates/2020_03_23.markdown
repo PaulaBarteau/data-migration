@@ -28,6 +28,7 @@ Total Images Taken: 51
  - Creating bulkload file for new localities and specimens (to date 195 specimens and 260 localities)
  - Preparation loan for Arctos
  - Working out part names and definitions on Arctos
+ - Prepare Publications project for front line staff
 
 ### Hannah
 **Complete**
