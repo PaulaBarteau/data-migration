@@ -33,8 +33,9 @@ Most imaging hardware has been recieved and is being inventoried and set up.
 
  
  **In Process**
- - Adding additional accession agents to Arctos. Bulkloading accessions into Arctos. 175 Accessions added this week (these are fossil accessions that are 'empty' right now - no specimen or locality records reference these accessions. As we clean up accessions post-grant, these accessions will likely be filled with existing 'no accession' specimens).
- - Total tally of NMMNHS paleo agents added to Arctos is 746.
+ - Assembling imaging equipment
+ - Researching imaging
+ - Adding mineral accesssions
  - Reviewing taxon and part data as requested.
  - Researching [formations](https://github.com/ArctosDB/data-migration/issues/175#issuecomment-567642337) that are in MS Access but aren't readily found on line.
 
