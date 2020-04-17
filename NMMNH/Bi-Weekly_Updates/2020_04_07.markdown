@@ -30,10 +30,12 @@ Publications added to Arctos: 10
   
 ### Nicole
 
+ **Complete**
+ - Bulkload file for new localities and specimens (334 Localities, 517 specimens)
+
  **In Process**
--Creating bulkload file for new localities and specimens (to date 195 specimens and 260 localities)
--Preparation loan for Arctos
--Working out part names and definitions on Arctos
+- Working out part names and definitions on Arctos
+- Front line staff working on publication locality and specimen citations
 
 ### Hannah
 **Complete**
