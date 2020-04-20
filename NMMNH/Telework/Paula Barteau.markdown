@@ -288,3 +288,11 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2| Research and drafting for Digital SPNCH Presentation on Argemone poppies.
+14 hrs
+
+
+## 2020-04-16
+Hours | Work Description
+-- | --
+2.5| Photography and uploading of AWTNM exhibit.
+
