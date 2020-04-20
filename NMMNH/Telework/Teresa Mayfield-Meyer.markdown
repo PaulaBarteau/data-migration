@@ -3,8 +3,9 @@
 ## 2020-04-20 Monday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
-6 | Testing Arctos PG in preparation for migration to new platform See work in https://github.com/ArctosDB/PG-migration-testing/issues and at https://github.com/ArctosDB/PG-migration-testing/blob/master/Testing_Summary.markdown
+5 | Testing Arctos PG in preparation for migration to new platform See work in https://github.com/ArctosDB/PG-migration-testing/issues and at https://github.com/ArctosDB/PG-migration-testing/blob/master/Testing_Summary.markdown
 2 | Paleo Parts - resolving to code table part names 
+1 | Dept of Cultural Affairs Education and Outreach Update 
 
 ## 2020-04-17 Friday - ARCTOS DOWN 
 Hours | Work Description
