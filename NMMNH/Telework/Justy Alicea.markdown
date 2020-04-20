@@ -141,3 +141,42 @@
 - set up OSHA online training
 - extraction system followup
 - microscope order followup
+
+
+## 4/14/20
+- OSHA online training
+- 3D printing/scanning follow up
+- cradle making supply list finalization
+
+
+## 4/15/20
+- OSHA online training
+- meeting w Brian
+- digitization followup
+- dust extraction followup
+
+
+## 4/16/20
+- dust extraction followup
+- cradle making supply order; learn FOP order process
+- OSHA online training
+
+## 4/17/20
+- digitization followup
+- meeting w Lannois about FOP ordering process
+- dust extraction followup
+
+
+## 4/20/20
+- cradle making supply order followup
+- OSHA online training
+
+
+
+
+
+
+
+
+
+
