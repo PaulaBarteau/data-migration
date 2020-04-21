@@ -81,6 +81,8 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - First two images taken of holotpyes
  - Progress with social media posts and plans with curators for their engagement in social media
  - Checked on discrepancies between 10 records in Arctos and records in MS Access data
+ - 916 mineral localities edited
+ - Twitter post written about the Oreodont
 
 #### Lucius
 ##### Benefits all Arctos Collections
@@ -144,5 +146,8 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Decide on format for procedures final project
  - Developed 2nd Grant ideas
  - Weekly photographs of AWTNM
+ - 4 Social Media posts
+ - Compiling a list of images for PPM
+ - Weekly documentation of "A Walk Through New Mexico" exhibit for digital curation
 
 
