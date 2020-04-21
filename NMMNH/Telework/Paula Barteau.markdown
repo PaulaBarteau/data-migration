@@ -291,8 +291,10 @@ Hours | Work Description
 14 hrs
 
 
-## 2020-04-16
+## 2020-04-20
 Hours | Work Description
 -- | --
 2.5| Photography and uploading of AWTNM exhibit.
+.5 | Research for Social Media and SPNCH presentations
+1.5| Research, uploading, writing Social Media posts for this and next week
 
