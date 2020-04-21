@@ -227,5 +227,5 @@ sick leave
 Hours | Work Description
 -- | --
 1 | Checking email
-2 | Adding coordinates to verbatim localites in mollusc sheet, working out how to do UTM's for bulkloading
+2 | Adding coordinates to verbatim localites in mollusc sheet, working out how to do UTMs for bulkloading
 
