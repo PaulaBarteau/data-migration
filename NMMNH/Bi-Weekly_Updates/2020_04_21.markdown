@@ -34,10 +34,8 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ## Geoscience
 ### Teresa
 **Complete**
- - Loaded  basic records
- - Loaded  research events
- - Loaded  parts
- - Reviewed  taxon names
+ - Localities 4600-5399 prepped for load
+ - Reviewed 119 taxon names
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
@@ -46,6 +44,7 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Writing data migration protocols
  - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
  - Project for grant - add funding?
+ - Testing of Arctos PostGreSQL
   
 ### Nicole
 
@@ -86,6 +85,7 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ### Paula
 **Complete**
 -Social Media posts for April 14th and 16th
+
 **In Process**
 - Persuing refunds for SPNCH accomodations and travel 
  - Weekly documentation of "A Walk Through New Mexico" exhibit for digital curation.
