@@ -206,13 +206,26 @@ Hours | Work Description
 1 | Editing and posting iNaturalist, twitter and facebook posts
 1 | Organizing family tides exhibit excel sheet, uploading parts to drive, uploading condition files to drive
 
-## 2020-04-16 Thursday
+## 2020-04-17 Friday
 Hours | Work Description
 -- | --
 1 | Checking email
+1 | iNaturalist identifications
 1 | edited spider videos for social media posts
-2 | Editing photography protocol
-1 | Working with BnH on refund
+4 | Editing photography protocol
+1 | Emailing and calling BnH for refund, fiiinallly got them to send it
 
 
+## 2020-04-20 Monday
+Hours | Work Description
+-- | --
+1 | Checking email, setting up webex meetings
+1 | Meeting with Paula
+sick leave
+
+## 2020-04-21 Tuesday
+Hours | Work Description
+-- | --
+1 | Checking email
+2 | Adding coordinates to verbatim localites in mollusc sheet, working out how to do UTM's for bulkloading
 
