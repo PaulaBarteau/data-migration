@@ -136,3 +136,9 @@ Hours | Work Description
 -- | --
 2 | Higher geography for mineral database
 1 | Doing further research on my social media post for Nicole to post, emailing Gary about social media and how Twitter works so he can come up with more posts in the future 
+
+## 2020-04-21 Tuesday
+Hours | Work Description
+-- | --
+1 | Checking/replying to emails, updating Jason and Lindsey on SPNHC refund status, meeting with Nicole, reading a blogpost Spencer sent titled "One paleontological perspective on the coronavirus" for the next paleo twiter post
+1.5 | Higher geography for mineral database
