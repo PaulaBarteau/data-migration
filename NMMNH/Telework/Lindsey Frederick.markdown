@@ -229,4 +229,8 @@ Hours | Work Description
 1 | Checking email
 2 | Adding coordinates to verbatim localites in mollusc sheet, working out how to do UTMs for bulkloading
 3 | Researching geographies, editing excel sheet
+0.5 | Hosting Digitization Meeting
+0.5 | Filling out social media form
+1 | editing and posting social media
+
 
