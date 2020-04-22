@@ -305,3 +305,8 @@ Hours | Work Description
 .25| 15 minute Team Meeting
 1 | Working on mollusc parts table
 .75|45 min, Working on mollusc parts table
+
+## 2020-04-23
+Hours | Work Description
+-- | --
+1 |   Mollusc parts table
