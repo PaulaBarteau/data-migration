@@ -143,3 +143,8 @@ Hours | Work Description
 1 | Checking/replying to emails, updating Jason and Lindsey on SPNHC refund status, meeting with Nicole, reading a blogpost Spencer sent titled "One paleontological perspective on the coronavirus" for the next paleo twiter post
 2 | Higher geography for mineral database
 1 | Digitization team webex meeting and call with Teresa
+
+## 2020-04-22 Wednesday
+Hours | Work Description
+-- | --
+3 | Higher geography for mineral database
