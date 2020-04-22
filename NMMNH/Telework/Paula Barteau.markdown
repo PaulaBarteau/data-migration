@@ -310,3 +310,4 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 |   Mollusc parts table
+2 | Meeting w/ Lindsey, discussed parts table, SPNCH, and Social Media- guidelines for photos, future posting plans, etc..
