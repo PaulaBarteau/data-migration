@@ -152,7 +152,7 @@
 ## 4/15/20
 - OSHA online training
 - meeting w Brian
-- digitization followup
+- 3D printing/scanning followup
 - dust extraction followup
 
 
@@ -162,7 +162,7 @@
 - OSHA online training
 
 ## 4/17/20
-- digitization followup
+- 3D printing/scanning followup
 - meeting w Lannois about FOP ordering process
 - dust extraction followup
 
@@ -170,13 +170,23 @@
 ## 4/20/20
 - cradle making supply order followup
 - OSHA online training
+- 3D printing/scanning followup
 
 
+## 4/21/20
+- OSHA online training
+- 3D printing/scanning followup
+- weekly digitization meeting
 
 
+## 4/22/20
+- OSHA online training
+- 3d printing/scanning followup
+- microscope order followup
 
 
-
-
-
+## 4/23/20
+- 3d printing/scanning followup
+- OSHA online training
+- microscope followup
 
