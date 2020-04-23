@@ -148,3 +148,9 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3 | Higher geography for mineral database
+
+## 2020-04-23 Thursday
+Hours | Work Description
+-- | --
+2 | Higher geography for mineral database (finished)
+2 | Paleo taxa research
