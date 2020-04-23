@@ -1,5 +1,10 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-23 Thursday - ARCTOS DOWN 
+Hours | Work Description
+-- | --
+8 | Paleo Parts - resolving to code table part names 
+
 ## 2020-04-22 Wednesday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
