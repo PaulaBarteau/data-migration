@@ -1,5 +1,12 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-24 Friday - ARCTOS DOWN 
+Hours | Work Description
+-- | --
+6 | Paleo Parts - resolving to code table part names 
+1.5 | Add TRS fixes to master locality file
+.5 | Test media metadata load tool in Arctos PG 
+
 ## 2020-04-23 Thursday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
