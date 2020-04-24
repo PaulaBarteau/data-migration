@@ -155,3 +155,9 @@ Hours | Work Description
 2 | Higher geography for mineral database (finished)
 1.5 | Paleo taxa research
 .5 | Working on a twitter post for Friday 4/24
+
+## 2020-04-24 Friday
+Hours | Work Description
+-- | --
+3 | Paleo taxa research1
+1 | Wrote twitter post for Friday 4/24
