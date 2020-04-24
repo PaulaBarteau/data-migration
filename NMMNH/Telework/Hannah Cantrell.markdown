@@ -159,5 +159,5 @@ Hours | Work Description
 ## 2020-04-24 Friday
 Hours | Work Description
 -- | --
-3 | Paleo taxa research1
-1 | Wrote twitter post for Friday 4/24
+3 | Paleo taxa research
+1 | Wrote twitter post for Friday 4/24 on discovering microorganisms of past environments
