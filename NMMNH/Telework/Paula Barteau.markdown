@@ -284,7 +284,7 @@ Hours | Work Description
 - 
 - Monday- take pictures from AWTNM and write posts with sequences of the same flowers/ plants over time.
 
-## 2020-04-16
+## 2020-04-17
 Hours | Work Description
 -- | --
 2| Research and drafting for Digital SPNCH Presentation on Argemone poppies.
@@ -311,3 +311,10 @@ Hours | Work Description
 -- | --
 1 |   Mollusc parts table
 2 | Meeting w/ Lindsey, discussed parts table, SPNCH, and Social Media- guidelines for photos, future posting plans, etc..
+
+
+
+## 2020-04-27
+Hours | Work Description
+-- | --
+3.5 | photographing and uploading pictures of AWTHNM to inaturalist and Drive for Social Media
