@@ -319,3 +319,9 @@ Hours | Work Description
 -- | --
 3.5 | photographing and uploading pictures of AWTHNM to inaturalist and Drive for Social Media
 2| writing and researching this weeks social media posts.
+
+## 2020-04-27
+Hours | Work Description
+-- | --
+2.5| Social Media posts
+1 | Team meeting.
