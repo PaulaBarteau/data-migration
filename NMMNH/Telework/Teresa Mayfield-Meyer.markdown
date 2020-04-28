@@ -1,6 +1,6 @@
 # NMMNH Telework - Teresa
 
-## 2020-04-28 Tuesday - ARCTOS DOWN 
+## 2020-04-28 Tuesday
 Hours | Work Description
 -- | --
 1 | Digitization meeting agenda adds and prep
