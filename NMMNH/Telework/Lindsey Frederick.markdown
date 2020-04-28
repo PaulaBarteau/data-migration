@@ -233,4 +233,44 @@ Hours | Work Description
 0.5 | Filling out social media form
 1 | editing and posting social media
 
+## 2020-04-22 Wednesday
+Hours | Work Description
+-- | --
+1 | Checking email
+4 | Organizing catalogs, butterfly information, catalogs and localities.
+1 | troubleshooting ideas for future social media projects
+2 | troubleshooting ideas for future social media projects
+
+## 2020-04-23 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+4 | editing protocols
+1 | edited videos for social media posts
+1 | edited, and posted social media posts
+1 | Social media zoom meeting
+
+## 2020-04-24 Friday
+Hours | Work Description
+-- | --
+1 | Checking email
+2 | Adding townships to verbatim localites in mollusc sheet
+3 | Researching geographies, editing excel sheet
+2 | Editing obviously wrong higher geographies, like unknowns and extra commas
+
+## 2020-04-28 Monday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Checking on orders
+1 | Meeting with Paula
+5 | putting non-tissue excel sheet together
+
+## 2020-04-28 Tuesday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Getting mollusc excel sheet ready to go through bulkloading 
+
+
 
