@@ -325,3 +325,4 @@ Hours | Work Description
 -- | --
 2.5| Social Media posts
 1 | Team meeting.
+.5| Meeting with Lindsey, emailed SPNCH in regards to refund and virtual attendence.
