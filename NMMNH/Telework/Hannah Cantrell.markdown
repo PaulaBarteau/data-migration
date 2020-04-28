@@ -168,3 +168,4 @@ Hours | Work Description
 .5 | Check email and reply to emails, and organize notes for beginning Arctos article for Black Range Naturalist
 .5 | Prep for meeting with Nicole, meeting with Nicole
 3 | Paleo taxa research
+1 | Digitization team webex meeting
