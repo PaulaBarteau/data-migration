@@ -318,3 +318,4 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3.5 | photographing and uploading pictures of AWTHNM to inaturalist and Drive for Social Media
+2| writing and researching this weeks social media posts.
