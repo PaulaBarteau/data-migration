@@ -34,12 +34,12 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ## Geoscience
 ### Teresa
 **Complete**
- 
+
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
  - Currently 2,418 paleo localities have an issue with either higher geography, stratigraphy, or TRS which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
- - Standardizing Parts
+ - Standardizing Parts: almost there! Will soon provide a list to Nicole for things that need her help.
  - Writing data migration protocols
  - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
  - Project for grant - add funding?
