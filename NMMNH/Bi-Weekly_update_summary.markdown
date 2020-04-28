@@ -4,11 +4,11 @@ This document lists major tasks completed by the team over the course of the pro
 
 ## Progress Report
 
-Total records in Arctos: 56,760  
+Total records in Arctos: ~56,760~ 35,682  
 Images Taken: 51  
-Taxa added to Arctos: 327  
-Classifications added to Arctos: 555  
-Publications added to Arctos: 10  
+Taxa added to Arctos: ~327~ ?  
+Classifications added to Arctos: ~555~ ?  
+Publications added to Arctos: ~10~ ?  
 
 ### Geoscience Migration Stats  
 
@@ -17,10 +17,10 @@ Stat | Records	| % Complete
 Total Specimen Records	| 80,901 |	
 No data records	| (1,966)	| -2% | 
 **Total records to migrate**	| **78,935** | 	
-Records in Arctos	| 41,646 |	51%
-Not yet loaded	| 25,282 |	31%
-Locality Issues (unable to load)	| 13,970 |	17%
-*Records with Research Events*	| 40,126 |	50%
+Records in Arctos	| ~41,646~ 17,381 |	~51%~ 22%
+Not yet loaded	| ~25,282~ 47,584 |	~31%~ 60%
+Locality Issues (unable to load)	| 13,970 |	18%
+*Records with Research Events*	| ~40,126~ ? |	~50%~ ?
 **Total Localities**	| **12,345** |	
 Research Localities Loaded	| 9,929 |	80%
 Locality Issues (unable to load)	| 2,416 |	20%
