@@ -73,6 +73,8 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Researched geology terms 148-433
  - Scale rulers for imaging printed out at UPS and ready for when imaging can continue
  - 2,620 mineral taxonomy links compiled
+ - 1,800 mineral localities compelete 
+ - Twitter post written for Fossil Friday
  
 #### Benefits NMMNH Geoscience
 - Wrote and submitted Gila Symposium abstract- "Sharing Paleontology of the Gila at New Mexico Museum of Natural History and Science"
