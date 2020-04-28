@@ -161,3 +161,10 @@ Hours | Work Description
 -- | --
 3 | Paleo taxa research
 1 | Wrote twitter post for Friday 4/24 on discovering microorganisms of past environments
+
+## 2020-04-28 Tuesday
+Hours | Work Description
+-- | --
+.5 | Check email and reply to emails, and organize notes for beginning Arctos article for Black Range Naturalist
+.5 | Prep for meeting with Nicole, meeting with Nicole
+1 | Paleo taxa research
