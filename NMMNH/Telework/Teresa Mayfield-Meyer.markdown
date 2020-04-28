@@ -1,5 +1,21 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-28 Tuesday - ARCTOS DOWN 
+Hours | Work Description
+-- | --
+1 | Digitization meeting agenda adds and prep
+1 | Digitization team meeting
+1 | Follow up items from meeting (Google Form and emails)
+2 | AWG SABI grant meeting and follow-up
+2 | Arctos Oracle, bulkload 951 basic paleo records and request fix
+1 | Taxonomy review
+
+## 2020-04-27 Monday - ARCTOS DOWN 
+Hours | Work Description
+-- | --
+4 | Paleo Parts - resolving to code table part names 
+4 | Testing ArctosPG
+
 ## 2020-04-24 Friday - ARCTOS DOWN 
 Hours | Work Description
 -- | --
