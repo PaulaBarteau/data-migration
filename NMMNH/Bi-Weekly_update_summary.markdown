@@ -51,7 +51,7 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Bulkloaded 56,760 specimen records with public and research events
  - Bulkloaded 115 non-conforming Agents to Arctos
  - Bulkloaded 9,928 research localities to Arctos
- - Bulkloaded 9,928 public loalities to Arctos
+ - Bulkloaded 9,928 public localities to Arctos
  - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
  - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
  - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
