@@ -1,5 +1,12 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-29 Wednesday
+Hours | Work Description
+-- | --
+6 | Paleo Parts - resolving to code table part names
+1 | Meeting with UTEP collection manager 
+1 | Test Google form, email link.
+
 ## 2020-04-28 Tuesday
 Hours | Work Description
 -- | --
