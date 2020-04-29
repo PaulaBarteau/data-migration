@@ -175,3 +175,4 @@ Hours | Work Description
 -- | --
 2 | Mineral attributes and parts
 .5 | Checking email and emailing paleo curators about Artcos article for Black Range Naturalist 
+2.5 | Organizing thoughts and researching for Arctos article, talking with Gary about collecting in the Black Range, starting an outline and taking notes
