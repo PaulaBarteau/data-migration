@@ -190,3 +190,44 @@
 - OSHA online training
 - microscope followup
 
+
+## 4/24/20
+- 3d printing/scanning followup
+- microscope followup - Meeting w Mike Eklund and microscope quote sent to dept for discussion
+- set up health insurance
+
+
+## 4/27/20
+- dust extraction followup - get more quotes from sentry air and micro air
+- OSHA online training
+
+
+## 4/28/20
+- dust extraction followup
+- microscope followup
+- digitization meeting
+- OSHA online training
+
+
+## 4/29/20
+- dust extraction followup
+- OSHA online training
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
