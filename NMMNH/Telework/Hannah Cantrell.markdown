@@ -169,3 +169,9 @@ Hours | Work Description
 .5 | Prep for meeting with Nicole, meeting with Nicole
 3 | Paleo taxa research
 1 | Digitization team webex meeting
+
+## 2020-04-29 Wednesday
+Hours | Work Description
+-- | --
+2 | Mineral attributes and parts
+.5 | Checking email and emailing paleo curators about Artcos article for Black Range Naturalist 
