@@ -320,9 +320,15 @@ Hours | Work Description
 3.5 | photographing and uploading pictures of AWTHNM to inaturalist and Drive for Social Media
 2| writing and researching this weeks social media posts.
 
-## 2020-04-27
+## 2020-04-28
 Hours | Work Description
 -- | --
 2.5| Social Media posts
 1 | Team meeting.
 .5| Meeting with Lindsey, emailed SPNCH in regards to refund and virtual attendence.
+
+
+## 2020-04-30
+Hours | Work Description
+-- | --
+2|Mollusc parts table
