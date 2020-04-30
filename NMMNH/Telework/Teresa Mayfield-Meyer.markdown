@@ -1,5 +1,12 @@
 # NMMNH Telework - Teresa
 
+## 2020-04-30 Thursday
+Hours | Work Description
+-- | --
+4 | Paleo Parts - resolving to code table part names
+3 | Writing documentation - [How to Bulkload Media Metadata](http://handbook.arctosdb.org/how_to/How-to-Bulkload-Media-Metadata.html)
+1 | Review GenBank and Dryad sites, email, AWG SABI review
+
 ## 2020-04-29 Wednesday
 Hours | Work Description
 -- | --
