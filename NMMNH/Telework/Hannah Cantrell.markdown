@@ -181,5 +181,5 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2.5 | Mineral attributes and parts
-.5 | Twitter Post for Friday 5/1/2020
-2 | Work on Arctos Article
+1 | Twitter Post for Friday 5/1/2020
+1.5 | Work on Arctos Article
