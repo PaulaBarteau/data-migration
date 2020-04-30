@@ -176,3 +176,10 @@ Hours | Work Description
 2 | Mineral attributes and parts
 .5 | Checking email and emailing paleo curators about Artcos article for Black Range Naturalist 
 2.5 | Organizing thoughts and researching for Arctos article, talking with Gary about collecting in the Black Range, starting an outline and taking notes
+
+## 2020-04-30 Thursday
+Hours | Work Description
+-- | --
+2.5 | Mineral attributes and parts
+.5 | Twitter Post for Friday 5/1/2020
+2 | Work on Arctos Article
