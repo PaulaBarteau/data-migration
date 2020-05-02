@@ -336,4 +336,4 @@ Hours | Work Description
 ## 2020-05-01
 Hours | Work Description
 -- | --
-2.5|Mollusc parts table
+3|Mollusc parts table
