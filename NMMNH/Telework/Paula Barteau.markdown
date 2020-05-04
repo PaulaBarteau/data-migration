@@ -343,3 +343,4 @@ Hours | Work Description
 --|--
 1.5 | Photography for social media
 1 | Mollusk parts table
+2 | Social media posts & photos
