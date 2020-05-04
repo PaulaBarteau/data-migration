@@ -1,5 +1,15 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-01 Friday
+
+Hours | Work Description
+-- | --
+1 | Paleo Parts - resolving to code table part names
+2 | Load 951 events and 1,287 parts for localities 210-299 (finish test started on Tuesday)
+3 | Load 603 records, 603 events and 608 parts for locality 846 (needed records to add images in documentation)
+1 | Writing documentation - [How to Bulkload Media Metadata](http://handbook.arctosdb.org/how_to/How-to-Bulkload-Media-Metadata.html)
+1 | ESA Meeting - ESA Water Cooler Chat: The Role of Natural History in Ecology
+
 ## 2020-04-30 Thursday
 Hours | Work Description
 -- | --
@@ -21,7 +31,7 @@ Hours | Work Description
 1 | Digitization team meeting
 1 | Follow up items from meeting (Google Form and emails)
 2 | AWG SABI grant meeting and follow-up
-2 | Arctos Oracle, bulkload 951 basic paleo records and request fix
+2 | Arctos Oracle, bulkload 951 basic paleo records for localities 210-299 to test Arctos production and request fix
 1 | Taxonomy review
 
 ## 2020-04-27 Monday - ARCTOS DOWN 
