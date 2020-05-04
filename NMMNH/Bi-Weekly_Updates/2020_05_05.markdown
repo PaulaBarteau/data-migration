@@ -22,8 +22,8 @@ Stat | Records	| % Complete
 Total Specimen Records	| 80,901 |	
 No data records	| (1,966)	| -2% | 
 **Total records to migrate**	| **78,935** | 	
-Records in Arctos	| ~41,646~ 17,381 |	~51%~ 22%
-Not yet loaded	| ~25,282~ 47,584 |	~31%~ 60%
+Records in Arctos	| ~41,646~ 18,935 |	~51%~ 24%
+Not yet loaded	| ~25,282~ 46,030 |	~31%~ 58%
 Locality Issues (unable to load)	| 13,970 |	18%
 *Records with Research Events*	| ~40,126~ ? |	~50%~ ?
 **Total Localities**	| **12,345** |	
@@ -36,7 +36,9 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ## Geoscience
 ### Teresa
 **Complete**
-- Loaded 951 basic paleo records
+- Loaded 1,554 basic paleo records
+- Loaded 1,554 research events
+- Loaded 1,895 parts
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
