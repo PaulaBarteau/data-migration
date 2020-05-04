@@ -1,7 +1,12 @@
 # NMMNH Telework - Teresa
 
-## 2020-05-01 Friday
+## 2020-05-04 Monday
+Hours | Work Description
+-- | --
+2 | Code Table Committee Meeting Prep - revise Code Table Procedures and create short version, create committee needs list
+6 | Testing Arctos PostGreSQL
 
+## 2020-05-01 Friday
 Hours | Work Description
 -- | --
 1 | Paleo Parts - resolving to code table part names
