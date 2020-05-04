@@ -337,3 +337,9 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3|Mollusc parts table
+
+## 2020-05-04
+Hours | Work Description
+--|--
+1.5 | Photography for social media
+1 | Mollusk parts table
