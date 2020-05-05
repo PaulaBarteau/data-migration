@@ -183,3 +183,10 @@ Hours | Work Description
 2.5 | Mineral attributes and parts
 1 | Twitter Post for Friday 5/1/2020
 1.5 | Work on Arctos Article
+
+## 2020-05-05 Tuesday
+Hours | Work Description
+-- | --
+.5 | Meeting with Nicole
+.5 | Call with Teresa to discuss specimens that are going to be highlighted in Arctos article and asking her to upload them to Arctos
+3 | Work on Arctos article- work on outline, read two of Gary and Spencer's papers on collecting in the Black Range, gathering images of specimens from those papers, taking notes on time periods and differences/comparisons in species collected
