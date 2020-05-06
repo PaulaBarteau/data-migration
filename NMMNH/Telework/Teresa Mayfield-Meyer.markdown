@@ -6,7 +6,7 @@ Hours | Work Description
 2 | GBIF North American Nodes Meeting
 1 | Prepare and load 6 records, 22 parts and 6 research events for localities 4562 and 7475 (for Hannah)
 2 | Testing Arctos PostgreSQL
-1.5 | Reload 1,119 records, 1,433 parts and 1,119 research events for localities 300-399 (for Hannah)
+2.5 | Reload 1,119 records, 1,433 parts and 1,119 research events for localities 300-399 (for Hannah)
 .5 | Connecting Duchesneodus to wikidata, Spencer's Wiki, adding pub to Arctos
 
 
