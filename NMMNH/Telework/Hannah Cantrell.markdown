@@ -192,3 +192,9 @@ Hours | Work Description
 3 | Work on Arctos article- work on outline, read two of Gary and Spencer's papers on collecting in the Black Range, gathering images of specimens from those papers, taking notes on time periods and differences/comparisons in species collected
 1 | New strategic plan survey
 1 | Digitization team webex meeting
+
+## 2020-05-06 Wednesday
+Hours | Work Description
+-- | --
+2 | Reading articles and taking notes on resources Teresa sent me on natural history collections for Arctos article
+3 | Finishing outline, writing article, editing article
