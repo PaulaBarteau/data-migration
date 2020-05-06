@@ -4,7 +4,11 @@ This document lists major tasks completed by the team over the course of the pro
 
 ## Progress Report
 
-Total records in Arctos: ~56,760~ 35,682  
+On Monday, April 13, the production instance of Arctos went down. Covid-19 restrictions meant that tech support from TACC could not access the system until the following day. Repair of the Oracle box is under way. In the mean time, searches could be made on the ArctosPG test version at http://test.arctos.database.museum
+
+On Tuesday, April 28, the production instance of Arctos was restored, but with the last available recoverable back-up from March 15, 2020. Numbers with lines through them represent data before the crash and numbers without a line represent current data.
+
+Total records in Arctos: ~56,760~ 36,289  
 Images Taken: 51  
 Taxa added to Arctos: ~327~ ?  
 Classifications added to Arctos: ~555~ ?  
@@ -17,8 +21,8 @@ Stat | Records	| % Complete
 Total Specimen Records	| 80,901 |	
 No data records	| (1,966)	| -2% | 
 **Total records to migrate**	| **78,935** | 	
-Records in Arctos	| ~41,646~ 17,381 |	~51%~ 22%
-Not yet loaded	| ~25,282~ 47,584 |	~31%~ 60%
+Records in Arctos	| ~41,646~ 18,939 |	~51%~ 24%
+Not yet loaded	| ~25,282~ 46,030 |	~31%~ 58%
 Locality Issues (unable to load)	| 13,970 |	18%
 *Records with Research Events*	| ~40,126~ ? |	~50%~ ?
 **Total Localities**	| **12,345** |	
