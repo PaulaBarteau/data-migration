@@ -197,4 +197,4 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2 | Reading articles and taking notes on resources Teresa sent me on natural history collections for Arctos article
-3 | Finishing outline, writing article, editing article
+4 | Finishing outline, writing article, editing article, emailing Spencer and Gary, finding specimen numbers in Access database for Teresa to upload to Arctos
