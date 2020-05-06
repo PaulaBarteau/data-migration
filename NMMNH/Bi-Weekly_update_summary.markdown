@@ -42,7 +42,6 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Wrote [How To Add Geology Attributes to a Locality](http://handbook.arctosdb.org/how_to/How-to-Add-Geology-Attributes-to-a-Locality.html)
  - Updated "[How to Manage a Collection](http://handbook.arctosdb.org/how_to/How-to-Manage-a-Collection-in-Arctos.html)" for the Arctos community.
  - Wrote - [How to Bulkload Media Metadata](http://handbook.arctosdb.org/how_to/How-to-Bulkload-Media-Metadata.html)
- - Created [Google form](https://docs.google.com/forms/d/18NnbuItBYoY3m8m-B-PQMguOOxpK1Qx7BJ9L7BwrAMY/viewform?edit_requested=true) for capturing publication information.
  - Added definitions to 68 Chronostratigraphy - International Commission on Stratigraphy terms in the [geology code table](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE).
  - Added 58 Chronostratigraphy - International Commission on Stratigraphy terms (all terms from Phanerozoic to present) to the [geology code table](http://arctos.database.museum/info/ctDocumentation.cfm?table=CTGEOLOGY_ATTRIBUTE).
  - Created video tutorial for uploading small batches of media to TACC
@@ -66,6 +65,7 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
  - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown)
  - reviewed 459 non-conforming taxon names
+ - Created [Google form](https://docs.google.com/forms/d/18NnbuItBYoY3m8m-B-PQMguOOxpK1Qx7BJ9L7BwrAMY/viewform?edit_requested=true) for capturing publication information.
  
 #### Nicole
 ##### Benefits all Arctos Collections
