@@ -1,5 +1,13 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-05 Tuesday
+Hours | Work Description
+-- | --
+4 | GBIF North American Nodes Meeting and follow up
+1 | Discussion with Hannah and compiling publications related to her article
+2 | Digitization Team Agenda prep and meeting
+1 | Reinstating barcodes for exhibit spaces and researching GBIF/Arctos connections
+
 ## 2020-05-04 Monday
 Hours | Work Description
 -- | --
