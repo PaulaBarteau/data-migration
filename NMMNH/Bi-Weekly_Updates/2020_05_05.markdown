@@ -7,7 +7,7 @@ This documents discussion at bi-weekly team meetings - due to COVID19 and telewo
 
 On Monday, April 13, the production instance of Arctos went down. Covid-19 restrictions meant that tech support from TACC could not access the system until the following day. Repair of the Oracle box is under way. In the mean time, searches can be made on the ArctosPG test version at http://test.arctos.database.museum
 
-On Tuesday, April 28, the production instance of Arctos was restored, but with the last available recoverable back-up from March 15, 2020. Nubers with lines through them represent data before the crash numbers without a line represent current data.
+On Tuesday, April 28, the production instance of Arctos was restored, but with the last available recoverable back-up from March 15, 2020. Numbers with lines through them represent data before the crash numbers without a line represent current data.
 
 Total records in Arctos: ~56,760~ 36,289  
 Images Taken: 51  
