@@ -39,6 +39,8 @@ Locality Issues (unable to load)	| 2,416 |	20%
 - Loaded 1,554 basic paleo records
 - Loaded 1,554 research events
 - Loaded 1,895 parts
+- Wrote documentation - [How to Bulkload Media Metadata](http://handbook.arctosdb.org/how_to/How-to-Bulkload-Media-Metadata.html)
+- Created [Google form](https://docs.google.com/forms/d/18NnbuItBYoY3m8m-B-PQMguOOxpK1Qx7BJ9L7BwrAMY/viewform?edit_requested=true) for capturing publication information.
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
