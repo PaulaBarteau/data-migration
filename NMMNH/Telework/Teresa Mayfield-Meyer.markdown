@@ -1,5 +1,14 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-07 Thursday
+Hours | Work Description
+-- | --
+2 | Arctos Working Group Issues meeting
+2.5 | Testing Arctos PostgreSQL
+1.5 | Reload 2,033 records for localities 2800-2999 (for Hannah)
+1 | Discussing use of Arctos for engagement with Vicky at UTEP
+1 | Reload same individual as relationships and re-correct barcodes for mammal tissues at MSB
+
 ## 2020-05-06 Wednesday
 Hours | Work Description
 -- | --
