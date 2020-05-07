@@ -236,7 +236,7 @@
 - edits to prep manual - adding section on archival cradling
 
 
-##5/6/20
+## 5/6/20
 - Setup new telework laptop; contacted Charles for help
 - edits to prep manual - adding section on archival cradling
 - created Micro-Prep Volunteer Training course outline handout
