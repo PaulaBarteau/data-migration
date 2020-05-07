@@ -214,19 +214,34 @@
 - OSHA online training
 
 
+## 4/30/20
+- dust extraction followup
 
 
+## 5/1/20
+- OSHA online training
+- tracked down missing links and information for supply list
 
 
+## 5/4/20
+- update email for lab volunteers
+- OSHA online training
+- edits to prep manual - adding section on archival cradling
 
 
+## 5/5/20
+- dust extraction followup
+- meet w Charles Compton
+- weekly digitization meeting
+- edits to prep manual - adding section on archival cradling
 
 
-
-
-
-
-
+##5/6/20
+- Setup new telework laptop; contacted Charles for help
+- edits to prep manual - adding section on archival cradling
+- created Micro-Prep Volunteer Training course outline handout
+- created Casting and Molding Volunteer Training course outline handout
+- created Archival Cradling Training course outline handout
 
 
 
