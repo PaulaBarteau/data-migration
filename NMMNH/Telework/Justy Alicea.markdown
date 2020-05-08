@@ -251,7 +251,7 @@
 
 
 ## 5/8/20
-- Begin edits to Lab Safety Manual
+- Edit Lab Safety Manual
 
 
 
