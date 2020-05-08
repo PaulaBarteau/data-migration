@@ -244,5 +244,24 @@
 - created Archival Cradling Training course outline handout
 
 
+## 5/7/20
+- Continued setup of new telework laptop; contacted Patrick for help
+- OSHA online training
+- Begin review of Mike Gettys DMNS Lab Safety Manual
+
+
+## 5/8/20
+- Begin edits to Lab Safety Manual
+
+
+
+
+
+
+
+
+
+
+
 
 
