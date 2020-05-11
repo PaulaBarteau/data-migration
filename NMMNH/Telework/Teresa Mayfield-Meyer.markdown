@@ -1,5 +1,21 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-11 Monday
+Hours | Work Description
+-- | --
+1 | Testing Arctos PostgreSQL
+1 | Data Quality discussions with Robert Mesibov and Deb Paul including Mariel, Michelle, and Dusty
+1 | Adding citations from publication [Braddy and Briggs 2002](https://arctos.database.museum/publication/10009049)
+1 | Reload 2163 parts for localities 2800-2999
+
+## 2020-05-08 Friday
+Hours | Work Description
+-- | --
+4 | Testing Arctos PostgreSQL
+1 | Data Quality discussions with Robert Mesibov and Deb Paul
+2 | Adding taxa from publication [Braddy and Briggs 2002](https://arctos.database.museum/publication/10009049)
+1 | Strategic Plan Survey
+
 ## 2020-05-07 Thursday
 Hours | Work Description
 -- | --
