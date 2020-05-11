@@ -312,7 +312,7 @@ Hours | Work Description
 1 |   Mollusc parts table
 2 | Meeting w/ Lindsey, discussed parts table, SPNCH, and Social Media- guidelines for photos, future posting plans, etc..
 
-
+10hr
 
 ## 2020-04-27
 Hours | Work Description
@@ -344,3 +344,10 @@ Hours | Work Description
 1.5 | Photography for social media
 1 | Mollusk parts table
 2 | Social media posts & photos
+
+20.5
+
+
+## 2020-05-11
+Hours | Work Descriptions
+1| Confirmed SPNCH presentation, Secimen Spotlight for Friday June 12 3-5 p.m. Contacted SPNCH organization team for a registration refund.
