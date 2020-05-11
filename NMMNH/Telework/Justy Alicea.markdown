@@ -254,8 +254,12 @@
 - Edit Lab Safety Manual
 
 
-
-
+## 5/11/2
+- First of 3 microscope RFPs filled and sent to Lucas/Sandoval Endowment
+- Edit lab safety manual - inclusion of OSHA regulations
+- attempted to track down any previous lab safety information
+- Contacted Charles in IT about microscope video display possibilities
+- OSHA online training
 
 
 
