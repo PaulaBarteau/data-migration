@@ -360,3 +360,5 @@ Hours | Work Description
 Hours | Work Description
 --|--
 1 | Parts Table
+1 | Poppy Presentation Research
+1.25| Team Meeting
