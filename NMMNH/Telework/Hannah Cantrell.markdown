@@ -198,3 +198,8 @@ Hours | Work Description
 -- | --
 2 | Reading articles and taking notes on resources Teresa sent me on natural history collections for Arctos article
 4 | Finishing outline, writing article, editing article, emailing Spencer and Gary, finding specimen numbers in Access database for Teresa to upload to Arctos
+
+## 2020-05-07 Thursday
+Hours | Work Description
+-- | --
+3 | Compile images to use in article, screenshot specimen record pages in Arctos for article, finalize research, writing article
