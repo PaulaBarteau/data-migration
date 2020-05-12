@@ -348,7 +348,15 @@ Hours | Work Description
 20.5
 
 
+
+
 ## 2020-05-11
-Hours | Work Descriptions
-1| Confirmed SPNCH presentation, Secimen Spotlight for Friday June 12 3-5 p.m. Contacted SPNCH organization team for a registration refund.
-2| Parts Table
+Hours | Work Description
+--|--
+1| Confirmed SPNCH Presentation, Contacted SPNCH for refund; Secimen Spotlight for Friday June 12 3-5 p.m.
+2 | Parts Table
+
+## 2020-05-04
+Hours | Work Description
+--|--
+1 | Parts Table
