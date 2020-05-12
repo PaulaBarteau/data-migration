@@ -203,3 +203,8 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 3 | Compile images to use in article, screenshot specimen record pages in Arctos for article, finalize research, writing article
+
+## 2020-05-12 Thursday
+Hours | Work Description
+-- | --
+7 | Write, format, insert images into Arctos article, weekly digitization team webex meeting, enter time, meeting with Nicole
