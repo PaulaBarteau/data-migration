@@ -50,8 +50,10 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Testing of Arctos PostGreSQL
   
 ### Nicole
+**Complete**
+- Reviewed and provided corrected higher geography for 544 localities
 
- **In Process**
+**In Process**
 -Creating bulkload file for new localities and specimens (to date 195 specimens and 260 localities)
 -Preparation loan for Arctos
 -Working out part names and definitions on Arctos
@@ -108,7 +110,8 @@ Dropbox
 
 ### SPNHC
 
-Canceled - cancel all travel and seek refunds.
+Register for virtual conference
+Teresa will present as planned
 
 ### Social Media
 
