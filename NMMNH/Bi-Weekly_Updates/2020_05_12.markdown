@@ -31,8 +31,6 @@ Research Localities Loaded	| 9,929 |	80%
 Locality Issues (unable to load)	| 2,416 |	20%
 *Specimen-less localities*	| 3,732 |	30%
 
-
-
 ## Geoscience
 ### Teresa
 **Complete**
