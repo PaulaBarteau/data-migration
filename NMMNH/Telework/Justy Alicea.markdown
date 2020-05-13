@@ -254,7 +254,7 @@
 - Edit Lab Safety Manual
 
 
-## 5/11/2
+## 5/11/20
 - First of 3 microscope RFPs filled and sent to Lucas/Sandoval Endowment
 - Edit lab safety manual - inclusion of OSHA regulations
 - attempted to track down any previous lab safety information
@@ -262,10 +262,17 @@
 - OSHA online training
 
 
+## 5/12/20
+- Edit lab safety manual
+- Contacted Joey in Exhibits about microscope video display possibilities
+- Weekly digitization meeting
 
 
-
-
+## 5/13/20
+- Edit lab safety manual
+- Cantacted Dave in Exhibits about micrscope video display possibilities
+- All staff meeting
+- Governors press conference
 
 
 
