@@ -270,7 +270,7 @@
 
 ## 5/13/20
 - Edit lab safety manual
-- Cantacted Dave in Exhibits about micrscope video display possibilities
+- Contacted Dave in Exhibits about microscope video display possibilities
 - All staff meeting
 - Governors press conference
 
