@@ -270,7 +270,93 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Checking email
-1 | Getting mollusc excel sheet ready to go through bulkloading 
+1 | Getting mollusc excel sheet ready to go through bulkloading
+2 | Meeting with Paula
+1 | Meeting with public programs people
+1.5 | Got iNaturalist project post ready
+1.5 | Hosted Digitization Meeting
+
+## 2020-04-29 Wednesday
+Hours | Work Description
+-- | --
+1 | Checking email
+2 | Getting mollusc excel sheet ready to go through bulkloading
+5 | Went into collection, met with Margie, picked up packages, put away bird skeletons
+
+## 2020-04-30 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Updating iNaturalist, Twitter, Facebook
+3 | Editing mollusc localities
+2 | Getting part documents together for Paula
+1 | Editing accessions in Arctos
+
+## 2020-05-01 Friday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Met with Andrea about social Media
+3 | Editing mollusc localities
+2 | Getting part documents together for Paula
+1 | Editing accessions in Arctos
+
+## 2020-05-04 Monday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Working on Copyright email for Margie
+3 | Editing mollusc localities still
+3 | Getting together IPM procedures
+
+## 2020-05-06 Tuesday
+Hours | Work Description
+-- | --
+1 | Checking email
+2 | Meeting with Paula
+1 | Meeting with public programs people
+1.5 | Got iNaturalist project post ready
+1 | Created and emailed social media posts to nmmnhs social media people
+1.5 | Hosted Digitization Meeting
+
+## 2020-05-07 Wednesday
+Hours | Work Description
+-- | --
+1 | Checking email
+2 | Worked on IPM
+3 | Editing mollusc taxonimies
+2 | Editing mollusc dates
+
+## 2020-05-08 Thursday
+Hours | Work Description
+-- | --
+2 | Checking and replying to emails
+6 | In Collection, picked up packages, put desk together, researched data request, checked on birds
+
+## 2020-05-09 Friday
+Hours | Work Description
+-- | --
+2 | Checking and replying to emails
+6 | Tried bulkloading molluscs, got 857 errors and worked through geography, accession, date, taxonomy and agent issues
+
+## 2020-05-11 Monday
+Hours | Work Description
+-- | --
+8 | out
+
+## 2020-05-12 Tuesday
+Hours | Work Description
+-- | --
+6 | out
+2 | Hosted Digitization meeting, met with Paula after to discuss social media and mollusc parts projects
+
+## 2020-05-13 Wednesday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Discussing IPM Arctos creation
+6 | Bulkloading and troubleshooting mollusc files, so far have gotten 4000 records in today.
+
 
 
 
