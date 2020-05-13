@@ -356,9 +356,15 @@ Hours | Work Description
 1| Confirmed SPNCH Presentation, Contacted SPNCH for refund; Secimen Spotlight for Friday June 12 3-5 p.m.
 2 | Parts Table
 
-## 2020-05-04
+## 2020-05-12
 Hours | Work Description
 --|--
 1 | Parts Table
 1 | Poppy Presentation Research
 1.25| Team Meeting
+
+## 2020-05-13
+Hours | Work Description
+--|--
+1| Staff meeting & survey
+1| Governer's address and parts table
