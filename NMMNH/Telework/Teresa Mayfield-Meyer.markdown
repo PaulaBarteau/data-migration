@@ -1,5 +1,14 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-12 Tuesday
+Hours | Work Description
+-- | --
+3 | Testing Arctos PostgreSQL
+2 | Team Meeting, Agenda and follow up
+.5 | Adding taxa and citations from publication [Zeigler et al. 2005](https://arctos.database.museum/publication/10009164)
+1 | Reload 2,033 research events for localities 2800-2999
+1.5 | Adding required localities from corrections to Arctos plus two for Inv
+
 ## 2020-05-11 Monday
 Hours | Work Description
 -- | --
