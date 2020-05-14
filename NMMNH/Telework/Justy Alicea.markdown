@@ -275,4 +275,6 @@
 - Governors press conference
 
 
-
+## 5/14/20
+- Edit lab safety manual
+- OSHA online training
