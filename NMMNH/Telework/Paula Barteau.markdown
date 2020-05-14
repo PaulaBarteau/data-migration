@@ -368,3 +368,4 @@ Hours | Work Description
 --|--
 1| Staff meeting & survey
 1| Governer's address and parts table
+1| Argemon Poppy Research
