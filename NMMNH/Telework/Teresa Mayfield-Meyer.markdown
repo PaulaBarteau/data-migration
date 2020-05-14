@@ -1,5 +1,13 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-13 Wednesday
+Hours | Work Description
+-- | --
+2 | Adding TRS values to Arctos Geology Code Table and correcting localities for upload
+4 | Adding Members, biozones to Arctos Geology Code Table and correcting localities for upload
+1 | All staff meeting
+1 | Reload 780 basic records for locality 297
+
 ## 2020-05-12 Tuesday
 Hours | Work Description
 -- | --
