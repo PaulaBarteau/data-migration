@@ -363,9 +363,15 @@ Hours | Work Description
 1 | Poppy Presentation Research
 1.25| Team Meeting
 
+
 ## 2020-05-13
 Hours | Work Description
 --|--
-1| Staff meeting & survey
-1| Governer's address and parts table
-1| Argemon Poppy Research
+1| Staff meeting, filled out survey
+1| Govener's address, & parts table
+1| Poppy Presentation research
+
+## 2020-05-14
+Hours | Work Description
+--|--
+1| Parts table
