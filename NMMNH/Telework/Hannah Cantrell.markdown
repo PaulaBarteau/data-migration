@@ -204,7 +204,12 @@ Hours | Work Description
 -- | --
 3 | Compile images to use in article, screenshot specimen record pages in Arctos for article, finalize research, writing article
 
-## 2020-05-12 Thursday
+## 2020-05-12 Tuesday
 Hours | Work Description
 -- | --
 7 | Write, format, insert images into Arctos article, weekly digitization team webex meeting, enter time, meeting with Nicole
+
+## 2020-05-14 Thursday
+Hours | Work Description
+-- | --
+5 | Finish layout of article, create a citation page, add in text citations, write conclusion (still needs work), write a short bio for myself that's going in the front of the magazine, come up with a title (still might change), send to Teresa for first edits/feedback
