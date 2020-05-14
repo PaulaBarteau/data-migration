@@ -71,9 +71,12 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ##### Benefits all Arctos Collections
  - Created the bulkload for 115 non-conforming Agent names
  - Since beginning of project has created 530 agents in Arctos (256 bulkloaded, 274 entered individually)
+ - Researched and provided information for 66 geology terms
 
 ##### Benefits NMMNH Geoscience
  - Reviewed and provided corrected higher geography for 544 localities
+ - Reviewed and provided corrected Faunal Zones for 537 localities
+ - Reviewed and provided corrected Stratigraphic data for 309 localities
  
 #### Hannah
 ##### Benefits all Arctos Collections
