@@ -215,3 +215,4 @@ Hours | Work Description
 5 | Finish layout of article, create a citation page, add in text citations, write conclusion (still needs work), write a short bio for myself that's going in the front of the magazine, come up with a title (still might change), send to Teresa for first edits/feedback
 .5 | Mineral attributes and parts
 .5 | Emailing SPNHC about presenting Specimen Spotlight and corresponding about dates/times of presentation
+1 | Writing twitter post for the week from Gary's specimen story
