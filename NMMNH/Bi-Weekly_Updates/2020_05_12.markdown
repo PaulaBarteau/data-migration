@@ -50,6 +50,9 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ### Nicole
 **Complete**
 - Reviewed and provided corrected higher geography for 544 localities
+- Reviewed and provided corrected Faunal Zones for 537 localities
+- Reviewed and provided corrected Stratigraphic data for 309 localities
+- Researched and provided information for 66 geology terms
 
 **In Process**
 -Creating bulkload file for new localities and specimens (to date 195 specimens and 260 localities)
