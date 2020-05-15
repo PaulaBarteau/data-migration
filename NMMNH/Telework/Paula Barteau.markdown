@@ -381,4 +381,5 @@ Hours | Work Description
 ## 2020-05-15
 Hours | Work Description
 --|--
-1| Argemon poppy research
+1| Argemone poppy research
+1| Parts Table
