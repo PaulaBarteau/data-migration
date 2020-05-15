@@ -9,12 +9,4 @@
 
 ## On Site Schedule
 
-While we telework, this is the schedule for access to the collections building.
-
-Day | Person
---- | ---
-Monday | 
-Tuesday | Lindsey
-Wednesday | 
-Thursday | Paula
-Friday | Hannah
+No current on-site schedule
