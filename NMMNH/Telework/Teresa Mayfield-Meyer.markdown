@@ -1,5 +1,21 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-15 Friday
+Hours | Work Description
+-- | --
+3 | Review Hannah's article - add information from publications to specimen records
+1 | IMLS Grant discussions/research
+2 | Reload 1,038 basic records, 1,361 parts and 1,038 research localities for localities 500-699
+2 | Reload 1,069 basic records, 1,390 parts and 1,069 research localities for localities 700-899
+
+## 2020-05-14 Thursday
+Hours | Work Description
+-- | --
+4 | Adding formations to Arctos Geology Code Table and correcting localities for upload
+1.5 | Arctos Working Group meeting
+1 | Reload 778 parts and 780 research events for locality 297
+1.5 | Reload 802 basic records, 913 parts and 802 research localities for localities 400-499
+
 ## 2020-05-14 Thursday
 Hours | Work Description
 -- | --
