@@ -216,3 +216,8 @@ Hours | Work Description
 .5 | Mineral attributes and parts
 .5 | Emailing SPNHC about presenting Specimen Spotlight and corresponding about dates/times of presentation
 1 | Writing twitter post for the week from Gary's specimen story
+
+## 2020-05-17 Sunday
+Hours | Work Description
+-- | --
+1 | Zoom meeting with Teresa to discuss Arctos article
