@@ -355,7 +355,29 @@ Hours | Work Description
 -- | --
 1 | Checking email
 1 | Discussing IPM Arctos creation
-6 | Bulkloading and troubleshooting mollusc files, so far have gotten 4000 records in today.
+6 | Bulkloading and troubleshooting mollusc files, have gotten 4000 records in today.
+
+## 2020-05-14 Thursday
+Hours | Work Description
+-- | --
+1 | Checking email
+7 | Bulkloading and troubleshooting mollusc files, got another 4000 records in
+
+## 2020-05-15 Friday
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Creating Phase II documents
+6 | Bulkloading and troubleshooting mollusc files, got 2000 records done and started on next 2000
+
+## 2020-05-18
+Hours | Work Description
+-- | --
+1 | Checking email
+1 | Creating webex meeting, discussing project with paula
+6 | Bulkloading and troubleshooting mollusc files, got 5423 records uploaded, MOOLLLUSCS DONE WOOO
+
+
 
 
 
