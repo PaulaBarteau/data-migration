@@ -384,3 +384,8 @@ Hours | Work Description
 1| Argemone poppy research
 1| Parts Table
 1| Parts Table
+
+## 2020-05-18
+Hours | Work Description
+--|--
+2 | Photographing, writing, uploading, editing social media posts for this week
