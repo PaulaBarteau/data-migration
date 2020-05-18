@@ -3,6 +3,14 @@
 ## 2020-05-15 Friday
 Hours | Work Description
 -- | --
+1 | Email and adds to Grant document
+2 | Test load records for localities 400-499 to PG
+3 | Reload 4,799 basic records for localities 646 and 900-1499
+2 | Prepare csvs for 6,031 parts and 5,170 research localities for localities 646 and 900-1499
+
+## 2020-05-15 Friday
+Hours | Work Description
+-- | --
 3 | Review Hannah's article - add information from publications to specimen records
 1 | IMLS Grant discussions/research
 2 | Reload 1,038 basic records, 1,361 parts and 1,038 research localities for localities 500-699
