@@ -376,6 +376,7 @@ Hours | Work Description
 1 | Checking email
 1 | Creating webex meeting, discussing project with paula
 6 | Bulkloading and troubleshooting mollusc files, got 5423 records uploaded, MOOLLLUSCS DONE WOOO
+1 | Bulkloading and troubleshooting mammal non tissue files, getting started
 
 
 
