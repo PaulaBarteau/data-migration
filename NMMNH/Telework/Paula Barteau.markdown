@@ -388,5 +388,6 @@ Hours | Work Description
 ## 2020-05-18
 Hours | Work Description
 --|--
-2 | Photographing, writing, uploading, editing social media posts for this week
+2| Photographing, writing, uploading, editing social media posts for this week
 1| Parts table and presentation drafting
+1| Parts table
