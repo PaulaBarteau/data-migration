@@ -24,15 +24,6 @@ Hours | Work Description
 1 | Reload 778 parts and 780 research events for locality 297
 1.5 | Reload 802 basic records, 913 parts and 802 research localities for localities 400-499
 
-## 2020-05-14 Thursday
-Hours | Work Description
--- | --
-4 | Adding formations to Arctos Geology Code Table and correcting localities for upload
-1.5 | Arctos Working Group meeting
-1 | Reload 778 parts and 780 research events for locality 297
-1.5 | Reload 802 basic records, 913 parts and 802 research localities for localities 400-499
-
-
 ## 2020-05-13 Wednesday
 Hours | Work Description
 -- | --
