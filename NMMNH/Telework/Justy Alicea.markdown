@@ -278,3 +278,14 @@
 ## 5/14/20
 - Edit lab safety manual
 - OSHA online training
+
+
+## 5/15/20
+- Edit lab safety manual
+- OSHA online training
+
+## 5/18/20
+- Edit lab safety manual
+- OSHA online training
+- meeting with Brian
+- FOP meeting
