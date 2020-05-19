@@ -9,7 +9,7 @@ On Monday, April 13, the production instance of Arctos went down. Covid-19 restr
 
 On Tuesday, April 28, the production instance of Arctos was restored, but with the last available recoverable back-up from March 15, 2020. Numbers with lines through them represent data before the crash numbers without a line represent current data.
 
-Total records in Arctos: ~56,760~ 39,446  
+Total records in Arctos: ~56,760~ 63,336  
 Images Taken: 51  
 Taxa added to Arctos: ~327~ ?  
 Classifications added to Arctos: ~555~ ?  
@@ -22,8 +22,8 @@ Stat | Records	| % Complete
 Total Specimen Records	| 80,901 |	
 No data records	| (1,966)	| -2% | 
 **Total records to migrate**	| **78,935** | 	
-Records in Arctos	| ~41,646~ 22,434 |	~51%~ 28%
-Not yet loaded	| ~25,282~ 44,495 |	~31%~ 55%
+Records in Arctos	| ~41,646~ 30,564 |	~51%~ 38%
+Not yet loaded	| ~25,282~ 36,373 |	~31%~ 45%
 Locality Issues (unable to load)	| 13,970 |	18%
 *Records with Research Events*	| ~40,126~ ? |	~50%~ ?
 **Total Localities**	| **12,345** |	
@@ -34,13 +34,13 @@ Locality Issues (unable to load)	| 2,416 |	20%
 ## Geoscience
 ### Teresa
 **Complete**
-- Loaded  basic paleo records
-- Loaded 2,033 research events
-- Loaded 2,163 parts
+- Loaded 6,639 basic paleo records
+- Loaded 5,722 research events
+- Loaded 4,442 parts
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
- - Currently 2,418 paleo localities have an issue with either higher geography or stratigraphy which means that they cannot be loaded completely to Arctos. Issues for everything have been summarized for Nicole.
+ - 2,418 paleo localities that had an issue with either higher geography or stratigraphy have been prepared for upload to Arctos.
  - Standardizing Parts: almost there! Will soon provide a list to Nicole for things that need her help.
  - Writing data migration protocols
  - Submitted abstract for SPNHC - [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125)
@@ -110,6 +110,7 @@ Dropbox
 
 Register for virtual conference
 Teresa will present as planned
+Paula and Hannah will present specimen spotlights
 
 ### Social Media
 
