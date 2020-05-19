@@ -8,7 +8,7 @@ On Monday, April 13, the production instance of Arctos went down. Covid-19 restr
 
 On Tuesday, April 28, the production instance of Arctos was restored, but with the last available recoverable back-up from March 15, 2020. Numbers with lines through them represent data before the crash and numbers without a line represent current data.
 
-Total records in Arctos: ~56,760~ 39,446  
+Total records in Arctos: ~56,760~ 63,336  
 Images Taken: 51  
 Taxa added to Arctos: ~327~ ?  
 Classifications added to Arctos: ~555~ ?  
@@ -21,8 +21,8 @@ Stat | Records	| % Complete
 Total Specimen Records	| 80,901 |	
 No data records	| (1,966)	| -2% | 
 **Total records to migrate**	| **78,935** | 	
-Records in Arctos	| ~41,646~ 22,434 |	~51%~ 28%
-Not yet loaded	| ~25,282~ 44,495 |	~31%~ 55%
+Records in Arctos	| ~41,646~ 30,564 |	~51%~ 38%
+Not yet loaded	| ~25,282~ 36,373 |	~31%~ 45%
 Locality Issues (unable to load)	| 13,970 |	18%
 *Records with Research Events*	| ~40,126~ ? |	~50%~ ?
 **Total Localities**	| **12,345** |	
