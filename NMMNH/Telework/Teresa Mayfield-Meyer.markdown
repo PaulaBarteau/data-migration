@@ -1,5 +1,13 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-19 Tuesday
+Hours | Work Description
+-- | --
+2 | Digitzation Team meeting including preparation and follow-up
+3 | Reload  basic records for localities 
+2 | Reload 6,031 parts and 5,170 research localities for localities 646 and 900-1499
+1 | AWG SABI Grant Meeting
+
 ## 2020-05-18 Monday
 Hours | Work Description
 -- | --
