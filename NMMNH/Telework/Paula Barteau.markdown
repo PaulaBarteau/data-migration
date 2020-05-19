@@ -397,4 +397,4 @@ Hours | Work Description
 --|--
 2| email, house keeping,research, practice and drafting of SPNCH presentation
 1| Team meeting
-1| Finishing and uploading Parts table, contacted Kristin about scavenger hunt, meeting with Lindsey
+2| Finishing and uploading Parts table, contacted Kristin about scavenger hunt, meeting with Lindsey
