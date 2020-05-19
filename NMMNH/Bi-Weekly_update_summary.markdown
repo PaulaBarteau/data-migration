@@ -24,7 +24,7 @@ No data records	| (1,966)	| -2% |
 Records in Arctos	| ~41,646~ 30,564 |	~51%~ 38%
 Not yet loaded	| ~25,282~ 36,373 |	~31%~ 45%
 Locality Issues (unable to load)	| 13,970 |	18%
-*Records with Research Events*	| ~40,126~ ? |	~50%~ ?
+*Records with Research Events*	| ~40,126~ 24,655 |	~50%~ 30%
 **Total Localities**	| **12,345** |	
 Research Localities Loaded	| 9,929 |	80%
 Locality Issues (unable to load)	| 2,416 |	20%
