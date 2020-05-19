@@ -221,3 +221,10 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Zoom meeting with Teresa to discuss Arctos article
+
+## 2020-05-19 Tuesday
+Hours | Work Description
+-- | --
+1 | Create PP slide for Specimen Spotlight presentation
+1 | Digitization team meeting
+5 | Re-reading papers from Gary and Spencer, taking notes, re-working a new idea into a new article for Black Range Naturalist
