@@ -402,4 +402,4 @@ Hours | Work Description
 ## 2020-05-19
 Hours | Work Description
 --|--
-1.5| pursuing refund for SPNCH airbnb reservation
+2| pursuing refund for SPNCH airbnb reservation
