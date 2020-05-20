@@ -398,3 +398,8 @@ Hours | Work Description
 2| email, house keeping,research, practice and drafting of SPNCH presentation
 1| Team meeting
 2| Finishing and uploading Parts table, contacted Kristin about scavenger hunt, meeting with Lindsey
+
+## 2020-05-19
+Hours | Work Description
+--|--
+1.5| pursuing refund for SPNCH airbnb reservation
