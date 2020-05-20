@@ -1,12 +1,22 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-20 Wednesday
+Hours | Work Description
+-- | --
+1 | Arctos Taxonomy Committee meeting
+1 | Reload 2,271 basic records for localities 1500-2599
+3 | Arctos PG testing
+2 | Review Hannah's Article re-write
+1 | Corrections to remaining research localities for upload
+
 ## 2020-05-19 Tuesday
 Hours | Work Description
 -- | --
 2 | Digitzation Team meeting including preparation and follow-up
-3 | Reload  basic records for localities 
+2 | Review Hannah's Article re-write 
 2 | Reload 6,031 parts and 5,170 research localities for localities 646 and 900-1499
 1 | AWG SABI Grant Meeting
+1 | Arctos PG testing
 
 ## 2020-05-18 Monday
 Hours | Work Description
@@ -14,15 +24,15 @@ Hours | Work Description
 1 | Email and adds to Grant document
 2 | Test load records for localities 400-499 to PG
 3 | Reload 4,799 basic records for localities 646 and 900-1499
-2 | Prepare csvs for 6,031 parts and 5,170 research localities for localities 646 and 900-1499
+2 | Prepare csvs for 6,031 parts and 5,170 research events for localities 646 and 900-1499
 
 ## 2020-05-15 Friday
 Hours | Work Description
 -- | --
 3 | Review Hannah's article - add information from publications to specimen records
 1 | IMLS Grant discussions/research
-2 | Reload 1,038 basic records, 1,361 parts and 1,038 research localities for localities 500-699
-2 | Reload 1,069 basic records, 1,390 parts and 1,069 research localities for localities 700-899
+2 | Reload 1,038 basic records, 1,361 parts and 1,038 research events for localities 500-699
+2 | Reload 1,069 basic records, 1,390 parts and 1,069 research events for localities 700-899
 
 ## 2020-05-14 Thursday
 Hours | Work Description
@@ -30,7 +40,7 @@ Hours | Work Description
 4 | Adding formations to Arctos Geology Code Table and correcting localities for upload
 1.5 | Arctos Working Group meeting
 1 | Reload 778 parts and 780 research events for locality 297
-1.5 | Reload 802 basic records, 913 parts and 802 research localities for localities 400-499
+1.5 | Reload 802 basic records, 913 parts and 802 research events for localities 400-499
 
 ## 2020-05-13 Wednesday
 Hours | Work Description
