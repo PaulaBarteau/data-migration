@@ -122,20 +122,23 @@ Locality Issues (unable to load)	| 2,416 |	20%
  
 #### Lindsey
 ##### Benefits NMMNH Bioscience
- - Bulkloaded 2999 Herbarium specimen records
+ - Bulkloaded 3638 Herbarium specimen records
  - Marked Paulas 98 mollusc records to load, loaded
- - Deleted 98 mollusc records, some of them got scrambled so needed to delete. Paula will fix and re-upload
- - Approved and marked Paulas 521 Bird records to load, loaded many of them but some have errors. Let Paula know to fix.
- - Checked on Ortery light box order 11/15/2019
- - Sent Charles an email about the registrar workstation, the 4 inventory laptops, and the 2 digitization workstations. 11/15/2019
- - Bulk uploaded ~7000 arthropod records
+ - Approved and marked Paulas 521 Bird records to load, loaded many of them but some have errors. Lindsey Fixed
+ - Ordered, received and inventoried 98% of digtization eqiupment
+ - Bulkloaded ~7300 arthropod records
  - Researched alcohol arthropod digitzation techniques
+ - Mainting a running budget for the Grant
  - Bulk uploaded ~6000 mammal records
- - Researching and purchasing SPNHC trip flight and registration
  - Fixed 488 invertebrate agents
  - Uploaded tissued mammals
  - Fixed mollusc taxonomy to be able to upload into Arctos
- - Created and launched NM Backyard iNaturalist challenge
+ - Created and launched 3 NM Backyard iNaturalist challenges
+ - Hosting Digitization meetings
+ - Bulkloaded ~15400 Invertebrate/mollusc records
+ - Bulkloaded ~15400 Invertebrate/mollusc parts
+ - Fixed 200 unicode specific locality problems
+ 
 
 #### Paula
 ##### Benefits NMMNH Bioscience
