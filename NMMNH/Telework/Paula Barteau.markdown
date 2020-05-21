@@ -399,8 +399,14 @@ Hours | Work Description
 1| Team meeting
 2| Finishing and uploading Parts table, contacted Kristin about scavenger hunt, meeting with Lindsey
 
-## 2020-05-19
+## 2020-05-20
 Hours | Work Description
 --|--
 2| pursuing refund for SPNCH airbnb reservation
 1| Specimen Spotlight 
+
+## 2020-05-21
+Hours | Work Description
+--|--
+1| SPNCH Specimen Spotlight
+3| Arctos Conditions report training with Lindsey
