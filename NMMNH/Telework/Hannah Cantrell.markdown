@@ -228,3 +228,9 @@ Hours | Work Description
 1 | Create PP slide for Specimen Spotlight presentation
 1 | Digitization team meeting
 6 | Re-reading papers from Gary and Spencer, taking notes, re-working a new idea into a new article for Black Range Naturalist, sent the majority of it (still lacking a few things like conclusion and complete works cited) to Teresa for feedback
+
+## 2020-05-21 Thursday
+Hours | Work Description
+-- | --
+6 | Editing and formating Black Range article
+1 | Writing this week's Twitter post from a publication Spencer authored
