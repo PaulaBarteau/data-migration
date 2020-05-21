@@ -289,3 +289,18 @@
 - OSHA online training
 - meeting with Brian
 - FOP meeting
+
+
+## 5/19/20
+- OSHA online training
+- meeting with Mike Eklund
+- weekly digitization meeting
+- meeting with Brian
+- 3d printing followup
+
+
+## 5/20/20
+- Explore iDigBio
+- microscope display followup
+
+
