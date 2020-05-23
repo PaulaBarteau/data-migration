@@ -1,5 +1,21 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-22 Friday
+Hours | Work Description
+-- | --
+2 | Loaded remaining Paleo research and public localities
+3 | Arctos PG testing
+1 | Review Hannah's Article re-write
+2 | Final preparation of remaining public localities for upload
+
+## 2020-05-21 Thursday
+Hours | Work Description
+-- | --
+2 | Arctos Code Table Admins Committee meeting and follow up
+3 | Arctos PG testing
+1 | Review Hannah's Article re-write
+2 | Final preparation of remaining public localities for upload
+
 ## 2020-05-20 Wednesday
 Hours | Work Description
 -- | --
