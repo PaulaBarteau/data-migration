@@ -220,7 +220,7 @@ Hours | Work Description
 ## 2020-05-17 Sunday
 Hours | Work Description
 -- | --
-2.5 | Zoom meeting with Teresa to discuss Arctos article
+2.5 | Zoom meeting with Teresa to discuss Arctos article and begin to make edits and changes
 
 ## 2020-05-19 Tuesday
 Hours | Work Description
@@ -234,3 +234,8 @@ Hours | Work Description
 -- | --
 7.5 | Editing and formating Black Range article
 1 | Writing this week's Twitter post from a publication Spencer authored
+
+## 2020-05-25 Monday
+Hours | Work Description
+-- | --
+5 | Reply to Spencer and Gary on their edit suggestions for article, incorporate their edits, look over Nicole's suggestions and incorporate hers as well
