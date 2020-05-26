@@ -304,3 +304,22 @@
 - microscope display followup
 
 
+## 5/26/20
+- look over lab NMMMNHS Disaster plan binder 
+- Edit lab safety manual - bring in line w NMMNHS Disaster Plan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
