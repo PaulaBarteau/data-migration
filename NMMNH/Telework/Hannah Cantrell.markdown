@@ -243,4 +243,5 @@ Hours | Work Description
 ## 2020-05-26 Tuesday
 Hours | Work Description
 -- | --
-3.5 | Started writing specimen spotlight presentation, meeting with Nicole, checking and sending emails, submitting time, revising black range article
+4 | Started writing specimen spotlight presentation, meeting with Nicole, checking and sending emails, submitting time, revising black range article
+1 | Mineral attributes and parts
