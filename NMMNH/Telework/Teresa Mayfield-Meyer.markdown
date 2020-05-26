@@ -4,7 +4,9 @@
 Hours | Work Description
 -- | --
 1 | Reload 2,706 research events for localities 1300-1499 and 3,210 parts and 2,513 research events for localities 1500-2599
-2 | Correct public localities 100-110
+5 | Correct public localities 100-150
+1 | Publication and research for NMMNH:Paleo:9049
+1 | Attend Arctos webinar
 
 ## 2020-05-25 Monday 
 Memorial Day Holiday
