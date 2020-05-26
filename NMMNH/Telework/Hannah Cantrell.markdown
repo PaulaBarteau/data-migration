@@ -239,3 +239,8 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 5 | Reply to Spencer and Gary on their edit suggestions for article, incorporate their edits, look over Nicole's suggestions and incorporate hers as well
+
+## 2020-05-26 Tuesday
+Hours | Work Description
+-- | --
+3.5 | Started writing specimen spotlight presentation, meeting with Nicole, checking and sending emails, submitting time, revising black range article
