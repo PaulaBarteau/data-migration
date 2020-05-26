@@ -1,5 +1,14 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-26 Tuesday
+Hours | Work Description
+-- | --
+1 | Reload 2,706 research events for localities 1300-1499 and 3,210 parts and 2,513 research events for localities 1500-2599
+2 | Correct public localities 100-110
+
+## 2020-05-25 Monday 
+Memorial Day Holiday
+
 ## 2020-05-22 Friday
 Hours | Work Description
 -- | --
@@ -30,7 +39,7 @@ Hours | Work Description
 -- | --
 2 | Digitzation Team meeting including preparation and follow-up
 2 | Review Hannah's Article re-write 
-2 | Reload 6,031 parts and 5,170 research localities for localities 646 and 900-1499
+2 | Reload 6,031 parts and 5,170 research events for localities 646 and 900-1499
 1 | AWG SABI Grant Meeting
 1 | Arctos PG testing
 
