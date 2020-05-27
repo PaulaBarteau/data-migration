@@ -419,8 +419,15 @@ Hours | Work Description
 2| Sorting Condition report media
 
 
-18hrs
 ## 2020-05-26
 Hours | Work Description
 --|--
 4| Sorting Condition report media
+
+## 2020-05-27
+Hours | Work Description
+--|--
+2| photographing A Walk Through New Mexico
+1| uploading/sorting social media
+
+
