@@ -410,3 +410,13 @@ Hours | Work Description
 --|--
 1| SPNCH Specimen Spotlight
 3| Arctos Conditions report training with Lindsey
+
+## 2020-05-22
+Hours | Work Description
+--|--
+2| Condition report
+
+## 2020-05-26
+Hours | Work Description
+2| Condition report
+--|--
