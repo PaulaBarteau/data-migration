@@ -1,5 +1,13 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-27 Wednesday
+Hours | Work Description
+-- | --
+1 | Test bulkload browser tool in ArctosPG
+5.5 | Correct public localities 151-199 and 4129-4167, plus a few others that were entered before localities were uploaded.
+.5 | Review Hannah's article
+1 | email, timesheet, and other admin
+
 ## 2020-05-26 Tuesday
 Hours | Work Description
 -- | --
