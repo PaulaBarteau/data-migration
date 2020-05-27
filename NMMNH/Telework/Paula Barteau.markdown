@@ -361,7 +361,7 @@ Hours | Work Description
 --|--
 1 | Parts Table
 1 | Poppy Presentation Research
-1.25| Team Meeting
+1 | Team Meeting
 
 
 ## 2020-05-13
@@ -384,6 +384,8 @@ Hours | Work Description
 1| Argemone poppy research
 1| Parts Table
 1| Parts Table
+
+15hrs
 
 ## 2020-05-18
 Hours | Work Description
@@ -414,9 +416,11 @@ Hours | Work Description
 ## 2020-05-22
 Hours | Work Description
 --|--
-2| Condition report
+2| Sorting Condition report media
 
+
+18hrs
 ## 2020-05-26
 Hours | Work Description
 --|--
-3| Condition report
+4| Sorting Condition report media
