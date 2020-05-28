@@ -249,6 +249,6 @@ Hours | Work Description
 ## 2020-05-28 Thursday
 Hours | Work Description
 -- | --
-1.5 | Final edits in to article, read over article one last time for any mistakes, submit article to Bob Barnes- Black Range Naturalist
-1.5 | Finish Specimen Spotlight presentation for SPNHC, practice it
-2 | Mineral attributes and parts
+3 | Final edits in to article, read it over one last time for any mistakes, submit article to Bob Barnes- Black Range Naturalist
+1.5 | Finish Specimen Spotlight presentation for SPNHC, practice it, email Paula about setting up a time to practice specimen spotlight with team
+.5 | Mineral attributes and parts
