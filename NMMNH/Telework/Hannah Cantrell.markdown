@@ -245,3 +245,10 @@ Hours | Work Description
 -- | --
 4 | Started writing specimen spotlight presentation, meeting with Nicole, checking and sending emails, submitting time, revising black range article
 1 | Mineral attributes and parts
+
+## 2020-05-28 Thursday
+Hours | Work Description
+-- | --
+1.5 | Final edits in to article, read over article one last time for any mistakes, submit article to Bob Barnes- Black Range Naturalist
+1.5 | Finish Specimen Spotlight presentation for SPNHC, practice it
+2 | Mineral attributes and parts
