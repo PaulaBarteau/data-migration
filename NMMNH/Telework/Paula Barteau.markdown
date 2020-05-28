@@ -431,3 +431,7 @@ Hours | Work Description
 1| uploading/sorting social media
 
 
+## 2020-05-28
+Hours | Work Description
+--|--
+2 | A Walk through New Mexico scavenger hunt, Social Media post for next week, Governer's Address, email
