@@ -309,14 +309,21 @@
 - Edit lab safety manual - bring in line w NMMNHS Disaster Plan
 
 
+## 5/27/20
+- Edit lab safety manual 
+- scheduled password resets
+- review ideas for covid reopening best practices
 
 
+## 5/28/20
+- meeting with Brian
+- review Lindseys covid collections procedures
+- Edit lab covid reopening protocol - bring in line w Lindseys collections procedures
+- Posted reopening protocol in shared drive folder
 
 
-
-
-
-
+## 5/29/20
+- Edit lab safety manual - bring in line w NMMNHS Disaster Plan
 
 
 
