@@ -435,4 +435,5 @@ Hours | Work Description
 Hours | Work Description
 --|--
 2 | A Walk through New Mexico scavenger hunt, Social Media post for next week, Governer's Address, email
-1.5 | organizing images for AWTHNM scavenger hunt 
+1.5 |organizing images for AWTHNM scavenger hunt 
+.5| poppy presentation practice
