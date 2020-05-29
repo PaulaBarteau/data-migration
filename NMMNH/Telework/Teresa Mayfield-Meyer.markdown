@@ -1,5 +1,14 @@
 # NMMNH Telework - Teresa
 
+## 2020-05-29 Friday 
+Personal Day
+
+## 2020-05-28 Thursday
+Hours | Work Description
+-- | --
+7 | SPNHC Presentation research
+1 | Parts discussion with Nicole
+
 ## 2020-05-27 Wednesday
 Hours | Work Description
 -- | --
