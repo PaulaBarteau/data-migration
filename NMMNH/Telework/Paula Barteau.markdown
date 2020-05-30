@@ -442,3 +442,4 @@ Hours | Work Description
 Hours | Work Description
 --|--
 .5| Poppy Presentation Practice
+.5| AWTNM scavenger hunt
