@@ -1,5 +1,11 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-01 Monday
+Hours | Work Description
+-- | --
+7 | SPNHC Presentation research
+1 | Arctos PG corrections and GitHub monitoring
+
 ## 2020-05-29 Friday 
 Personal Day
 
