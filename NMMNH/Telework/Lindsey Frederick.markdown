@@ -378,6 +378,14 @@ Hours | Work Description
 6 | Bulkloading and troubleshooting mollusc files, got 5423 records uploaded, MOOLLLUSCS DONE WOOO
 1 | Bulkloading and troubleshooting mammal non tissue files, getting started
 
+## 2020-06-1
+Hours | Work Description
+-- | --
+1 | Checking email
+4| Participating in iDigBio Conference
+3 | Bulkloading and troubleshooting mammal non tissue files parts/attributes
+
+
 
 
 
