@@ -326,7 +326,11 @@
 - Edit lab safety manual - bring in line w NMMNHS Disaster Plan
 
 
-
+## 6/1/20
+- Edit lab covid reopening protocol - final version
+- meeting w Mike Eklund - Microscope followup
+- Edit lab safety manual - bring in line w NMMNHS Disaster Plan
+- Meeting w Gary Morgan
 
 
 
