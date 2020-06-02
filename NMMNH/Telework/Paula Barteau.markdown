@@ -465,4 +465,8 @@ Hours | Work Description
 Hours | Work Description
 --|--
 1.5| Poppy Presentation Practice 
+1 | Scavenger Hunt
+1 | Poppy Presentation Practice
+1 | Team Meeting
+.5| Meeting with Lindsey
 
