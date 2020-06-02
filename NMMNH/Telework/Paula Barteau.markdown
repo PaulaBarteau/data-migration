@@ -454,9 +454,15 @@ Attend SPNCH training on thursday the 4th
 Attend team meeting
 Work on Scavenger Hunt
 
-## 2020-05-29
+## 2020-06-01
 Hours | Work Description
 --|--
 1| Writing Social Media Post & housekeeping
 1.5| Poppy presentation practice
 1.5| Photographing AWTNM and uploading photographs
+
+## 2020-06-01
+Hours | Work Description
+--|--
+1.5| Poppy Presentation Practice 
+
