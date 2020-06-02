@@ -8,7 +8,7 @@ On Monday, April 13, the production instance of Arctos went down. Covid-19 restr
 
 On Tuesday, April 28, the production instance of Arctos was restored, but with the last available recoverable back-up from March 15, 2020. Numbers with lines through them represent data before the crash and numbers without a line represent current data.
 
-Total records in Arctos: ~56,760~ 63,336  
+Total records in Arctos: ~56,760~ 65,607  
 Images Taken: 51  
 Taxa added to Arctos: ~327~ ?  
 Classifications added to Arctos: ~555~ ?  
@@ -21,13 +21,13 @@ Stat | Records	| % Complete
 Total Specimen Records	| 80,901 |	
 No data records	| (1,966)	| -2% | 
 **Total records to migrate**	| **78,935** | 	
-Records in Arctos	| ~41,646~ 30,564 |	~51%~ 38%
-Not yet loaded	| ~25,282~ 36,373 |	~31%~ 45%
-Locality Issues (unable to load)	| 13,970 |	18%
-*Records with Research Events*	| ~40,126~ 24,655 |	~50%~ 30%
+Records in Arctos	| ~41,646~ 32,835 |	~51%~ 41%
+Not yet loaded	| ~25,282~ 48,072 |	~31%~ 59%
+Locality Issues (unable to load)	| 0 |	0%
+*Records with Research Events*	| ~40,126~ 27,119 |	~50%~ 34%
 **Total Localities**	| **12,345** |	
-Research Localities Loaded	| 9,929 |	80%
-Locality Issues (unable to load)	| 2,416 |	20%
+Research Localities Loaded	| 12,345 |	100%
+Locality Issues (unable to load)	| 0 |	0%
 *Specimen-less localities*	| 3,732 |	30%
 
 ## Completed by Person
@@ -49,34 +49,37 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Bulkloaded 245 Geology Attribute terms to be used as new locality attributes.
  - Added definitions for 108 part names in the <a href="https://arctos.database.museum/info/ctDocumentation.cfm?table=CTSPECIMEN_PART_NAME">Arctos Part Name Code Table<a/>.
  - Worked with Arctos programmer to create a new method for encumbering all locality data.
+ - Assisted with migration of Arctos from Oracle to PostgreSQL 
    
 ##### Benefits NMMNH Geoscience
- - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators.
- - Tested bulkload of research localities and collecting events with Arctos programmer.
- - Bulkloaded 56,760 specimen records with public and research events
- - Bulkloaded 115 non-conforming Agents to Arctos
- - Bulkloaded 9,928 research localities to Arctos
- - Bulkloaded 9,928 public localities to Arctos
- - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload
- - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload
- - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload
- - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload
- - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging
- - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or -
- - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown)
- - reviewed 459 non-conforming taxon names
- - Created [Google form](https://docs.google.com/forms/d/18NnbuItBYoY3m8m-B-PQMguOOxpK1Qx7BJ9L7BwrAMY/viewform?edit_requested=true) for capturing publication information.
+ - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators. 
+ - Tested bulkload of research localities and collecting events with Arctos programmer. 
+ - Bulkloaded 56,760 specimen records with public and research events 
+ - Bulkloaded 115 non-conforming Agents to Arctos 
+ - Bulkloaded 12,345 research localities to Arctos 
+ - Bulkloaded 12,345 public localities to Arctos 
+ - Normalized and sent 604 "Site Found By" locality attributes to Arctos DBA for upload 
+ - Normalized and sent 2,482 "Site Found Date" locality attributes to Arctos DBA for upload 
+ - Normalized and sent 12,188 "Site Identifier" locality attributes to Arctos DBA for upload 
+ - Normalized and sent 478 "TRS Aliquot" locality attributes to Arctos DBA for upload 
+ - Acquired paleo imaging protocols/workflows from Yale Peabody - stored in N:\GeoScience\Arctos\Imaging 
+ - Claimed barcodes for all collections: NMMNH followed by up to 12 numeric or text characters plus _ or - 
+ - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown) 
+ - reviewed 459 non-conforming taxon names 
+ - Created [Google form](https://docs.google.com/forms/d/18NnbuItBYoY3m8m-B-PQMguOOxpK1Qx7BJ9L7BwrAMY/viewform?edit_requested=true) for capturing publication information. 
  
 #### Nicole
-##### Benefits all Arctos Collections
- - Created the bulkload for 115 non-conforming Agent names
- - Since beginning of project has created 530 agents in Arctos (256 bulkloaded, 274 entered individually)
- - Researched and provided information for 66 geology terms
+##### Benefits all Arctos Collections 
+ - Created the bulkload for 115 non-conforming Agent names 
+ - Since beginning of project has created 530 agents in Arctos (256 bulkloaded, 274 entered individually) 
+ - Researched and provided information for 66 geology terms 
 
 ##### Benefits NMMNH Geoscience
- - Reviewed and provided corrected higher geography for 544 localities
- - Reviewed and provided corrected Faunal Zones for 537 localities
- - Reviewed and provided corrected Stratigraphic data for 309 localities
+ - Reviewed and provided corrected higher geography for 544 localities 
+ - Reviewed and provided corrected Faunal Zones for 537 localities 
+ - Reviewed and provided corrected Stratigraphic data for 309 localities 
+ - Researched and corrected geology attributes for 2,416 localities 
+ - Reviewed and provided standardized names for 1,860 parts 
  
 #### Hannah
 ##### Benefits all Arctos Collections
@@ -96,6 +99,7 @@ Locality Issues (unable to load)	| 2,416 |	20%
  - Twitter post written about the Oreodont
  - 1,800 mineral localities complete 
  - Twitter post written for Fossil Friday
+ - Wrote article for Black Range Naturalist
 
 #### Lucius
 ##### Benefits all Arctos Collections
