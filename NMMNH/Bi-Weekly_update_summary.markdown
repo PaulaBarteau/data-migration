@@ -132,29 +132,31 @@ Locality Issues (unable to load)	| 0 |	0%
  - Ordered, received and inventoried 98% of digtization eqiupment
  - Bulkloaded ~7300 arthropod records
  - Researched alcohol arthropod digitzation techniques
- - Mainting a running budget for the Grant
- - Bulk uploaded ~6000 mammal records
+ - Maintaining a running budget for the Grant
+   - estimating costs for budget exention until end of September
+ - Bulk uploaded ~6000 mammal records that Teresa downloaded from MSB
  - Fixed 488 invertebrate agents
- - Uploaded tissued mammals
  - Fixed mollusc taxonomy to be able to upload into Arctos
  - Created and launched 3 NM Backyard iNaturalist challenges
    - NM Backyard Biodiversity Challenge https://www.inaturalist.org/projects/nm-backyard-biodiversity-challenge?tab=stats
    - NM Backyard Angiosperm Biodiversity https://www.inaturalist.org/projects/nm-backyard-angiosperm-biodiversity?tab=stats
    - NM Backyard Bird Biodiversity https://www.inaturalist.org/projects/nm-backyard-bird-biodiversity?tab=stats
- - Hosting Digitization meetings
+ - Hosting weekly Digitization meetings
  - Bulkloaded ~15400 Invertebrate/mollusc records
  - Bulkloaded ~15400 Invertebrate/mollusc parts
  - Fixed 200 unicode specific locality problems
+ - Bulkloaded ~419 non-tissued mammals
+ - Supported, edited and tweeted 28 Bioscience tweets since November 2019 to the end of May 2020
+ - Worked with Andrea and other social media temp staff to get 4 posts onto the main Facebook page during March/April/May 2020
  
 
 #### Paula
 ##### Benefits NMMNH Bioscience
- - Entered 520 bird records manually
+ - Entered 520 bird records through the Data Entry Screen in Arctos
  - Bulkloaded 98 mollusc records
  - Edited bird issues - locality and dates
- - Pictures of 4 birds for loan to SMNHC
- - Photographed 4 bird specimens for loan
- - Photographed 2 insect specimens with temporary and current lables for potential format change
+ - Photographed 4 bird specimens for loan to SMNHC
+ - Photographed 2 insect specimens with temporary and current labels for potential format change
  - Photographed 8 Birds for report
  - Photographed 12 skulls and shells in light box.
  - Photographed several different kinds of plant for contrast between light stand and light box image quality
