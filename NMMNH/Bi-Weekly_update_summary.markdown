@@ -138,6 +138,9 @@ Locality Issues (unable to load)	| 0 |	0%
  - Uploaded tissued mammals
  - Fixed mollusc taxonomy to be able to upload into Arctos
  - Created and launched 3 NM Backyard iNaturalist challenges
+   - NM Backyard Biodiversity Challenge https://www.inaturalist.org/projects/nm-backyard-biodiversity-challenge?tab=stats
+   - NM Backyard Angiosperm Biodiversity https://www.inaturalist.org/projects/nm-backyard-angiosperm-biodiversity?tab=stats
+   - NM Backyard Bird Biodiversity https://www.inaturalist.org/projects/nm-backyard-bird-biodiversity?tab=stats
  - Hosting Digitization meetings
  - Bulkloaded ~15400 Invertebrate/mollusc records
  - Bulkloaded ~15400 Invertebrate/mollusc parts
