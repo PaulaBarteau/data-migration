@@ -40,7 +40,7 @@ Locality Issues (unable to load)	| 0 |	0%
 - Loaded 10,389 research events
 - Loaded 9,241 parts
 - Loaded 2,416 research and 2,416 public localities
-- Assisted with migration of Arctos from Oracle to PostgreSQL
+- Assisted with migration of Arctos from Oracle to PostgreSQL 
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
@@ -63,6 +63,7 @@ Locality Issues (unable to load)	| 0 |	0%
 
 **In Process**
  - Editing and researching mineral locality missing information
+ - Specimen Spotlight Presentation research, writing, and practice
  
 ## Bioscience
 ### Teresa
@@ -78,21 +79,16 @@ Locality Issues (unable to load)	| 0 |	0%
 
 **In Process**
  - Fixing remaining arthropod and mammal issues
- - Get mollusc records into bulkload format
- - Fix Higher geography of mollusc records
- - Fixing dates in mollusc records for bulkload format
  - Getting non-tissued mammal records into Arctos ~450
- - checking in on everyone's travel for SPNHC
   
 ### Paula
 **Complete**
-
+- Mollusc parts table
 
 **In Process**
  - Persuing refunds for SPNCH accomodations and travel 
  - Ongoing: documentation of "A Walk Through New Mexico" exhibit for digital curation.
  - Ongoing: Social Media for interaction during quarentine
- - Mollusc parts table
  - Specimen Spotlight Presentation research, writing, and practice
  
 ## Meeting Discussion Topics
