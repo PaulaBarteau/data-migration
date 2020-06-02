@@ -459,3 +459,4 @@ Hours | Work Description
 --|--
 1| Writing Social Media Post & housekeeping
 1.5| Poppy presentation practice
+1.5| Photographing AWTNM and uploading photographs
