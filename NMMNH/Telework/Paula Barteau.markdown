@@ -472,4 +472,6 @@ Hours | Work Description
 
 ## 2020-06-03
 2| Poppy Presentation Practice & Social Media post
+2| Uploading media for Family Tides exhibit
+1| Meetings w/ Teresa and Lindsey to make sure I wasn't screwing up the mollusk parts for Family Tides.
 
