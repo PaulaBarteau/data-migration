@@ -461,7 +461,7 @@ Hours | Work Description
 1.5| Poppy presentation practice
 1.5| Photographing AWTNM and uploading photographs
 
-## 2020-06-01
+## 2020-06-02
 Hours | Work Description
 --|--
 1.5| Poppy Presentation Practice 
@@ -469,4 +469,7 @@ Hours | Work Description
 1 | Poppy Presentation Practice
 1 | Team Meeting
 .5| Meeting with Lindsey
+
+## 2020-06-03
+2| Poppy Presentation Practice & Social Media post
 
