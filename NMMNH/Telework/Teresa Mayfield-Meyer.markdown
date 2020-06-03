@@ -1,5 +1,11 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-03 Wednesday
+Hours | Work Description
+-- | --
+6 | SPNHC Presentation prep
+2 | Arctos PG migration
+
 ## 2020-06-02 Tuesday
 Hours | Work Description
 -- | --
