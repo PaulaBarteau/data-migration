@@ -4,6 +4,13 @@
 Hours | Work Description
 -- | --
 5 | SPNHC Presentation prep
+2 | Arctos Issues Meeting
+1 | Unload 1,363 records for localities 2600-2799 - initial load had problems
+
+## 2020-06-03 Wednesday
+Hours | Work Description
+-- | --
+5 | SPNHC Presentation prep
 2 | Arctos PG migration
 1 | Reloaded 1,363 records for localities 2600-2799
 
