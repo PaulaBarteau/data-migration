@@ -483,3 +483,7 @@ Hours | Work Description
 1 | Poppy Presentation Practice and Presenter Training Zoom Meeting.
 1 | Condition Report Media and Parts
 
+## 2020-06-03
+Hours | Work Description
+--|--
+1| Condition Report media.
