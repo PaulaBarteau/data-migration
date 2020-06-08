@@ -323,14 +323,69 @@
 
 
 ## 5/29/20
-- Edit lab safety manual - bring in line w NMMNHS Disaster Plan
-
+- Edit lab safety manual
+- OSHA online training
 
 ## 6/1/20
 - Edit lab covid reopening protocol - final version
 - meeting w Mike Eklund - Microscope followup
 - Edit lab safety manual - bring in line w NMMNHS Disaster Plan
 - Meeting w Gary Morgan
+
+
+## 6/2/20
+- Email Lannois
+- Sign HR forms for Gary
+- Weekly digitization meeting
+- idigbio conference abstracts review
+
+
+## 6/3/20
+- Meeting with Mike Eklund - Microscope followup
+- meeting with Lannois
+- Review of DCA Division Covid Aware Operating Guidelines
+- reading material from idigbio conference
+
+
+## 6/4/20
+- Review of DCA Division Covid Aware Operating Guidelines
+- Edit lab covid reopening protocol - Bring in line w DCA Operating Guidelines
+- Answered Operating guidelines plan questions; sent to Gary Romero
+
+
+## 6/5/20
+- edits to prep manual
+- meeting with Brian
+- Edit lab safety manual - bring in line w NMMNHS Disaster Plan
+
+
+## 6/8/20
+- edits to prep manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
