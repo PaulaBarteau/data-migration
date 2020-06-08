@@ -1,13 +1,20 @@
 # NMMNH Telework - Teresa
 
-## 2020-06-03 Friday
+## 2020-06-08 Monday
+Hours | Work Description
+-- | --
+2 | Taxa and agents for localities 3000-5399
+2 | Prepare 15,123 records for localities 3000-5399, sent to Dusty for loading
+4 | SPNHC
+
+## 2020-06-05 Friday
 Hours | Work Description
 -- | --
 5 | Paleo Taxa
 2 | Prepare and load 1,745 research events for locality 345
 1 | Re-load 1,363 records for localities 2600-2799 - initial load had problem
 
-## 2020-06-03 Thursday
+## 2020-06-04 Thursday
 Hours | Work Description
 -- | --
 5 | SPNHC Presentation prep
