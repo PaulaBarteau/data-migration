@@ -477,13 +477,19 @@ Hours | Work Description
 2| Uploading media for Family Tides exhibit
 1| Meetings w/ Teresa and Lindsey to make sure I wasn't screwing up the mollusk parts for Family Tides.
 
-## 2020-06-03
+## 2020-06-04
 Hours | Work Description
 --|--
 1 | Poppy Presentation Practice and Presenter Training Zoom Meeting.
 1 | Condition Report Media and Parts
 
-## 2020-06-03
+## 2020-06-05
 Hours | Work Description
 --|--
 1| Condition Report media.
+
+
+## 2020-06-08
+Hours | Work Description
+--|--
+4.5| SPNCH Meetings
