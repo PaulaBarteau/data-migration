@@ -497,7 +497,10 @@ Hours | Work Description
 ## 2020-06-09
 Hours | Work Description
 --|--
-1.5| SPNCH Talks
+1.5| SPNCH Talks\
+2| Photographing, uploading, writing social media posts for this week
+1| Team meeting
+
 
 - Take pictures of AWTNM
 -Practice Presentation
