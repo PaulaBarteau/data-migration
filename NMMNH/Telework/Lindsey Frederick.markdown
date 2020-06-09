@@ -382,8 +382,30 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 1 | Checking email
-4| Participating in iDigBio Conference
+4 | Participating in iDigBio Conference
 3 | Bulkloading and troubleshooting mammal non tissue files parts/attributes
+
+## 2020-06-2
+Hours | Work Description
+-- | --
+1 | Checking email
+5 | Participating in iDigBio Conference
+1 | Hosting Webex Digitization meeting
+1 | Meeting with Paula
+
+## 2020-06-8
+Hours | Work Description
+-- | --
+1 | Checking email
+7 | Participating in SPNHC conference
+
+## 2020-06-9
+Hours | Work Description
+-- | --
+1 | Checking email
+4 | Participating in SPNHC conference
+1 | Creating past in-house loans
+
 
 
 
