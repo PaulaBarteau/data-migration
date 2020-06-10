@@ -500,6 +500,7 @@ Hours | Work Description
 1.5| SPNCH Talks\
 2| Photographing, uploading, writing social media posts for this week
 1| Team meeting
+1| SPNCH talks, Latin America Collections
 
 
 - Take pictures of AWTNM
