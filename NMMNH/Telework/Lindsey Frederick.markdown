@@ -405,6 +405,7 @@ Hours | Work Description
 1 | Checking email
 4 | Participating in SPNHC conference
 1 | Creating past in-house loans
+2 | hosting Webex meeting and discussions after
 
 
 
