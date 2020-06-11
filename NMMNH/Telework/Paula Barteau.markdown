@@ -507,3 +507,12 @@ Hours | Work Description
 -Practice Presentation
 -Attend Team Meeting
 -Write social media posts
+
+
+## 2020-06-11
+Hours | Work Description
+--|--
+1| SPNCH Education Share Fair
+
+-practice presentation @ 5
+-Write Scavenger hunt hints 
