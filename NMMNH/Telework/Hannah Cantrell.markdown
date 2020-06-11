@@ -252,3 +252,8 @@ Hours | Work Description
 3 | Final edits in to article, read it over one last time for any mistakes, submit article to Bob Barnes- Black Range Naturalist
 1.5 | Finish Specimen Spotlight presentation for SPNHC, practice it, email Paula about setting up a time to practice specimen spotlight with team
 .5 | Mineral attributes and parts
+
+## 2020-06-01 Monday thorough 2020-06-05
+Hours | Work Description
+-- | --
+15 | Leave
