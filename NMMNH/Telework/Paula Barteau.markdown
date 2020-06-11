@@ -513,6 +513,8 @@ Hours | Work Description
 Hours | Work Description
 --|--
 1| SPNCH Education Share Fair
+1| Presentation practice and editing
+2| Scavanger hunt
 
 -practice presentation @ 5
 -Write Scavenger hunt hints 
