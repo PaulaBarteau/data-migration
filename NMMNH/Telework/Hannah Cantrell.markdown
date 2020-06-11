@@ -253,7 +253,14 @@ Hours | Work Description
 1.5 | Finish Specimen Spotlight presentation for SPNHC, practice it, email Paula about setting up a time to practice specimen spotlight with team
 .5 | Mineral attributes and parts
 
-## 2020-06-01 Monday thorough 2020-06-05
+## 2020-06-01 Monday through 2020-06-05 Friday
 Hours | Work Description
 -- | --
 15 | Leave
+
+## 2020-06-11 Thursday
+Hours | Work Description
+-- | --
+6 | SPNHC, shutdownstem resources
+1 | Add some material to Specimen Spotlight presentation and practice on my own
+1 | Practice meeting for specimen spotlight
