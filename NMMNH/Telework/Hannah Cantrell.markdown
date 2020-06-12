@@ -264,3 +264,9 @@ Hours | Work Description
 6 | SPNHC, shutdownstem resources
 1 | Add some material to Specimen Spotlight presentation and practice on my own
 1 | Practice meeting for specimen spotlight
+
+## 2020-06-12 Monday
+Hours | Work Description
+-- | --
+3.5 | SPNHC presentations, revise some edits to Black Range Article, practice Specimen Spotlight presentation 
+3.5 | SPNHC specimen spotlight presentations, my specimen spotlight presentation, emerging professionals meeting with SPNHC
