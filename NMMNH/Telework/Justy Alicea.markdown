@@ -363,17 +363,26 @@
 - edits to prep manual
 
 
+## 6/9/20
+- edits to prep manual
+- weekly digitization meeting
+- OSHA online training
 
 
+## 6/10/20
+- OSHA online training
+- Second of 3 microscope RFPs filled and sent to Lucas/Sandoval Endowment
 
 
+## 6/11/20
+- Corrections and finalization of Sandoval Endowment RFP
+- update email for lab volunteers
+- OSHA online training
+- Practice presentation meeting
 
 
-
-
-
-
-
+## 6/12/20
+- State govt survey
 
 
 
