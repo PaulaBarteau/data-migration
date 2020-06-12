@@ -520,3 +520,8 @@ Hours | Work Description
 
 -practice presentation @ 5
 -Write Scavenger hunt hints 
+
+## 2020-06-11
+Hours | Work Description
+--|--
+2| SPNCH Talks and Presentation Practice
