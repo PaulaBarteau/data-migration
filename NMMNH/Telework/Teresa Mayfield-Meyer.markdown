@@ -1,5 +1,11 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-15 Monday
+Hours | Work Description
+-- | --
+7 | Preparing records from localities 5400-12345 for loading (taxonomy)
+1 | email, GitHub, correcting higher geogrpahy for locality 5500
+
 ## 2020-06-12 Friday 
 Personal Day
 
