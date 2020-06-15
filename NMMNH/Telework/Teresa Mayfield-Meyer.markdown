@@ -1,5 +1,25 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-12 Friday 
+Personal Day
+
+## 2020-06-11 Thursday
+Hours | Work Description
+-- | --
+6 | Preparing records from localities 5400-12345 for loading
+2 | SPNHC
+
+## 2020-06-10 Wednesday
+Hours | Work Description
+-- | --
+8 | SPNHC
+
+## 2020-06-09 Tuesday
+Hours | Work Description
+-- | --
+2 | Load 15,123 records for localities 3000-5399
+6 | SPNHC
+
 ## 2020-06-08 Monday
 Hours | Work Description
 -- | --
