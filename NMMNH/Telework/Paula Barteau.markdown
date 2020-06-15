@@ -525,3 +525,4 @@ Hours | Work Description
 Hours | Work Description
 --|--
 2| SPNCH Talks and Presentation Practice
+5| Specimen Spotlight Participationa and Presentation, STACH, Emerging Professional's social.
