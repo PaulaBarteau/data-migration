@@ -521,10 +521,22 @@ Hours | Work Description
 -practice presentation @ 5
 -Write Scavenger hunt hints 
 
-## 2020-06-11
+## 2020-06-12
 Hours | Work Description
 --|--
 2| SPNCH Talks and Presentation Practice
 5| Specimen Spotlight Participationa and Presentation, STACH, Emerging Professional's social.
 
 24 Hours
+
+15-19
+-Finish Scavenger Hunt
+-Work on Media Upload
+-Record Specimen Spotlight
+-Start Curiosity Corespondant video plans & Corespondance
+-Take pictures for 
+
+## 2020-06-15
+Hours | Work Description
+--|--
+2| Meeting with Lindsey, Prioritization of new and current projects, Planning social media feed, collection update and planning, etc..
