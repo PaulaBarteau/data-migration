@@ -270,3 +270,10 @@ Hours | Work Description
 -- | --
 3.5 | SPNHC presentations, revise some edits to Black Range Article, practice Specimen Spotlight presentation 
 3.5 | SPNHC specimen spotlight presentations, my specimen spotlight presentation, emerging professionals meeting with SPNHC
+
+## 2020-06-16 Tuesday
+Hours | Work Description
+-- | --
+2 | Make edits to article for final publication in July, check emails and reply, organize some notes and resources I saved from SPNHC conference
+5 | Mineral attributes
+1 | Digitization team webex meeting
