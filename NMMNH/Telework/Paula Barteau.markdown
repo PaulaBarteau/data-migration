@@ -541,3 +541,9 @@ Hours | Work Description
 --|--
 2| Meeting with Lindsey, Prioritization of new and current projects, Planning social media feed, collection update and planning, etc..
 1| Taking photos and writing social media posts for this and next week.
+2| Writing & editing scavenger hunt
+
+## 2020-06-16
+Hours | Work Description
+--|--
+1.5| Scavenger hunt
