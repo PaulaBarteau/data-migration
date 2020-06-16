@@ -547,3 +547,4 @@ Hours | Work Description
 Hours | Work Description
 --|--
 1.5| Scavenger hunt
+1| Scavenger hunt & Digitization Team Meeting
