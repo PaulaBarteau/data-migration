@@ -275,5 +275,6 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2 | Make edits to article for final publication in July, check emails and reply, organize some notes and resources I saved from SPNHC conference
-4 | Mineral attributes
-2 | Digitization team Webex meeting, taking SPNHC survey, recording specimen spotlight presentation to upload to Arctos
+4.5 | Mineral attributes
+.5 | Digitization team Webex meeting taking SPNHC survey, recording specimen spotlight presentation to upload to Arctos
+1 | taking SPNHC survey, recording specimen spotlight presentation to upload to Arctos
