@@ -383,13 +383,23 @@
 
 ## 6/12/20
 - State govt survey
+- replied to museum guest email
+- read up on New Mexico paleontology
 
 
+## 6/15/20
+- notified security that I would be on site later
+- dust extractor servicing email followup
+- Went in to the museum to receive and move new portable dust extractors into fossil works
+- checked gage readings on dust extractor in annex prep lab
 
 
-
-
-
+## 6/16/20
+- dust extractor servicing email followup
+- replied to museum guest email
+- start draft of next update email for lab volunteers
+- read up on New Mexico paleontology
+- meeting with Brian
 
 
 
