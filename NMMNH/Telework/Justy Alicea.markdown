@@ -402,7 +402,10 @@
 - meeting with Brian
 
 
-
+## 6/17/20
+- email thread w Kristin
+- edits to next update email for lab volunteers
+- begin draft of staff update volunteer meeting presentation
 
 
 
