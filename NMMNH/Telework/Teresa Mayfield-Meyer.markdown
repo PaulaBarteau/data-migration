@@ -1,5 +1,18 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-17 Wednesday
+Hours | Work Description
+-- | --
+4 | Preparing records from localities 5400-12345 for loading (taxonomy)
+2 | Preparing records from localities 5400-12345 for loading (agents) - file uploaded for Dusty
+1 | Arctos Taxonomy Committee Meeting
+
+## 2020-06-16 Tuesday
+Hours | Work Description
+-- | --
+7 | Preparing records from localities 5400-12345 for loading (taxonomy)
+1 | email, GitHub
+
 ## 2020-06-15 Monday
 Hours | Work Description
 -- | --
