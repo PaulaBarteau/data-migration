@@ -548,3 +548,9 @@ Hours | Work Description
 --|--
 1.5| Scavenger hunt
 1| Scavenger hunt & Digitization Team Meeting
+
+
+## 2020-06-17
+Hours | Work Description
+--|--
+1| Family Tides Media upload
