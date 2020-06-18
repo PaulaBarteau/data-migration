@@ -1,9 +1,16 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-18 Thursday
+Hours | Work Description
+-- | --
+5 | Preparing research events from localities 5400-12345 for loading (agents and coordinates)
+2 | Arctos Code Table Committee Meeting
+1 | Call with Lindsey - locality change notifications and specimen spotlights
+
 ## 2020-06-17 Wednesday
 Hours | Work Description
 -- | --
-4 | Preparing records from localities 5400-12345 for loading (taxonomy)
+5 | Preparing records from localities 5400-12345 for loading (taxonomy)
 2 | Preparing records from localities 5400-12345 for loading (agents) - file uploaded for Dusty
 1 | Arctos Taxonomy Committee Meeting
 
