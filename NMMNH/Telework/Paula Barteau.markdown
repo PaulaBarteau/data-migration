@@ -562,3 +562,8 @@ Hours | Work Description
 --|--
 2| Family Tides Media
 3| AWTHNM scavenger hunt
+
+## 2020-06-19
+Hours | Work Description
+--|--
+1| Family Tides Media
