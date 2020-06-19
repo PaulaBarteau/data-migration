@@ -408,6 +408,12 @@
 - begin draft of staff update volunteer meeting presentation
 
 
+## 6/18/20
+- continue presentation draft for staff update volunteer meeting
+- edits to next update email for lab volunteers
 
 
+## 6/19/20
+- continue presentation draft for staff update volunteer meeting
+- wrote letter of recommendation for colleague
 
