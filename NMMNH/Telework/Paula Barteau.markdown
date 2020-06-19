@@ -561,4 +561,4 @@ Hours | Work Description
 Hours | Work Description
 --|--
 2| Family Tides Media
-2.5| AWTHNM scavenger hunt
+3| AWTHNM scavenger hunt
