@@ -1,5 +1,13 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-19 Friday
+Hours | Work Description
+-- | --
+2 | Load research events from localities 3000-5399
+4 | Load records from localities 5400-12345
+2 | SPNHC presentation rework for postponed session
+
+
 ## 2020-06-18 Thursday
 Hours | Work Description
 -- | --
