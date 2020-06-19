@@ -278,3 +278,11 @@ Hours | Work Description
 5 | Mineral attributes
 .5 | Digitization team Webex meeting 
 .5 | Taking SPNHC survey
+
+## 2020-06-19 Friday
+Hours | Work Description
+-- | --
+2 | Re-do edits on Black Range article because my previous file with edits wouldn't open. Sent the final edits to Bob Barnes, editor of Black Range Naturalist.
+2 | Watch the environmental scan video from LORD and NMMNHS
+
+.5 | Taking SPNHC survey
