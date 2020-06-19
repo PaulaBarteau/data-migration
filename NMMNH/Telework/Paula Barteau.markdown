@@ -566,4 +566,4 @@ Hours | Work Description
 ## 2020-06-19
 Hours | Work Description
 --|--
-1| Family Tides Media
+1.5| Family Tides Media
