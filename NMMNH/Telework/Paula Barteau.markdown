@@ -567,3 +567,10 @@ Hours | Work Description
 Hours | Work Description
 --|--
 1.5| Family Tides Media
+.5 | Scavanger hunt workshopping
+
+16.5
+
+## 2020-06-22
+Hours | Work Description
+--|--
