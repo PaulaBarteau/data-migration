@@ -290,4 +290,6 @@ Hours | Work Description
 Hours | Work Description
 -- | --
 2 | Watched Teresa's presentation and SPNHC symposium
-
+1 | Webex meeting with Nicole
+4 | Mineral attributes
+1 | Digitization team meeting
