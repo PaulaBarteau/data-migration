@@ -8,7 +8,7 @@ On Monday, April 13, the production instance of Arctos went down. Covid-19 restr
 
 On Tuesday, April 28, the production instance of Arctos was restored, but with the last available recoverable back-up from March 15, 2020. Numbers with lines through them represent data before the crash and numbers without a line represent current data.
 
-Total records in Arctos: ~56,760~ 65,607  
+Total records in Arctos: ~56,760~ 104,872  
 Images Taken: 51  
 Taxa added to Arctos: ~327~ ?  
 Classifications added to Arctos: ~555~ ?  
@@ -20,11 +20,11 @@ Stat | Records	| % Complete
 -- | -- | --
 Total Specimen Records	| 80,901 |	
 No data records	| (1,966)	| -2% | 
-**Total records to migrate**	| **78,935** | 	
-Records in Arctos	| ~41,646~ 32,835 |	~51%~ 41%
-Not yet loaded	| ~25,282~ 48,072 |	~31%~ 59%
+**Total records to migrate**	| **78,940** | 	
+Records in Arctos	| ~41,646~ 71,680 |	~51%~ 91%
+Not yet loaded	| ~25,282~ 9,860 |	~31%~ 9%
 Locality Issues (unable to load)	| 0 |	0%
-*Records with Research Events*	| ~40,126~ 27,119 |	~50%~ 34%
+*Records with Research Events*	| ~40,126~ 42,293 |	~50%~ 53.5%
 **Total Localities**	| **12,345** |	
 Research Localities Loaded	| 12,345 |	100%
 Locality Issues (unable to load)	| 0 |	0%
@@ -54,7 +54,7 @@ Locality Issues (unable to load)	| 0 |	0%
 ##### Benefits NMMNH Geoscience
  - Completed "Manage Collection" for Paleo and Geol adding museum logo to record header and details for future publication to aggregators. 
  - Tested bulkload of research localities and collecting events with Arctos programmer. 
- - Bulkloaded 56,760 specimen records with public and research events 
+ - Bulkloaded 42,293 specimen records with public and research events 
  - Bulkloaded 115 non-conforming Agents to Arctos 
  - Bulkloaded 12,345 research localities to Arctos 
  - Bulkloaded 12,345 public localities to Arctos 
@@ -67,6 +67,7 @@ Locality Issues (unable to load)	| 0 |	0%
  - [Written procedures for creating localities](https://github.com/ArctosDB/data-migration/blob/master/NMMNH/NMMNH_New_Locality.markdown) 
  - reviewed 459 non-conforming taxon names 
  - Created [Google form](https://docs.google.com/forms/d/18NnbuItBYoY3m8m-B-PQMguOOxpK1Qx7BJ9L7BwrAMY/viewform?edit_requested=true) for capturing publication information. 
+ - Presented [Data Management Strategies for the Extended Specimen](https://github.com/ArctosDB/SPNHC/issues/33#issuecomment-586483125) at virtual SPNHC Symposium
  
 #### Nicole
 ##### Benefits all Arctos Collections 
