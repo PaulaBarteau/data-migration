@@ -581,4 +581,10 @@ Hours | Work Description
 ## 2020-06-22
 Hours | Work Description
 2| Family Tides Media
+1| Digitization team meeting- Are we getting paid after the 30th? Need to know. + Meeting with Lindsey.
+
+Week plan:
+Create backlog of social media posts
+Update grant numbers, social media posts and Arctos media
+Try to get family tides all in by the 30th
 
