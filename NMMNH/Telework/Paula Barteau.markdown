@@ -577,3 +577,7 @@ Hours | Work Description
 1.5| Family Tides Media
 1 | Emails: Scavenger hunt, contacting people for specimen stories for curriosity correspondant series
 .5| Family Tides Media
+
+## 2020-06-22
+Hours | Work Description
+1| Family Tides Media
