@@ -35,7 +35,7 @@ Locality Issues (unable to load)	| 0 |	0%
 ### Teresa
 **Complete**
 - Loaded 15,123 research localities
-- Loaded  basic paleo records
+- Loaded 23,044 basic paleo records
  
 **In Process**
  - Loading records for localities bulkloaded to Arctos
