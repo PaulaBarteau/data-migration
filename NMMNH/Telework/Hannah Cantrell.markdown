@@ -285,3 +285,9 @@ Hours | Work Description
 2 | Re-do edits on Black Range article because my previous file with edits wouldn't open. Sent the final edits to Bob Barnes, editor of Black Range Naturalist.
 2 | Watch the environmental scan video from LORD and NMMNHS
 4 | Watch SPNHC 2020 Tuesday session 4 and session 2
+
+## 2020-06-12 Monday
+Hours | Work Description
+-- | --
+2 | Watched Teresa's presentation and SPNHC symposium
+
