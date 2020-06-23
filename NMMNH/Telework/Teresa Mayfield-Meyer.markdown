@@ -1,5 +1,16 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-23 Tuesday
+Hours | Work Description
+-- | --
+3 | SPNHC Symposium
+2 | Digitization team meeting prep, meet and follow-up
+1 | Arctos Steering Committee Meeting
+2 | Preparing research events from localities 5400-12345 for loading (coordinates)
+
+## 2020-06-22 Monday
+Personal Day
+
 ## 2020-06-19 Friday
 Hours | Work Description
 -- | --
