@@ -592,3 +592,4 @@ Try to get family tides all in by the 30th
 Hours | Work Description
 1| Family Tides Media
 1| Photographing A Walk Through New Mexico for social media
+1| Uploading photos and wriing social media posts
