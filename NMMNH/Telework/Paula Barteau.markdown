@@ -578,7 +578,7 @@ Hours | Work Description
 1 | Emails: Scavenger hunt, contacting people for specimen stories for curriosity correspondant series
 .5| Family Tides Media
 
-## 2020-06-22
+## 2020-06-24
 Hours | Work Description
 2| Family Tides Media
 1| Digitization team meeting- Are we getting paid after the 30th? Need to know. + Meeting with Lindsey.
@@ -588,3 +588,6 @@ Create backlog of social media posts
 Update grant numbers, social media posts and Arctos media
 Try to get family tides all in by the 30th
 
+## 2020-06-24
+Hours | Work Description
+1| Family Tides Media
