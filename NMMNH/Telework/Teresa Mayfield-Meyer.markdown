@@ -1,5 +1,13 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-24 Wednesday
+Hours | Work Description
+-- | --
+1 | Load 14 records from localities 3000-5399 (final cleanup)
+2 | Prepare remaining records for localities 1-5399 with previous issues
+3 | Taxonomy for remaining records for localities 1-5399 with previous issues
+2 | Load 669 records for localities 5400-12345 after accessions entered
+
 ## 2020-06-23 Tuesday
 Hours | Work Description
 -- | --
