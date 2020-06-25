@@ -1,5 +1,12 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-25 Thursday
+Hours | Work Description
+-- | --
+4 | Taxonomy for remaining records for localities 1-5399 with previous issues
+2 | Clean up of collection object remarks field for localities 1-5399 with previous issues
+2 | Load 25,357 research events for localities 5400-12345
+
 ## 2020-06-24 Wednesday
 Hours | Work Description
 -- | --
