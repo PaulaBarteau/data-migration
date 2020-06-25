@@ -593,3 +593,7 @@ Hours | Work Description
 1| Family Tides Media
 1| Photographing A Walk Through New Mexico for social media
 1| Uploading photos and wriing social media posts
+
+## 2020-06-25
+Hours | Work Description
+2.5 | Family Tides Media and emails
