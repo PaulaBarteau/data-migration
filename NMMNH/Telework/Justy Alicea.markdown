@@ -417,3 +417,25 @@
 - continue presentation draft for staff update volunteer meeting
 - wrote letter of recommendation for colleague
 
+
+## 6/22/20
+- continue presentation draft for staff update volunteer meeting
+- Look over examples of Prep lab board reports
+
+
+## 6/23/20
+- First draft of prep lab board report
+- weekly digitization team meeting
+- continue presentation draft for staff update volunteer meeting
+- 3d printing followup
+
+
+## 6/24/20
+- Monthly departmental meeting
+- 3D printing followup - sent Malaney the exact 3d printer order list
+- continue presentation draft for staff update volunteer meeting
+- continue draft of prep lab board report
+
+
+
+
