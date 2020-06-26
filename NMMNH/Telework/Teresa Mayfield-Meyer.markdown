@@ -1,5 +1,12 @@
 # NMMNH Telework - Teresa
 
+## 2020-06-26 Friday
+Hours | Work Description
+-- | --
+4 | Load 6,465 records for localities 1-5399 with previous issues
+2 | Reconciliation of records loaded to record count in Arctos
+2 | Load 7,372 research events for localities 1-5399 with previous issues
+
 ## 2020-06-25 Thursday
 Hours | Work Description
 -- | --
