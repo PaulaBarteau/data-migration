@@ -597,3 +597,8 @@ Hours | Work Description
 ## 2020-06-25
 Hours | Work Description
 2.5 | Family Tides Media and emails
+
+## 2020-06-26
+Hours | Work Description
+.5| Family Tides Media
+
