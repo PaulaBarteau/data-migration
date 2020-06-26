@@ -601,5 +601,5 @@ Hours | Work Description
 ## 2020-06-26
 Hours | Work Description
 1.5| Family Tides Media
-1.5| Research on peccaries for social media series.
+2| Research and writing on peccaries for social media series.
 
