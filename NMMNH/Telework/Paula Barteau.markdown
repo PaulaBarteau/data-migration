@@ -116,6 +116,8 @@ Hours | Work Description
 1| Edited and submitted ideas for Grant
 1| Worked on Photography Instructions for PPM
 
+16hr
+
 - Week Objectives
 - by Friday, develop tentative plan for Promotional Photography and Garden Exhibit Digitization Community Out Reach for new grant \,
 - Work out other ideas for new Grant \,
@@ -229,6 +231,7 @@ Hours | Work Description
 -- | --
 3.5 | Transcribing mollusc issues from catalog pages into excel sheet
 
+15 hrs
 
 ## 2020-04-13
 Hours | Work Description
@@ -418,6 +421,7 @@ Hours | Work Description
 --|--
 2| Sorting Condition report media
 
+18 hr
 
 ## 2020-05-26
 Hours | Work Description
@@ -445,6 +449,7 @@ Hours | Work Description
 .5| AWTNM scavenger hunt
 .5| Poppy Presentation Practice\
 
+12.5 hr
 
 Week 6/1-5
 Condition Reoport Media
@@ -487,6 +492,8 @@ Hours | Work Description
 Hours | Work Description
 --|--
 1| Condition Report media.
+
+17 hr
 
 
 ## 2020-06-08
@@ -603,3 +610,10 @@ Hours | Work Description
 1.5| Family Tides Media
 2| Research and writing on peccaries for social media series.
 
+15 hr
+
+Next week-
+Relate plants to exhibit for scavenger hunt
+write social media posts
+write curiosity correspondant posts
+continue with Family Tides
