@@ -286,10 +286,17 @@ Hours | Work Description
 2 | Watch the environmental scan video from LORD and NMMNHS
 4 | Watch SPNHC 2020 Tuesday session 4 and session 2
 
-## 2020-06-12 Monday
+## 2020-06-23 Tuesday
 Hours | Work Description
 -- | --
 2 | Watched Teresa's presentation and SPNHC symposium
 1 | Webex meeting with Nicole
 4 | Mineral attributes
 1 | Digitization team meeting
+
+## 2020-06-26 Friday
+Hours | Work Description
+-- | --
+5 | Mineral attributes
+
+
