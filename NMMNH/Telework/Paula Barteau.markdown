@@ -617,3 +617,7 @@ Relate plants to exhibit for scavenger hunt
 write social media posts
 write curiosity correspondant posts
 continue with Family Tides
+
+## 2020-06-29
+Hours | Work Description
+1| Family Tides
